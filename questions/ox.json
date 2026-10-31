@@ -61,7 +61,7 @@
 	},
   	{
     "type": "OX",
-    "question": "日本で一番人口が多い都道府県は東京都である",
+    "question": "日本で一番人口が多い都道府県は\\w東京都である",
     "answer": "O",
     "difficulty": "EASY"
   },
@@ -73,7 +73,13 @@
   },
   {
     "type": "OX",
-    "question": "太陽は東から昇り西に沈む",
+    "question": "太陽は\\w東から昇り西に沈む",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+	{
+    "type": "OX",
+    "question": "太陽は\\w西から昇り東に沈む",
     "answer": "O",
     "difficulty": "EASY"
   },
@@ -97,13 +103,19 @@
   },
   {
     "type": "OX",
-    "question": "エベレストはアジア大陸にある",
+    "question": "エベレストは\\wアジア大陸にある",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
     "type": "OX",
-    "question": "日本の通貨単位は「円」である",
+    "question": "日本の通貨単位は\\w「円」である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+	  {
+    "type": "OX",
+    "question": "日本の通貨単位は\\w「元」である",
     "answer": "O",
     "difficulty": "EASY"
   },
@@ -139,19 +151,19 @@
   },
   {
     "type": "OX",
-    "question": "元素記号「Fe」は鉄を表す",
+    "question": "元素記号「Fe」は\\w鉄を表す",
     "answer": "O",
     "difficulty": "NORMAL"
   },
   {
     "type": "OX",
-    "question": "元素記号「Au」は銀を表す",
+    "question": "元素記号「Au」は\\w銀を表す",
     "answer": "X",
     "difficulty": "NORMAL"
   },
   {
     "type": "OX",
-    "question": "日本の最北端の都道府県は北海道である",
+    "question": "日本の最北端の都道府県は\\w北海道である",
     "answer": "O",
     "difficulty": "EASY"
   },
