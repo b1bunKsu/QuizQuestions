@@ -306,5 +306,19 @@
 		"hint": "乾酪",
 		"answer": "チーズ",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ズルズルと啜って食べます",
+		"hint": "蕎麦",
+		"answer": "そば",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ズルズルと啜って食べます",
+		"hint": "饂飩",
+		"answer": "うどん",
+		"difficulty": "NORMAL"
 	}
 ]
