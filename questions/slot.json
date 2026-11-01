@@ -207,5 +207,38 @@
 			"本人"
 		],
 		"difficulty": "HARD"
+	},
+	{
+		"type": "SLOT",
+		"question": "英語で「sine」と呼ばれる三角関数といえば何？",
+		"choices": [
+			"正弦",
+			"余限",
+			"円接",
+			"関割"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "SLOT",
+		"question": "英語で「cosine」と呼ばれる三角関数といえば何？",
+		"choices": [
+			"余弦",
+			"正限",
+			"円接",
+			"関割"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "SLOT",
+		"question": "英語で「tangent」と呼ばれる三角関数といえば何？",
+		"choices": [
+			"正接",
+			"余限",
+			"円弦",
+			"関割"
+		],
+		"difficulty": "HARD"
 	}
 ]
