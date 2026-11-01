@@ -375,6 +375,17 @@
 	},
 	{
 		"type": "CHOICE",
+		"question": "供給が一定で需要が減少した場合、一般に価格はどうなる？",
+		"choices": [
+			"下落する",
+			"上昇する",
+			"必ず一定になる",
+			"必ずゼロになる"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CHOICE",
 		"question": "日本の中央銀行はどれ？",
 		"choices": [
 			"日本銀行",
