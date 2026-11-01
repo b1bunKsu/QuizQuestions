@@ -327,5 +327,12 @@
 		"hint": "漸化式",
 		"answer": "ぜんかしき",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "船を人力で進めるための棒状の船具",
+		"hint": "櫂",
+		"answer": "かい",
+		"difficulty": "NORMAL"
 	}
 ]
