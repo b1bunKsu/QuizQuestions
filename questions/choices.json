@@ -573,7 +573,7 @@
 	},
 	{
 		"type": "CHOICE",
-		"question": "次のうち、OpenAIが提供している生成AIは\\w『ChatGPT』ですが、\\w\nGoogleが提供している生成AIはどれ？",
+		"question": "次のうち、OpenAIが提供している生成AIは\\w\n『ChatGPT』ですが、\\w\nGoogleが提供している生成AIはどれ？",
 		"choices": [
 			"Gemini",
 			"Grok",
@@ -584,7 +584,7 @@
 	},
 	{
 		"type": "CHOICE",
-		"question": "次のうち、Googleが提供している生成AIは\\w『Gemini』ですが、\\w\nMicrosoftが提供している生成AIはどれ？",
+		"question": "次のうち、Googleが提供している生成AIは\\w\n『Gemini』ですが、\\w\nMicrosoftが提供している生成AIはどれ？",
 		"choices": [
 			"Copilot",
 			"Grok",
