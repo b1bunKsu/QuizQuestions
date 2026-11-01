@@ -293,5 +293,82 @@
 			"はやぶさ2号帰還"
 		],
 		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の元素を原子番号が小さい順に並べなさい。",
+		"choices": [
+			"炭素",
+			"酸素",
+			"ナトリウム",
+			"鉄"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の日本の都道府県を、都道府県庁所在地の市の人口が多い順に並べなさい。",
+		"choices": [
+			"東京都",
+			"大阪府",
+			"愛知県",
+			"福岡県"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の歴史上の出来事を起こった年が古い順に並べなさい。",
+		"choices": [
+			"鎌倉幕府の成立",
+			"応仁の乱",
+			"関ヶ原の戦い",
+			"明治維新"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の長さの単位を、長いものから短いものへ並べなさい。",
+		"choices": [
+			"キロメートル",
+			"メートル",
+			"センチメートル",
+			"ミリメートル"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の日本の山を標高が高い順に並べなさい。",
+		"choices": [
+			"富士山",
+			"北岳",
+			"奥穂高岳",
+			"槍ヶ岳"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の数学の数を大きい順に並べなさい。",
+		"choices": [
+			"2の5乗",
+			"3の3乗",
+			"5の2乗",
+			"4の2乗"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "ORDER",
+		"question": "次の出来事を、起こった年が古い順に並べなさい。",
+		"choices": [
+			"アメリカ独立宣言",
+			"フランス革命",
+			"第一次世界大戦の開始",
+			"第二次世界大戦の開始"
+		],
+		"difficulty": "NORMAL"
 	}
 ]
