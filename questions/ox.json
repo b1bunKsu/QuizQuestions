@@ -68,7 +68,7 @@
 	{
 		"type": "OX",
 		"question": "ブラジルの首都は\\wブラジリアである",
-		"answer": "X",
+		"answer": "O",
 		"difficulty": "NORMAL"
 	},
 	{
