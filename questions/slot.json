@@ -240,5 +240,137 @@
 			"関割"
 		],
 		"difficulty": "HARD"
+	},
+	{
+		"type": "SLOT",
+		"question": "日本の首都はどこ？",
+		"choices": [
+			"東京都",
+			"大阪府",
+			"京都県",
+			"北海道"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "SLOT",
+		"question": "日本で最も長い川は「〇〇川」？",
+		"choices": [
+			"信濃",
+			"利根",
+			"石狩",
+			"天竜"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "SLOT",
+		"question": "日本で最も高い山は「◯◯山」？",
+		"choices": [
+			"富士",
+			"阿蘇",
+			"筑波",
+			"北岳"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "SLOT",
+		"question": "日本で最も北に位置する都道府県はどれ？",
+		"choices": [
+			"北海道",
+			"青森県",
+			"岩手府",
+			"秋田都"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "SLOT",
+		"question": "日本の伝統的な麺料理で、そば粉を主な原料とするものは？",
+		"choices": [
+			"蕎麦",
+			"饂飩",
+			"素麺",
+			"冷食"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "SLOT",
+		"question": "日本の国技として知られ、土俵の上で力士が戦う競技は？",
+		"choices": [
+			"相撲",
+			"柔道",
+			"剣道",
+			"空手"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "SLOT",
+		"question": "日本で一般的に、マリオの職業として知られるものは？",
+		"choices": [
+			"配管工",
+			"警察官",
+			"消防士",
+			"料理人"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "SLOT",
+		"question": "ジャムおじさんが心をこめて作ったあんパンに「いのちのほし」が宿って生まれた、顔があんパンでできているヒーローといえば？",
+		"choices": [
+			"アンパンマン",
+			"ショクパンマ",
+			"カレーカトリ",
+			"バイキンカゼ"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "SLOT",
+		"question": "血液中で酸素を運ぶ役割を持つ赤い色素は？",
+		"choices": [
+			"ヘモグロビン",
+			"ミオミツナレ",
+			"ソラテキフム",
+			"ネリワコサド"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "SLOT",
+		"question": "多くの楽器奏者が集まり、指揮者のもとで演奏する大規模な合奏団は？",
+		"choices": [
+			"オーケストラ",
+			"カラミネソフ",
+			"ツメホワキヌ",
+			"サユトコハリ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "SLOT",
+		"question": "三角形の内角の和は何度？",
+		"choices": [
+			"180",
+			"235",
+			"562",
+			"897"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "SLOT",
+		"question": "振動数や周波数の単位は？",
+		"choices": [
+			"ヘルツ",
+			"タンイ",
+			"ハイト",
+			"ブラー"
+		],
+		"difficulty": "NORMAL"
 	}
 ]
