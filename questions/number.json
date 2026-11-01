@@ -4,5 +4,59 @@
 		"question": "警察に緊急通報する際にかける電話番号は何番？数字で答えなさい。",
 		"answer": "110",
 		"difficulty": "EASY"
+	},
+	{
+		"type": "NUMBER",
+		"question": "火事や救急搬送を要請する際にかける緊急通報番号は何番？数字で答えなさい。",
+		"answer": "119",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "NUMBER",
+		"question": "円周率πの小数点以下を最初の5桁は何？数字で答えなさい。",
+		"answer": "14159",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "アポロ11号が人類初の月面着陸を成功させた西暦年は何年？数字で答えなさい。",
+		"answer": "1969",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "水の化学式は何？大文字のアルファベットと数字で答えなさい。",
+		"answer": "H2O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "二酸化炭素の化学式は何？大文字のアルファベットと数字で答えなさい。",
+		"answer": "CO2",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "日本の国際電話で使用される国番号は何番？数字で答えなさい。",
+		"answer": "81",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "光速は秒速約何キロメートル？数字で答えなさい。",
+		"answer": "300000",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "NUMBER",
+		"question": "うるう年でない1年の日数は何日？数字で答えなさい。",
+		"answer": "365",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "NUMBER",
+		"question": "水素を表す記号は何？大文字のアルファベットで答えなさい。",
+		"answer": "H",
+		"difficulty": "NORMAL"
 	}
 ]
