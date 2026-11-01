@@ -238,5 +238,17 @@
 		"question": "代表曲に『明日の私に幸あれ』『ダダダダ天使』がある歌手",
 		"answer": "ナナヲアカリ",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "分子やエネルギーの「乱雑さ」を表す量",
+		"answer": "エントロピー",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "物質が持つエネルギー量を表す量",
+		"answer": "エンタルピー",
+		"difficulty": "NORMAL"
 	}
 ]
