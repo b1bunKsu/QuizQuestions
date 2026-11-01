@@ -98,7 +98,7 @@
 		{
 		"type": "OX",
 		"question": "桜の花びらは必ず\\w6枚である",
-		"answer": "O",
+		"answer": "X",
 		"difficulty": "EASY"
 	},
 	{
