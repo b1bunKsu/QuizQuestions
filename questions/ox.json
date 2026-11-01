@@ -116,7 +116,7 @@
 	  {
     "type": "OX",
     "question": "日本の通貨単位は\\w「元」である",
-    "answer": "O",
+    "answer": "X",
     "difficulty": "EASY"
   },
   {
