@@ -320,5 +320,12 @@
 		"hint": "饂飩",
 		"answer": "うどん",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "数列の隣り合う項や前の項との関係を数式で表したもの",
+		"hint": "漸化式",
+		"answer": "ぜんかしき",
+		"difficulty": "NORMAL"
 	}
 ]
