@@ -49,7 +49,7 @@
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "ゲーム『Minecraft』を開発している会社は「◯◯◯◯◯◯ Studio」？",
+		"question": "ゲーム『Minecraft』を開発している会社は\n「◯◯◯◯◯◯ Studio」？",
 		"answer": "Mojang",
 		"difficulty": "EASY"
 	},
@@ -97,7 +97,7 @@
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "Microsoftが提供するクラウドコンピューティングサービスといえば「Microsoft 〇〇〇〇〇」？",
+		"question": "Microsoftが提供するクラウドコンピューティングサービスといえば\n「Microsoft 〇〇〇〇〇」？",
 		"answer": "Azure",
 		"difficulty": "NORMAL"
 	},
