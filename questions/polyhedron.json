@@ -250,5 +250,11 @@
 		"question": "物質が持つエネルギー量を表す量",
 		"answer": "エンタルピー",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "アニメ『ご注文はうさぎですか？』に登場する喫茶店",
+		"answer": "ラビットハウス",
+		"difficulty": "NORMAL"
 	}
 ]
