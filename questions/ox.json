@@ -488,7 +488,7 @@
 	{
 		"type": "OX",
 		"question": "日本の国鳥は\\wトキである",
-		"answer": "O",
+		"answer": "X",
 		"difficulty": "HARD"
 	}
 ]
