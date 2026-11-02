@@ -178,5 +178,173 @@
 		"question": "コンピューター上で動作するプログラムやデータをまとめたものを何という？",
 		"answer": "ソフトウェア",
 		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『ファイナルファンタジーVII』の主人公の名前は？",
+		"answer": "クラウド",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『ペルソナ5』に登場する、主人公たちが結成する怪盗団の名前は？",
+		"answer": "心の怪盗団",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『ソニック・ザ・ヘッジホッグ』シリーズの主人公の名前は？",
+		"answer": "ソニック",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『UNDERTALE』に登場する、骨の姿をしたキャラクターの名前は？",
+		"answer": "サンズ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "プログラミングにおいて、条件に応じて処理を分岐させる構文を何という？",
+		"answer": "条件分岐",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "プログラムの中で、同じ処理を繰り返し実行することを何という？",
+		"answer": "ループ処理",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "Javaなどのオブジェクト指向言語において、データと処理をまとめた設計図を何という？",
+		"answer": "クラス",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "コンピューターが一時的にデータを保存するために使用する主記憶装置を何という？",
+		"answer": "メモリ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "コンピューターの起動時に、ハードウェアを初期化するための基本的なプログラムを何という？",
+		"answer": "BIOS",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "太陽の表面で発生する、大規模な爆発現象を何という？",
+		"answer": "太陽フレア",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "地球の周囲を取り巻く、磁場が広がっている領域を何という？",
+		"answer": "磁気圏",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "地震の際に、最初に到達する小さな揺れを何という？",
+		"answer": "初期微動",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "フランス革命の際に掲げられた、自由・平等・友愛を意味する標語は？",
+		"answer": "自由平等友愛",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "古代エジプトで使用されていた、象形文字の一種を何という？",
+		"answer": "ヒエログリフ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "問題を解決するための手順を、明確な規則に従って記述したものを何という？",
+		"answer": "アルゴリズム",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "コーヒーに泡立てたミルクを加えて作る、イタリア発祥の飲み物は？",
+		"answer": "カプチーノ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "成層圏に多く存在し、太陽からの有害な紫外線を吸収するものは「〇〇〇層」？",
+		"answer": "オゾン",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "古代ギリシャの数学者で、『原論』を著した人物は？",
+		"answer": "ユークリッド",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "14世紀ごろのイタリアで始まり、古代ギリシャ・ローマの文化を復興しようとした運動を何という？",
+		"answer": "ルネサンス",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "火山活動によって形成された、円形または馬蹄形の大きなくぼ地を何という？",
+		"answer": "カルデラ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "放物面を利用して電波を特定の方向に集めるアンテナを何という？",
+		"answer": "パラボラアンテナ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "電流を増幅したり、スイッチとして利用したりする半導体素子を何という？",
+		"answer": "トランジスタ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "フランスのパリに建設された、鉄骨構造の有名な塔の名前は？",
+		"answer": "エッフェル塔",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "南米大陸を流れ、流域面積が世界最大級である川は「〇〇〇〇川」？",
+		"answer": "アマゾン",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "クリミア戦争で負傷兵の看護に尽力し、「近代看護の母」と呼ばれる人物は？",
+		"answer": "ナイチンゲール",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "明治政府が1875年にロシアとの間で締結し、樺太と千島列島の領有関係を定めた条約は？",
+		"answer": "樺太千島交換条約",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "日本の伝統的な遊びで、数字の書かれた札を使い、読み札に対応する札を取るものは？",
+		"answer": "百人一首",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "物体が音速を超える際に発生する衝撃波に伴う、特徴的な大きな音を何という？",
+		"answer": "ソニックブーム",
+		"difficulty": "HARD"
 	}
 ]
