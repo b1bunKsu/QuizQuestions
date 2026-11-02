@@ -1,1 +1,182 @@
-
+[
+	{
+		"type": "OX",
+		"question": "ブルーアーカイブの舞台となる都市の名前はキヴォトスである",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "先生が所属する連邦捜査部の名前はS.C.H.A.L.E.である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "砂狼シロコはアビドス高等学校に所属している",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "空崎ヒナはトリニティ総合学園に所属している",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "陸八魔アルが所属する学園はゲヘナ学園である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "アビドス高等学校の対策委員会には小鳥遊ホシノが所属している",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "黒見セリカはアビドス高等学校の3年生である",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "十六夜ノノミはアビドス高等学校の2年生である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "奥空アヤネはアビドス高等学校の対策委員会に所属している",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "便利屋68のメンバーには浅黄ムツキがいる",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "鬼方カヨコはゲヘナ学園の風紀委員会に所属している",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "銀鏡イオリはゲヘナ学園の風紀委員会に所属している",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "阿慈谷ヒフミはミレニアムサイエンススクールに所属している",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "アロナはS.C.H.A.L.E.に関係するキャラクターである",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "キヴォトスでは、各学園がそれぞれ独立した自治区域を持っている",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "アビドス高等学校は、砂漠化によって生徒数が減少している学園である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "ブルーアーカイブでは、プレイヤーは先生として生徒たちを導く立場にある",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "キヴォトスの全学園は、ゲヘナ学園の指揮下に置かれている",
+		"answer": "X",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "総生徒会長の失踪は、キヴォトスで起こる物語の重要な背景の一つである",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "S.C.H.A.L.E.は、総生徒会長の失踪以前から存在していた最古の部活である",
+		"answer": "X",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "ブルーアーカイブの戦闘は、リアルタイムで進行する形式を採用している",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "小鳥遊ホシノの誕生日は1月2日である",
+		"answer": "O",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "砂狼シロコの誕生日は5月16日である",
+		"answer": "O",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "黒見セリカの誕生日は6月25日である",
+		"answer": "O",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "空崎ヒナはゲヘナ学園の風紀委員長である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "天雨アコはゲヘナ学園の風紀委員会に所属している",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "ブルーアーカイブの開発元はNEXON Gamesである",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "ブルーアーカイブの日本版は2021年2月にサービスを開始した",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "『エデン条約編』はアビドス高等学校を中心としたメインストーリーである",
+		"answer": "X",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "『時計じかけの花のパヴァーヌ編』はミレニアムサイエンススクールに関係するメインストーリーである",
+		"answer": "O",
+		"difficulty": "HARD"
+	}
+]
