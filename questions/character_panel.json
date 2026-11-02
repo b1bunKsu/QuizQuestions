@@ -1,7 +1,7 @@
 [
 	{
 		"type": "CHARACTER_PANEL",
-		"question": "ある数xを2乗してaになるとき、xをaの何と言うでしょう？",
+		"question": "ある数xを2乗してaになるとき、xをaの何という？",
 		"answer": "平方根",
 		"choices": [
 			"部",
@@ -517,5 +517,124 @@
   "answer": "導関数",
   "choices": ["微", "分", "係", "数", "導", "関", "計", "平", "均", "線"],
   "difficulty": "HARD"
-}
+},
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "任天堂が発売した、マリオが登場するレースゲームシリーズの名称を何という？",
+    "answer": "マリオカート",
+    "choices": ["マ", "リ", "オ", "カ", "ー", "ト", "ル", "ド", "ン", "ク"],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『ポケットモンスター』シリーズで、ピカチュウが進化した姿を何という？",
+    "answer": "ライチュウ",
+    "choices": ["ラ", "イ", "チ", "ュ", "ウ", "ピ", "カ", "ゼ", "ニ", "ガ"],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『ゼルダの伝説』シリーズで、主人公リンクが冒険する世界に登場する王国を何という？",
+    "answer": "ハイラル",
+    "choices": ["ハ", "イ", "ラ", "ル", "ゼ", "ダ", "リ", "ン", "ク", "ガ"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『ドラゴンクエスト』シリーズで、敵を眠らせる呪文を何という？",
+    "answer": "ラリホー",
+    "choices": ["ラ", "リ", "ホ", "ー", "メ", "ガ", "ザ", "ル", "バ", "ギ"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『ONE PIECE』で、主人公ルフィが目指している称号を何という？",
+    "answer": "海賊王",
+    "choices": ["海", "賊", "王", "船", "長", "剣", "士", "覇", "気", "島"],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『鬼滅の刃』で、鬼殺隊が鬼を倒すために使用する特殊な剣を何という？",
+    "answer": "日輪刀",
+    "choices": ["日", "輪", "刀", "鬼", "殺", "隊", "呼", "吸", "炎", "柱"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『名探偵コナン』で、江戸川コナンの本来の名前を何という？",
+    "answer": "工藤新一",
+    "choices": ["工", "藤", "新", "一", "江", "戸", "川", "蘭", "毛", "利"],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "日本の伝統的な弦楽器で、13本の弦を持つ代表的な楽器を何という？",
+    "answer": "十三弦琴",
+    "choices": ["十", "三", "弦", "琴", "尺", "八", "琵", "琶", "笛", "太"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "音楽で、五線譜の最初に書かれ、高い音域を表す記号を何という？",
+    "answer": "ト音記号",
+    "choices": ["ト", "音", "記", "号", "ヘ", "ハ", "五", "線", "譜", "低"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "クラシック音楽で、複数の楽器による小規模な合奏を何という？",
+    "answer": "室内楽",
+    "choices": ["室", "内", "楽", "管", "弦", "奏", "者", "交", "響", "曲"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "野球で、打者が打った球がフェンスを越えて得点になる打撃を何という？",
+    "answer": "ホームラン",
+    "choices": ["ホ", "ー", "ム", "ラ", "ン", "ヒ", "ッ", "ト", "三", "振"],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "バスケットボールで、ボールを持ったまま3歩以上歩く反則を何という？",
+    "answer": "トラベリング",
+    "choices": ["ト", "ラ", "ベ", "リ", "ン", "グ", "フ", "ァ", "ウ", "ル"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "料理で、食材を細かく刻んで混ぜ合わせたものを一般に何という？",
+    "answer": "みじん切り",
+    "choices": ["み", "じ", "ん", "切", "り", "千", "薄", "乱", "角", "煮"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "日本料理で、魚や肉を醤油・みりん・砂糖などで煮る調理法を何という？",
+    "answer": "煮付け",
+    "choices": ["煮", "付", "け", "焼", "き", "揚", "げ", "蒸", "し", "炒"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "コーヒー豆を焙煎した後、粉にして湯を通し抽出する方法を何という？",
+    "answer": "ドリップ",
+    "choices": ["ド", "リ", "ッ", "プ", "エ", "ス", "プ", "レ", "ソ", "カ"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "絵画で、遠くのものほど小さく見えるように描く技法を何という？",
+    "answer": "遠近法",
+    "choices": ["遠", "近", "法", "透", "視", "図", "点", "線", "画", "彩"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "コンピューターで、情報を一時的に保存する主記憶装置を何という？",
+    "answer": "メモリ",
+    "choices": ["メ", "モ", "リ", "マ", "ミ", "ム", "ラ", "ル", "レ", "ロ"],
+    "difficulty": "EASY"
+  }
 ]
