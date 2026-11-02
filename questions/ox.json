@@ -313,13 +313,13 @@
 	},
 	{
 		"type": "OX",
-		"question": "植物は光合成によって\\W酸素を放出する",
+		"question": "植物は光合成によって\\w酸素を放出する",
 		"answer": "O",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "OX",
-		"question": "植物は光合成によって\\W二酸化炭素を放出する",
+		"question": "植物は光合成によって\\w二酸化炭素を放出する",
 		"answer": "X",
 		"difficulty": "EASY"
 	},
