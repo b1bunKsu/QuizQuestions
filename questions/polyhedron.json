@@ -255,6 +255,66 @@
 		"type": "CUBE",
 		"question": "アニメ『ご注文はうさぎですか？』に登場する喫茶店",
 		"answer": "ラビットハウス",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "ある時代や分野で共有される考え方の枠組み",
+		"answer": "パラダイム",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "生物が体内環境を一定に保つ仕組み",
+		"answer": "ホメオスタシス",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "遺伝子に制御された細胞の死",
+		"answer": "アポトーシス",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "部分と全体に似た形が現れる幾何学的構造",
+		"answer": "フラクタル",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "神経細胞同士が情報を伝達する接合部",
+		"answer": "シナプス",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "日本語では同位体といいます",
+		"answer": "アイソトープ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "問題を解くための明確な手順",
+		"answer": "アルゴリズム",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "一見正しそうだが矛盾を含む命題",
+		"answer": "パラドックス",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "サッカーボールのような構造を持つ炭素の同素体",
+		"answer": "フラーレン",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "あるゲームのキャラクターから命名された遺伝子",
+		"answer": "ピカチュリン",
 		"difficulty": "NORMAL"
 	}
 ]
