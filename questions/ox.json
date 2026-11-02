@@ -23,7 +23,7 @@
 		"answer": "O",
 		"difficulty": "NORMAL"
 	},
-		{
+	{
 		"type": "OX",
 		"question": "太陽は地球の周りを回っている",
 		"answer": "X",
@@ -35,7 +35,7 @@
 		"answer": "X",
 		"difficulty": "NORMAL"
 	},
-		{
+	{
 		"type": "OX",
 		"question": "人間の心臓は体の\\w左にある",
 		"answer": "O",
@@ -53,7 +53,7 @@
 		"answer": "X",
 		"difficulty": "NORMAL"
 	},
-		{
+	{
 		"type": "OX",
 		"question": "月は太陽の光を反射して光っている",
 		"answer": "O",
@@ -95,7 +95,7 @@
 		"answer": "O",
 		"difficulty": "EASY"
 	},
-		{
+	{
 		"type": "OX",
 		"question": "桜の花びらは必ず\\w6枚である",
 		"answer": "X",
@@ -220,5 +220,275 @@
 		"question": "地球の自転周期は約24時間である",
 		"answer": "O",
 		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "日本の国会は衆議院と参議院の二院で構成されている",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "日本の47都道府県のうち最も面積が小さいのは\\w香川県である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "日本の47都道府県のうち最も面積が小さいのは\\w沖縄県である",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "地球の衛星は火星である",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "地球の衛星は月である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "太陽系で最も大きい惑星は木星である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "日本の硬貨で穴が開いているのは\\w5円玉と50円玉である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "日本の硬貨で穴が開いているのは\\w5円玉だけである",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "日本の硬貨で穴が開いているのは\\w50円玉だけである",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "ペンギンは\\w鳥類に分類される",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "タコの心臓は\\w1つである",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "タコの心臓は\\w2つである",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "タコの心臓は\\w3つである",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "人間の体内で、酸素を運ぶ働きをするのは\\w赤血球である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "人間の体内で、酸素を運ぶ働きをするのは\\w白血球である",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "植物は光合成によって\\W酸素を放出する",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "植物は光合成によって\\W二酸化炭素を放出する",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "水の化学式は\\wCO2である",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "元素記号Feは\\w鉄を表す",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "音は真空中でも伝わる",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "光の速さは音の速さよりも\\w速い",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "光の速さは音の速さよりも\\w遅い",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "電流の単位は\\wアンペアである",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "電圧の単位は\\wアンペアである",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "フランスの首都は\\wパリである",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "オーストラリアの首都は\\wシドニーである",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "オーストラリアの首都は\\wキャンベラである",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "エジプトを流れるナイル川は地中海に注いでいる",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "世界で最も面積が大きい国は\\wカナダである",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "世界で最も面積が大きい国は\\wロシアである",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "南極大陸には北極点が存在する",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "日本で最も長い川は\\w信濃川である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "日本で最も長い川は\\w利根川である",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "鎌倉幕府を開いた人物は\\w源頼朝である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "江戸幕府を開いた人物は\\w徳川家康である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "日本で最初の元号は\\w明治である",
+		"answer": "X",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "フランス革命が始まったのは\\w1789年である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "第二次世界大戦が終結したのは\\w1945年である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "『吾輩は猫である』の作者は\\w夏目漱石である",
+		"answer": "O",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "『吾輩は猫である』の作者は\\w芥川龍之介である",
+		"answer": "X",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "OX",
+		"question": "『走れメロス』の作者は\\w芥川龍之介である",
+		"answer": "X",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "『走れメロス』の作者は\\w太宰治である",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "『モナ・リザ』を描いた画家は\\wレオナルド・ダ・ヴィンチである",
+		"answer": "O",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "OX",
+		"question": "日本の国鳥は\\wキジである",
+		"answer": "O",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "OX",
+		"question": "日本の国鳥は\\wトキである",
+		"answer": "O",
+		"difficulty": "HARD"
 	}
 ]
