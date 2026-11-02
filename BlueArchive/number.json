@@ -1,8 +1,26 @@
 [
 	{
 		"type": "NUMBER",
-		"question": "警察に緊急通報する際にかける電話番号は何番？数字で答えなさい。",
-		"answer": "110",
+		"question": "ブルーアーカイブを開発した会社の名称は何？",
+		"answer": "NEXON",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "NUMBER",
+		"question": "ブルーアーカイブの舞台となる学園都市の英語での名称は何？",
+		"answer": "KIVOTOS",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "NUMBER",
+		"question": "ブルーアーカイブで、先生が所属する連邦捜査部の名称は何？",
+		"answer": "SCHALE",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "NUMBER",
+		"question": "ブルーアーカイブのメインストーリーで、主人公であるプレイヤーキャラの英語での呼称は何？",
+		"answer": "SENSEI",
 		"difficulty": "EASY"
 	}
 ]
