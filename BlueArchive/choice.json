@@ -1,122 +1,332 @@
 [
-	{
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ブルーアーカイブ』において、先生が所属し、キヴォトスの様々な問題に対処する連邦捜査部の名称は？",
-		"answer": "シャーレ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ブルーアーカイブ』に登場する、廃校の危機に瀕した学園の名前は？",
-		"answer": "アビドス",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "アビドス高等学校の対策委員会に所属する、白い髪とヘイローが特徴的な生徒は？",
-		"answer": "シロコ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "先生のサポートを担当する、青い髪のAIアシスタントの名前は？",
-		"answer": "アロナ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "アロナとともに先生をサポートする、別のタブレットに宿るAIの名前は？",
-		"answer": "プラナ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "早瀬ユウカや黒崎コユキなどが所属する、キヴォトスの学園の名前は？",
-		"answer": "ミレニアム",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "ミレニアムサイエンススクールにおいて、早瀬ユウカが所属する部活は？",
-		"answer": "セミナー",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "ゲヘナ学園において、空崎ヒナが委員長を務める組織の名前は？",
-		"answer": "風紀委員会",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "空崎ヒナや天雨アコが所属する学園の名前は？",
-		"answer": "ゲヘナ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "桐藤ナギサや聖園ミカが所属する学園の名前は？",
-		"answer": "トリニティ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "トリニティ総合学園の生徒で、ティーパーティーの一員として知られる人物は？",
-		"answer": "ナギサ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "黒舘ハルナや赤司ジュンコなどが所属する、ゲヘナ学園の部活は？",
-		"answer": "美食研究会",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "天童アリスや花岡ユズ、才羽モモイと才羽ミドリが所属する部活は？",
-		"answer": "ゲーム開発部",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "陸八魔アルが社長を務める、ゲヘナ学園の何でも屋の名前は？",
-		"answer": "便利屋68",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "美甘ネルや一之瀬アスナなどが所属する、ミレニアムの特殊部隊の名称は？",
-		"answer": "C&C",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "月雪ミヤコや空井サキなどが所属する、SRT特殊学園の小隊の名前は？",
-		"answer": "ラビット小隊",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "レッドウィンター連邦学園の生徒会長を務める、独裁的な性格で知られる人物は？",
-		"answer": "チェリノ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "警察学校として知られる、キヴォトスの学園の名前は？",
-		"answer": "ヴァルキューレ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ブルーアーカイブ』において、複数の生徒で強大なボスに挑戦するコンテンツを何という？",
-		"answer": "総力戦",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ブルーアーカイブ』の舞台となる、数多くの学園が存在する巨大な学園都市の名前は？",
-		"answer": "キヴォトス",
-		"difficulty": "EASY"
-	}
+  {
+    "type": "CHOICE",
+    "question": "『ブルーアーカイブ』において、アビドス高等学校の対策委員会に所属する生徒は誰？",
+    "choices": [
+      "砂狼シロコ",
+      "陸八魔アル",
+      "阿慈谷ヒフミ",
+      "空崎ヒナ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ゲヘナ学園の便利屋68で、社長を務めている生徒は誰？",
+    "choices": [
+      "陸八魔アル",
+      "鬼方カヨコ",
+      "伊草ハルカ",
+      "浅黄ムツキ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ミレニアムサイエンススクールのゲーム開発部に所属する生徒は誰？",
+    "choices": [
+      "天童アリス",
+      "角楯カリン",
+      "一之瀬アスナ",
+      "早瀬ユウカ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "トリニティ総合学園の補習授業部に所属する生徒は誰？",
+    "choices": [
+      "阿慈谷ヒフミ",
+      "剣先ツルギ",
+      "桐藤ナギサ",
+      "白洲アズサ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ゲヘナ学園の風紀委員会で委員長を務めている生徒は誰？",
+    "choices": [
+      "空崎ヒナ",
+      "天雨アコ",
+      "銀鏡イオリ",
+      "火宮チナツ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "レッドウィンター連邦学園で、生徒会長を務めている生徒は誰？",
+    "choices": [
+      "連河チェリノ",
+      "池倉マリナ",
+      "安室セナ",
+      "調月リオ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "百鬼夜行連合学院の忍術研究部に所属する生徒は誰？",
+    "choices": [
+      "久田イズナ",
+      "桑上カホ",
+      "和楽チセ",
+      "水羽ミモリ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "SRT特殊学園のRABBIT小隊に所属する生徒は誰？",
+    "choices": [
+      "月雪ミヤコ",
+      "空井サキ",
+      "風倉モエ",
+      "霞沢ミユ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "アビドス高等学校の対策委員会で、会計を担当している生徒は誰？",
+    "choices": [
+      "黒見セリカ",
+      "奥空アヤネ",
+      "十六夜ノノミ",
+      "小鳥遊ホシノ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ミレニアムサイエンススクールのセミナーで、会長を務めている生徒は誰？",
+    "choices": [
+      "調月リオ",
+      "早瀬ユウカ",
+      "黒崎コユキ",
+      "生塩ノア"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "『ブルーアーカイブ』の舞台となる巨大な学園都市の名称はどれ？",
+    "choices": [
+      "キヴォトス",
+      "エデン",
+      "アトラハシス",
+      "アビス"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "先生が最初に出会う、連邦生徒会長の代理を務めるAIは誰？",
+    "choices": [
+      "アロナ",
+      "プラナ",
+      "モモイ",
+      "ユウカ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "アビドス高等学校が抱えている大きな問題は何？",
+    "choices": [
+      "廃校の危機",
+      "生徒会の解散",
+      "校舎の移転",
+      "部活動の禁止"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "トリニティ総合学園のティーパーティーで、ホスト役を務める生徒は誰？",
+    "choices": [
+      "桐藤ナギサ",
+      "百合園セイア",
+      "聖園ミカ",
+      "剣先ツルギ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ゲヘナ学園の美食研究会に所属する生徒は誰？",
+    "choices": [
+      "赤司ジュンコ",
+      "伊草ハルカ",
+      "天雨アコ",
+      "陸八魔アル"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ミレニアムサイエンススクールのCleaning＆Clearing（C&C）に所属する生徒は誰？",
+    "choices": [
+      "一之瀬アスナ",
+      "猫塚ヒビキ",
+      "才羽モモイ",
+      "早瀬ユウカ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "トリニティ総合学園の放課後スイーツ部に所属する生徒は誰？",
+    "choices": [
+      "栗村アイリ",
+      "阿慈谷ヒフミ",
+      "白洲アズサ",
+      "剣先ツルギ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ゲヘナ学園の救急医学部に所属する生徒は誰？",
+    "choices": [
+      "氷室セナ",
+      "火宮チナツ",
+      "天雨アコ",
+      "空崎ヒナ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "百鬼夜行連合学院の百花繚乱紛争調停委員会に所属する生徒は誰？",
+    "choices": [
+      "桐生キキョウ",
+      "久田イズナ",
+      "和楽チセ",
+      "桑上カホ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "山海経高級中学校の梅花園に所属する生徒は誰？",
+    "choices": [
+      "春原ココナ",
+      "朱城ルミ",
+      "鹿山レイジョ",
+      "近衛ミナ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "アリウス分校のアリウススクワッドに所属する生徒は誰？",
+    "choices": [
+      "秤アツコ",
+      "阿慈谷ヒフミ",
+      "聖園ミカ",
+      "桐藤ナギサ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "『ブルーアーカイブ』において、先生の所属する組織はどれ？",
+    "choices": [
+      "S.C.H.A.L.E",
+      "C&C",
+      "セミナー",
+      "万魔殿"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHOICE",
+    "question": "アビドス高等学校の対策委員会で、委員長を務めている生徒は誰？",
+    "choices": [
+      "小鳥遊ホシノ",
+      "砂狼シロコ",
+      "黒見セリカ",
+      "奥空アヤネ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ゲヘナ学園のパンデモニウム・ソサエティーに所属する生徒は誰？",
+    "choices": [
+      "羽沼マコト",
+      "空崎ヒナ",
+      "鬼方カヨコ",
+      "陸八魔アル"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ミレニアムサイエンススクールのヴェリタスに所属する生徒は誰？",
+    "choices": [
+      "各務チヒロ",
+      "角楯カリン",
+      "天童アリス",
+      "才羽ミドリ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "トリニティ総合学園のシスターフッドに所属する生徒は誰？",
+    "choices": [
+      "若葉ヒナタ",
+      "阿慈谷ヒフミ",
+      "白洲アズサ",
+      "桐藤ナギサ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "レッドウィンター連邦学園の知識解放戦線に所属する生徒は誰？",
+    "choices": [
+      "静山マシロ",
+      "連河チェリノ",
+      "池倉マリナ",
+      "安室セナ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "『ブルーアーカイブ』のメインストーリーに登場する、アビドス高等学校の生徒会長は誰？",
+    "choices": [
+      "砂狼シロコテラー",
+      "小鳥遊ホシノ",
+      "黒見セリカ",
+      "奥空アヤネ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "ゲヘナ学園の温泉開発部に所属する生徒は誰？",
+    "choices": [
+      "鬼怒川カスミ",
+      "赤司ジュンコ",
+      "伊草ハルカ",
+      "浅黄ムツキ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHOICE",
+    "question": "『ブルーアーカイブ』において、アロナが普段いる場所として描かれるのはどれ？",
+    "choices": [
+      "シッテムの箱",
+      "エデン条約",
+      "デカグラマトン",
+      "サンクトゥムタワー"
+    ],
+    "difficulty": "NORMAL"
+  }
 ]
