@@ -1,6 +1,7 @@
-[{
+[
+	{
 		"type": "LINE_MATCHING",
-		"question": "次のクラシック音楽の作品と作曲家を正しく結びなさい。",
+		"question": "次のクラシック音楽の作品と作曲家を正しく結びなさい",
 		"leftChoices": [
 			"交響曲第9番",
 			"トルコ行進曲",
@@ -17,7 +18,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の日本の観光名所と所在地を正しく結びなさい。",
+		"question": "次の日本の観光名所と所在地を正しく結びなさい",
 		"leftChoices": [
 			"姫路城",
 			"厳島神社",
@@ -34,7 +35,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の人体の器官と主な働きを正しく結びなさい。",
+		"question": "次の人体の器官と主な働きを正しく結びなさい",
 		"leftChoices": [
 			"肝臓",
 			"肺",
@@ -51,7 +52,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次のスポーツと使用する道具を正しく結びなさい。",
+		"question": "次のスポーツと使用する道具を正しく結びなさい",
 		"leftChoices": [
 			"テニス",
 			"剣道",
@@ -68,7 +69,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の言語と主に使用される文字を正しく結びなさい。",
+		"question": "次の言語と主に使用される文字を正しく結びなさい",
 		"leftChoices": [
 			"日本語",
 			"ロシア語",
@@ -85,7 +86,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の天体と特徴を正しく結びなさい。",
+		"question": "次の天体と特徴を正しく結びなさい",
 		"leftChoices": [
 			"地球",
 			"火星",
@@ -102,7 +103,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の発明品と発明者を正しく結びなさい。",
+		"question": "次の発明品と発明者を正しく結びなさい",
 		"leftChoices": [
 			"電話",
 			"蓄音機",
@@ -119,7 +120,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の音楽用語と意味を正しく結びなさい。",
+		"question": "次の音楽用語と意味を正しく結びなさい",
 		"leftChoices": [
 			"アカペラ",
 			"カノン",
@@ -136,7 +137,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の国と通貨を正しく結びなさい。",
+		"question": "次の国と通貨を正しく結びなさい",
 		"leftChoices": [
 			"アメリカ",
 			"イギリス",
@@ -153,7 +154,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の動物と主な生息地を正しく結びなさい。",
+		"question": "次の動物と主な生息地を正しく結びなさい",
 		"leftChoices": [
 			"ラクダ",
 			"ホッキョクグマ",
@@ -168,9 +169,9 @@
 		],
 		"difficulty": "NORMAL"
 	},
-{
+	{
 		"type": "LINE_MATCHING",
-		"question": "次の日本の文学作品と作者を正しく結びなさい。",
+		"question": "次の日本の文学作品と作者を正しく結びなさい",
 		"leftChoices": [
 			"坊っちゃん",
 			"走れメロス",
@@ -187,7 +188,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次のゲーム作品と開発元を正しく結びなさい。",
+		"question": "次のゲーム作品と開発元を正しく結びなさい",
 		"leftChoices": [
 			"スプラトゥーン",
 			"原神",
@@ -204,7 +205,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の国と首都を正しく結びなさい。",
+		"question": "次の国と首都を正しく結びなさい",
 		"leftChoices": [
 			"カナダ",
 			"オーストラリア",
@@ -223,7 +224,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の動物と分類を正しく結びなさい。",
+		"question": "次の動物と分類を正しく結びなさい",
 		"leftChoices": [
 			"イルカ",
 			"ペンギン",
@@ -240,7 +241,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の化学式と物質名を正しく結びなさい。",
+		"question": "次の化学式と物質名を正しく結びなさい",
 		"leftChoices": [
 			"H2O",
 			"CO2",
@@ -259,7 +260,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の日本の歴史上の人物と関連する出来事を正しく結びなさい。",
+		"question": "次の日本の歴史上の人物と関連する出来事を正しく結びなさい",
 		"leftChoices": [
 			"聖徳太子",
 			"源頼朝",
@@ -276,7 +277,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の惑星と特徴を正しく結びなさい。",
+		"question": "次の惑星と特徴を正しく結びなさい",
 		"leftChoices": [
 			"水星",
 			"金星",
@@ -295,7 +296,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の数学用語と説明を正しく結びなさい。",
+		"question": "次の数学用語と説明を正しく結びなさい",
 		"leftChoices": [
 			"素数",
 			"平方数",
@@ -312,7 +313,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "『ブルーアーカイブ』のキャラクターと所属組織を正しく結びなさい。",
+		"question": "『ブルーアーカイブ』のキャラクターと所属組織を正しく結びなさい",
 		"leftChoices": [
 			"アル",
 			"ユウカ",
@@ -331,7 +332,7 @@
 	},
 	{
 		"type": "LINE_MATCHING",
-		"question": "次の哲学者と思想・功績を正しく結びなさい。",
+		"question": "次の哲学者と思想・功績を正しく結びなさい",
 		"leftChoices": [
 			"ソクラテス",
 			"プラトン",
@@ -538,5 +539,289 @@
 			"ヨシミ"
 		],
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の元素記号と元素名を正しく結びなさい",
+		"leftChoices": [
+			"Li",
+			"Ca",
+			"Cu",
+			"Ag",
+			"Pb"
+		],
+		"rightChoices": [
+			"リチウム",
+			"カルシウム",
+			"銅",
+			"銀",
+			"鉛"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の文学作品と作者を正しく結びなさい",
+		"leftChoices": [
+			"注文の多い料理店",
+			"金閣寺",
+			"人間失格",
+			"檸檬"
+		],
+		"rightChoices": [
+			"宮沢賢治",
+			"三島由紀夫",
+			"太宰治",
+			"梶井基次郎"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の国と首都を正しく結びなさい",
+		"leftChoices": [
+			"ポルトガル",
+			"ギリシャ",
+			"タイ",
+			"ベトナム",
+			"アルゼンチン"
+		],
+		"rightChoices": [
+			"リスボン",
+			"アテネ",
+			"バンコク",
+			"ハノイ",
+			"ブエノスアイレス"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の図形と辺の数を正しく結びなさい",
+		"leftChoices": [
+			"三角形",
+			"四角形",
+			"五角形",
+			"六角形",
+			"八角形"
+		],
+		"rightChoices": [
+			"3辺",
+			"4辺",
+			"5辺",
+			"6辺",
+			"8辺"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の動物と主な生息地を正しく結びなさい",
+		"leftChoices": [
+			"ラクダ",
+			"コアラ",
+			"パンダ",
+			"ナマケモノ"
+		],
+		"rightChoices": [
+			"サハラ砂漠",
+			"ユーカリ林",
+			"四川省",
+			"熱帯雨林"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次のゲーム作品と開発会社を正しく結びなさい",
+		"leftChoices": [
+			"ペルソナ5",
+			"ダークソウル",
+			"バイオハザード",
+			"ソニック"
+		],
+		"rightChoices": [
+			"アトラス",
+			"フロム・ソフトウェア",
+			"カプコン",
+			"セガ"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の楽器と発音方法を正しく結びなさい",
+		"leftChoices": [
+			"バイオリン",
+			"フルート",
+			"トランペット",
+			"ティンパニ"
+		],
+		"rightChoices": [
+			"弦をこする",
+			"息を吹き込む",
+			"唇を振動させる",
+			"膜を打つ"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の都道府県と県庁所在地を正しく結びなさい",
+		"leftChoices": [
+			"岩手県",
+			"栃木県",
+			"群馬県",
+			"三重県",
+			"滋賀県"
+		],
+		"rightChoices": [
+			"盛岡市",
+			"宇都宮市",
+			"前橋市",
+			"津市",
+			"大津市"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の惑星と特徴を正しく結びなさい",
+		"leftChoices": [
+			"水星",
+			"金星",
+			"地球",
+			"木星",
+			"海王星"
+		],
+		"rightChoices": [
+			"最も太陽に近い",
+			"最も高温",
+			"生命が確認された",
+			"最大の惑星",
+			"最も外側"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の言語とその特徴を正しく結びなさい",
+		"leftChoices": [
+			"Python",
+			"JavaScript",
+			"SQL",
+			"HTML"
+		],
+		"rightChoices": [
+			"機械学習",
+			"Webの動作",
+			"データ検索",
+			"文書の構造"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次のギリシャ神話の神と司るものを正しく結びなさい",
+		"leftChoices": [
+			"ゼウス",
+			"ポセイドン",
+			"アテナ",
+			"アレス",
+			"ハデス"
+		],
+		"rightChoices": [
+			"天空",
+			"海",
+			"知恵",
+			"戦争",
+			"冥界"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の文学用語と意味を正しく結びなさい",
+		"leftChoices": [
+			"比喩",
+			"擬人法",
+			"倒置法",
+			"反復法"
+		],
+		"rightChoices": [
+			"たとえ",
+			"人間のように表現",
+			"語順を逆にする",
+			"同じ語句を繰り返す"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の世界遺産と所在地を正しく結びなさい",
+		"leftChoices": [
+			"アンコールワット",
+			"マチュピチュ",
+			"アクロポリス",
+			"モアイ像"
+		],
+		"rightChoices": [
+			"カンボジア",
+			"ペルー",
+			"ギリシャ",
+			"イースター島"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次のスポーツの日本語と英語を正しく結びなさい",
+		"leftChoices": [
+			"卓球",
+			"蹴球",
+			"野球",
+			"庭球"
+		],
+		"rightChoices": [
+			"ピンポン",
+			"サッカー",
+			"ベースボール",
+			"テニス"
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の作曲家と出身国を正しく結びなさい",
+		"leftChoices": [
+			"ショパン",
+			"ドビュッシー",
+			"チャイコフスキー",
+			"シューベルト"
+		],
+		"rightChoices": [
+			"ポーランド",
+			"フランス",
+			"ロシア",
+			"オーストリア"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の郷土料理と発祥地を正しく結びなさい",
+		"leftChoices": [
+			"きりたんぽ",
+			"ほうとう",
+			"讃岐うどん",
+			"明石焼き"
+		],
+		"rightChoices": [
+			"秋田県",
+			"山梨県",
+			"香川県",
+			"兵庫県"
+		],
+		"difficulty": "EASY"
 	}
 ]
