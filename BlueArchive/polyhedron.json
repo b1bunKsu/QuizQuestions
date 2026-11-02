@@ -1,242 +1,98 @@
 [
 	{
 		"type": "CUBE",
-		"question": "キリスト教やユダヤ教の聖典である「聖書」を指す言葉",
-		"answer": "バイブル",
+		"question": "対策委員会の生徒たちが所属する、砂漠に覆われた学園",
+		"answer": "アビドス",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "CUBE",
-		"question": "冷たくて甘い、夏によく食べるデザートです",
-		"answer": "アイスクリーム",
+		"question": "ユウカやノアが所属する、科学技術に特化した学園",
+		"answer": "ミレニアム",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "CUBE",
-		"question": "茶色くて甘い、板状や粒状のおやつです",
-		"answer": "チョコレート",
+		"question": "ミカやナギサが所属する、巨大な宗教的組織を持つ学園",
+		"answer": "トリニティ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "CUBE",
-		"question": "パンの間に肉や野菜をはさんで食べます",
-		"answer": "ハンバーガー",
+		"question": "先生がキヴォトスで活動する際の拠点となる連邦捜査機関",
+		"answer": "シャーレ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "CUBE",
-		"question": "黒い画面がついていて、指で触って操作します",
-		"answer": "スマートフォン",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "机の上に置いて計算や文章を書く機械です",
-		"answer": "コンピュータ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "日付や曜日が書いてある、壁に貼る紙です",
-		"answer": "カレンダー",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "黄色い中身で、皮にトゲがある南国の果物です",
-		"answer": "パイナップル",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "食品を冷やして保存しておく箱型の家電です",
-		"answer": "れいぞうこ",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "汚れを落として服をきれいにする家電です",
-		"answer": "せんたくき",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "長さを測るために使う、目盛りがついた細い棒状の道具です。",
-		"answer": "ものさし",
+		"question": "ブルーアーカイブの物語の舞台となる、学園都市の名称",
+		"answer": "キヴォトス",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "CUBE",
-		"question": "髭や体毛を剃るために使う、刃のついた小さな道具です。",
-		"answer": "かみそり",
+		"question": "ゲヘナ学園の生徒会にあたる組織の名称",
+		"answer": "パンデモニウム",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "ミレニアムの生徒会にあたる組織の名称",
+		"answer": "セミナー",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "トリニティの生徒会にあたる、3つの派閥の代表者による組織",
+		"answer": "ティーパーティー",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "ゲーム開発部が制作したゲームの中で、アリスが勇者として冒険する作品",
+		"answer": "テイルズサガ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "CUBE",
+		"question": "ブルーアーカイブに登場する、巨大なロボット型のボス。特撮ヒーローのような姿をしている",
+		"answer": "カイテンジャー",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "総力戦に登場する、巨大なペロロ様の姿をしたボス",
+		"answer": "ペロロジラ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "総力戦で登場する、白と黒の2体のボス",
+		"answer": "シロクロ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "CUBE",
-		"question": "木や板を切断するときに使う、ギザギザの刃がついた道具です。",
-		"answer": "ノコギリ",
+		"question": "総力戦で登場する、巨大な黒い影のような姿をしたボス",
+		"answer": "クロカゲ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "総力戦で登場する、聖なる存在を思わせる巨大なボス",
+		"answer": "ヒエロニムス",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "総力戦で登場する、合唱団を率いるような姿をしたボス",
+		"answer": "グレゴリオ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "CUBE",
+		"question": "ゲーム開発部が所属する学園の名称",
+		"answer": "ミレニアム",
 		"difficulty": "EASY"
 	},
-	{
-		"type": "CUBE",
-		"question": "土を掘ったり砂をすくったりする、柄のついた道具です。",
-		"answer": "スコップ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "CUBE",
-		"question": "紙をとじるために針を打ち込む文房具です。",
-		"answer": "ホッチキス",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "小さな物をつまむために使う、先が細い金属の道具です。",
-		"answer": "ピンセット",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "音を大きく出して聞けるようにする機械です。",
-		"answer": "スピーカー",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "パンを焼いてこんがりさせるための調理家電です。",
-		"answer": "トースター",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "食材を混ぜたり砕いたりする回転する調理家電です。",
-		"answer": "ミキサー",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "テレビやエアコンを離れた場所から操作する道具です。",
-		"answer": "リモコン",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "耳に入れて音楽や通話の音を聞く小さな道具です。",
-		"answer": "イヤホン",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "計算を素早く行うための、ボタンが並んだ電子機器です。",
-		"answer": "でんたく",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "映像を大きな画面に映し出すための機械です。",
-		"answer": "プロジェクター",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "建物の階を上下に移動するための箱型の乗り物です。",
-		"answer": "エレベーター",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "階段の代わりに自動で人を運ぶ、動く段々の機械です。",
-		"answer": "エスカレーター",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "コーヒーを淹れるための、専用の調理家電です。",
-		"answer": "コーヒーメーカー",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "英語で「コンピュータ」を意味する、計算や作業を行う機械です。",
-		"answer": "COMPUTER",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "英語で「キーボード」を意味する、文字を入力する道具です。",
-		"answer": "KEYBOARD",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "英語で「モニター」を意味する、画面を表示する機器です。",
-		"answer": "MONITOR",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "英語で「バッテリー」を意味する、電気を蓄える部品です。",
-		"answer": "BATTERY",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "業務上のルールや判断を、システムの処理として実装したもの",
-		"answer": "ビジネスロジック",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "スマートフォンを使って、ゲーム機をインターネットに繋ぎます",
-		"answer": "テザリング",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "ある処理やアクセスの行き先を、別の場所へ変更すること",
-		"answer": "リダイレクト",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "各自治体間を相互に繋いだ、行政機関専用のネットワーク",
-		"answer": "LGWAN",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "実は「不仲」という意味のコミュニケーションサービス",
-		"answer": "DISCORD",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "CUBE",
-		"question": "設計図を意味する言葉です",
-		"answer": "ブループリント",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "Webサイトやアプリの「間取り図」や「設計図」にあたる構成案",
-		"answer": "ワイヤーフレーム",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "CUBE",
-		"question": "「フライドポテトが厚すぎる」というクレームから生まれました",
-		"answer": "ポテトチップス",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "CUBE",
-		"question": "臓器提供を受ける人です",
-		"answer": "レシピエント",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "CUBE",
-		"question": "代表曲に『明日の私に幸あれ』『ダダダダ天使』がある歌手",
-		"answer": "ナナヲアカリ",
-		"difficulty": "NORMAL"
-	}
 ]
