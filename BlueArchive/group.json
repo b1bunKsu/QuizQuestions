@@ -1,452 +1,632 @@
 [
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "アビドス",
-        "choices": ["シロコ", "ホシノ"]
-      },
-      {
-        "name": "ゲヘナ",
-        "choices": ["ヒナ", "アル"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "ミレニアム",
-        "choices": ["ユウカ", "ノア"]
-      },
-      {
-        "name": "トリニティ",
-        "choices": ["ヒフミ", "ミカ"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "百鬼夜行",
-        "choices": ["イズナ", "チセ"]
-      },
-      {
-        "name": "山海経",
-        "choices": ["シュン", "サヤ"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "ヴァルキューレ",
-        "choices": ["キリノ", "カンナ"]
-      },
-      {
-        "name": "レッドウィンター",
-        "choices": ["チェリノ", "マリナ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "アビドス",
-        "choices": ["ノノミ", "セリカ"]
-      },
-      {
-        "name": "ミレニアム",
-        "choices": ["アリス", "ユズ"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "対策委員会",
-        "choices": ["シロコ", "アヤネ"]
-      },
-      {
-        "name": "風紀委員会",
-        "choices": ["ヒナ", "イオリ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "便利屋68",
-        "choices": ["アル", "ムツキ"]
-      },
-      {
-        "name": "美食研究会",
-        "choices": ["ハルナ", "アカリ"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "ゲーム開発部",
-        "choices": ["モモイ", "ミドリ"]
-      },
-      {
-        "name": "エンジニア部",
-        "choices": ["ウタハ", "ヒビキ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "C&C",
-        "choices": ["ネル", "アスナ"]
-      },
-      {
-        "name": "セミナー",
-        "choices": ["ユウカ", "ノア"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "補習授業部",
-        "choices": ["ヒフミ", "ハナコ"]
-      },
-      {
-        "name": "正義実現委員会",
-        "choices": ["ツルギ", "ハスミ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "RABBIT小隊",
-        "choices": ["ミヤコ", "ミユ"]
-      },
-      {
-        "name": "SRT",
-        "choices": ["サキ", "モエ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "パーティー",
-        "choices": ["ナギサ", "セイア"]
-      },
-      {
-        "name": "ティーパーティー",
-        "choices": ["ミカ", "ナギサ"]
-      }
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を担当する役割ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "タンク",
-        "choices": ["ユウカ", "ツバキ"]
-      },
-      {
-        "name": "ヒーラー",
-        "choices": ["セリナ", "ハナエ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を攻撃タイプごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "爆発",
-        "choices": ["シロコ", "ヒナ"]
-      },
-      {
-        "name": "貫通",
-        "choices": ["ホシノ", "イオリ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を攻撃タイプごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "神秘",
-        "choices": ["チセ", "イズナ"]
-      },
-      {
-        "name": "振動",
-        "choices": ["ハナコ", "キキョウ"]
-      }
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "トリニティ",
-        "choices": ["アズサ", "コハル"]
-      },
-      {
-        "name": "ゲヘナ",
-        "choices": ["ハルカ", "カヨコ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "ミレニアム",
-        "choices": ["チヒロ", "コタマ"]
-      },
-      {
-        "name": "ゲヘナ",
-        "choices": ["アコ", "チナツ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "百鬼夜行",
-        "choices": ["ツクヨ", "ミチル"]
-      },
-      {
-        "name": "トリニティ",
-        "choices": ["マリー", "サクラコ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "山海経",
-        "choices": ["ココナ", "ルミ"]
-      },
-      {
-        "name": "レッドウィンター",
-        "choices": ["トモエ", "ノドカ"]
-      }
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "アビドス",
-        "choices": ["ホシノ", "アヤネ"]
-      },
-      {
-        "name": "トリニティ",
-        "choices": ["ハナコ", "アズサ"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "ゲヘナ",
-        "choices": ["ジュンコ", "イズミ"]
-      },
-      {
-        "name": "ミレニアム",
-        "choices": ["コトリ", "ハレ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "忍術研究部",
-        "choices": ["イズナ", "ミチル"]
-      },
-      {
-        "name": "陰陽部",
-        "choices": ["チセ", "フィーナ"]
-      }
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "救護騎士団",
-        "choices": ["セリナ", "ハナエ"]
-      },
-      {
-        "name": "シスターフッド",
-        "choices": ["マリー", "ヒナタ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "給食部",
-        "choices": ["フウカ", "ジュリ"]
-      },
-      {
-        "name": "美食研究会",
-        "choices": ["ハルナ", "ジュンコ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "ヴァルキューレ",
-        "choices": ["フブキ", "キリノ"]
-      },
-      {
-        "name": "SRT",
-        "choices": ["ミヤコ", "サキ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "問題児68",
-        "choices": ["アル", "ハルカ"]
-      },
-      {
-        "name": "ゲーム開発部",
-        "choices": ["ユズ", "アリス"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "ミレニアム",
-        "choices": ["ネル", "アカネ"]
-      },
-      {
-        "name": "ゲヘナ",
-        "choices": ["ムツキ", "アル"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "風紀委員会",
-        "choices": ["ヒナ", "アコ"]
-      },
-      {
-        "name": "便利屋68",
-        "choices": ["カヨコ", "ムツキ"]
-      }
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する部活ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "対策委員会",
-        "choices": ["シロコ", "セリカ"]
-      },
-      {
-        "name": "ゲーム開発部",
-        "choices": ["モモイ", "ミドリ"]
-      }
-    ],
-    "difficulty": "EASY"
-  },
-  {
-    "type": "GROUP",
-    "question": "次の生徒を所属する学園ごとに分類しなさい。",
-    "groups": [
-      {
-        "name": "トリニティ",
-        "choices": ["ナギサ", "ミカ"]
-      },
-      {
-        "name": "ゲヘナ",
-        "choices": ["マコト", "イブキ"]
-      }
-    ],
-    "difficulty": "HARD"
-  }
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "アビドス",
+				"choices": [
+					"シロコ",
+					"ホシノ"
+				]
+			},
+			{
+				"name": "ゲヘナ",
+				"choices": [
+					"ヒナ",
+					"アル"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "ミレニアム",
+				"choices": [
+					"ユウカ",
+					"ノア"
+				]
+			},
+			{
+				"name": "トリニティ",
+				"choices": [
+					"ヒフミ",
+					"ミカ"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "百鬼夜行",
+				"choices": [
+					"イズナ",
+					"チセ"
+				]
+			},
+			{
+				"name": "山海経",
+				"choices": [
+					"シュン",
+					"サヤ"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "ヴァルキューレ",
+				"choices": [
+					"キリノ",
+					"カンナ"
+				]
+			},
+			{
+				"name": "レッドウィンター",
+				"choices": [
+					"チェリノ",
+					"マリナ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "アビドス",
+				"choices": [
+					"ノノミ",
+					"セリカ"
+				]
+			},
+			{
+				"name": "ミレニアム",
+				"choices": [
+					"アリス",
+					"ユズ"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "対策委員会",
+				"choices": [
+					"シロコ",
+					"アヤネ"
+				]
+			},
+			{
+				"name": "風紀委員会",
+				"choices": [
+					"ヒナ",
+					"イオリ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "便利屋68",
+				"choices": [
+					"アル",
+					"ムツキ"
+				]
+			},
+			{
+				"name": "美食研究会",
+				"choices": [
+					"ハルナ",
+					"アカリ"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "ゲーム開発部",
+				"choices": [
+					"モモイ",
+					"ミドリ"
+				]
+			},
+			{
+				"name": "エンジニア部",
+				"choices": [
+					"ウタハ",
+					"ヒビキ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "C&C",
+				"choices": [
+					"ネル",
+					"アスナ"
+				]
+			},
+			{
+				"name": "セミナー",
+				"choices": [
+					"ユウカ",
+					"ノア"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "補習授業部",
+				"choices": [
+					"ヒフミ",
+					"ハナコ"
+				]
+			},
+			{
+				"name": "正義実現委員会",
+				"choices": [
+					"ツルギ",
+					"ハスミ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "RABBIT小隊",
+				"choices": [
+					"ミヤコ",
+					"ミユ"
+				]
+			},
+			{
+				"name": "SRT",
+				"choices": [
+					"サキ",
+					"モエ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "パーティー",
+				"choices": [
+					"ナギサ",
+					"セイア"
+				]
+			},
+			{
+				"name": "ティーパーティー",
+				"choices": [
+					"ミカ",
+					"ナギサ"
+				]
+			}
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を担当する役割ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "タンク",
+				"choices": [
+					"ユウカ",
+					"ツバキ"
+				]
+			},
+			{
+				"name": "ヒーラー",
+				"choices": [
+					"セリナ",
+					"ハナエ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を攻撃タイプごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "爆発",
+				"choices": [
+					"シロコ",
+					"ヒナ"
+				]
+			},
+			{
+				"name": "貫通",
+				"choices": [
+					"ホシノ",
+					"イオリ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を攻撃タイプごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "神秘",
+				"choices": [
+					"チセ",
+					"イズナ"
+				]
+			},
+			{
+				"name": "振動",
+				"choices": [
+					"ハナコ",
+					"キキョウ"
+				]
+			}
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "トリニティ",
+				"choices": [
+					"アズサ",
+					"コハル"
+				]
+			},
+			{
+				"name": "ゲヘナ",
+				"choices": [
+					"ハルカ",
+					"カヨコ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "ミレニアム",
+				"choices": [
+					"チヒロ",
+					"コタマ"
+				]
+			},
+			{
+				"name": "ゲヘナ",
+				"choices": [
+					"アコ",
+					"チナツ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "百鬼夜行",
+				"choices": [
+					"ツクヨ",
+					"ミチル"
+				]
+			},
+			{
+				"name": "トリニティ",
+				"choices": [
+					"マリー",
+					"サクラコ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "山海経",
+				"choices": [
+					"ココナ",
+					"ルミ"
+				]
+			},
+			{
+				"name": "レッドウィンター",
+				"choices": [
+					"トモエ",
+					"ノドカ"
+				]
+			}
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "アビドス",
+				"choices": [
+					"ホシノ",
+					"アヤネ"
+				]
+			},
+			{
+				"name": "トリニティ",
+				"choices": [
+					"ハナコ",
+					"アズサ"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "ゲヘナ",
+				"choices": [
+					"ジュンコ",
+					"イズミ"
+				]
+			},
+			{
+				"name": "ミレニアム",
+				"choices": [
+					"コトリ",
+					"ハレ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "忍術研究部",
+				"choices": [
+					"イズナ",
+					"ミチル"
+				]
+			},
+			{
+				"name": "陰陽部",
+				"choices": [
+					"チセ",
+					"フィーナ"
+				]
+			}
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "救護騎士団",
+				"choices": [
+					"セリナ",
+					"ハナエ"
+				]
+			},
+			{
+				"name": "シスターフッド",
+				"choices": [
+					"マリー",
+					"ヒナタ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "給食部",
+				"choices": [
+					"フウカ",
+					"ジュリ"
+				]
+			},
+			{
+				"name": "美食研究会",
+				"choices": [
+					"ハルナ",
+					"ジュンコ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "ヴァルキューレ",
+				"choices": [
+					"フブキ",
+					"キリノ"
+				]
+			},
+			{
+				"name": "SRT",
+				"choices": [
+					"ミヤコ",
+					"サキ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "問題児68",
+				"choices": [
+					"アル",
+					"ハルカ"
+				]
+			},
+			{
+				"name": "ゲーム開発部",
+				"choices": [
+					"ユズ",
+					"アリス"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "ミレニアム",
+				"choices": [
+					"ネル",
+					"アカネ"
+				]
+			},
+			{
+				"name": "ゲヘナ",
+				"choices": [
+					"ムツキ",
+					"アル"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "風紀委員会",
+				"choices": [
+					"ヒナ",
+					"アコ"
+				]
+			},
+			{
+				"name": "便利屋68",
+				"choices": [
+					"カヨコ",
+					"ムツキ"
+				]
+			}
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する部活ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "対策委員会",
+				"choices": [
+					"シロコ",
+					"セリカ"
+				]
+			},
+			{
+				"name": "ゲーム開発部",
+				"choices": [
+					"モモイ",
+					"ミドリ"
+				]
+			}
+		],
+		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の生徒を所属する学園ごとに分類しなさい。",
+		"groups": [
+			{
+				"name": "トリニティ",
+				"choices": [
+					"ナギサ",
+					"ミカ"
+				]
+			},
+			{
+				"name": "ゲヘナ",
+				"choices": [
+					"マコト",
+					"イブキ"
+				]
+			}
+		],
+		"difficulty": "HARD"
+	}
 ]
