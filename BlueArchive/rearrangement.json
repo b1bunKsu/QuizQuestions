@@ -1,182 +1,122 @@
 [
 	{
 		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて、NEXONが運営するゲームの名称にしなさい",
-		"answer": "ブルーアーカイブ",
+		"question": "ゲーム『ブルーアーカイブ』において、先生が所属し、キヴォトスの様々な問題に対処する連邦捜査部の名称は？",
+		"answer": "シャーレ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて、ゲーム『崩壊: スターレイル』の登場人物の名前にしなさい",
-		"answer": "ルアン・メェイ",
+		"question": "ゲーム『ブルーアーカイブ』に登場する、廃校の危機に瀕した学園の名前は？",
+		"answer": "アビドス",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて、Yostarが運営するゲームの名称にしなさい",
-		"answer": "ステラソラ",
+		"question": "アビドス高等学校の対策委員会に所属する、白い髪とヘイローが特徴的な生徒は？",
+		"answer": "シロコ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "DNAの正式名称は？",
-		"answer": "デオキシリボ核酸",
+		"question": "先生のサポートを担当する、青い髪のAIアシスタントの名前は？",
+		"answer": "アロナ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて音楽ストリーミングサービスの名前にしなさい",
-		"answer": "Spotify",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えてHoyoverseが運営スるゲームの名称にしなさい",
-		"answer": "ゼンレスゾーンゼロ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『原神』、『崩壊: スターレイル』、『ゼンレスゾーンゼロ』などを運営する中国のゲーム会社といえば？",
-		"answer": "Hoyoverse",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えてゲーム『ゼンレスゾーンゼロ』の登場人物の名前にしなさい",
-		"answer": "アンビー・デマラ",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『Minecraft』を開発している会社は「◯◯◯◯◯◯ Studio」？",
-		"answer": "Mojang",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "広大なゲーム世界をシームレスに自由に探索・攻略できるコンピュータゲームのジャンルを何という？",
-		"answer": "オープンワールド",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "航空機または船舶で日本から出国する旅客に対して課税される税金を何という？",
-		"answer": "国際観光旅客税",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "SOLID原則において、「クライアントが利用しないメソッドへの依存を強制してはならない」という原則を「〇〇〇〇〇〇〇〇分離原則」という？",
-		"answer": "インターフェース",
+		"question": "アロナとともに先生をサポートする、別のタブレットに宿るAIの名前は？",
+		"answer": "プラナ",
 		"difficulty": "NORMAL"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "1946年にアメリカのペンシルベニア大学で開発された、世界初のコンピューターを何という？",
-		"answer": "ENIAC",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "サーバー側でほとんどのファイル、アプリケーションなどの資源一元管理することで、必要最低限の記憶媒体やアプリケーションソフトしか持たせていないクライアントコンピューターのことを何という？",
-		"answer": "シンクライアント",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "日本において毎年5月初めにかけて休日が続く期間のことを何という？",
-		"answer": "ゴールデンウィーク",
+		"question": "早瀬ユウカや黒崎コユキなどが所属する、キヴォトスの学園の名前は？",
+		"answer": "ミレニアム",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "例えばキーボードの「a」を押しっぱなしにすると「aaaaaaa」と入力されるように、キーを押し続けた時に同じ入力が自動的に連続して発生する現象を何という？",
-		"answer": "キーリピート",
+		"question": "ミレニアムサイエンススクールにおいて、早瀬ユウカが所属する部活は？",
+		"answer": "セミナー",
 		"difficulty": "NORMAL"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "Microsoftが提供するクラウドコンピューティングサービスといえば「Microsoft 〇〇〇〇〇」？",
-		"answer": "Azure",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "月単位または年単位で定期的に料金を支払い利用するコンテンツやサービスのことを何という？",
-		"answer": "サブスクリプション",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "「true」または「false」の2つの値を持つ日本語では論理型と言われるデータ型を何という？",
-		"answer": "boolean",
-		"difficulty": "HARD"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "他人の不幸や失敗、不遇な出来事を見聞きした際に、思わず感じてしまう快感をドイツ語で何という？",
-		"answer": "シャーデンフロイデ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "任天堂が開発・販売する、配管工のマリオが主人公のゲームシリーズといえば？",
-		"answer": "スーパーマリオ",
+		"question": "ゲヘナ学園において、空崎ヒナが委員長を務める組織の名前は？",
+		"answer": "風紀委員会",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "ゲーム『Minecraft』に登場する、爆発する緑色の敵キャラクターの名前は？",
-		"answer": "クリーパー",
+		"question": "空崎ヒナや天雨アコが所属する学園の名前は？",
+		"answer": "ゲヘナ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "ゲーム『ポケットモンスター』シリーズに登場する、ピカチュウの進化前のポケモンは？",
-		"answer": "ピチュー",
+		"question": "桐藤ナギサや聖園ミカが所属する学園の名前は？",
+		"answer": "トリニティ",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "ゲーム『ドラゴンクエスト』シリーズに登場する、青いしずく型のモンスターといえば？",
-		"answer": "スライム",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "Webページを記述するために使用されるマークアップ言語といえば？",
-		"answer": "HTML",
-		"difficulty": "EASY"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "JavaやC++などで、クラスから生成される実体のことを何という？",
-		"answer": "インスタンス",
+		"question": "トリニティ総合学園の生徒で、ティーパーティーの一員として知られる人物は？",
+		"answer": "ナギサ",
 		"difficulty": "NORMAL"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "プログラムのソースコードを機械語に変換するソフトウェアを何という？",
-		"answer": "コンパイラ",
+		"question": "黒舘ハルナや赤司ジュンコなどが所属する、ゲヘナ学園の部活は？",
+		"answer": "美食研究会",
 		"difficulty": "NORMAL"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "コンピューターの処理装置であり、命令の実行や演算を行う部品を何という？",
-		"answer": "プロセッサ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"type": "REARRANGEMENT",
-		"question": "インターネット上で、Webページの場所を示すために使用される文字列を何という？",
-		"answer": "URL",
+		"question": "天童アリスや花岡ユズ、才羽モモイと才羽ミドリが所属する部活は？",
+		"answer": "ゲーム開発部",
 		"difficulty": "EASY"
 	},
 	{
 		"type": "REARRANGEMENT",
-		"question": "コンピューター上で動作するプログラムやデータをまとめたものを何という？",
-		"answer": "ソフトウェア",
+		"question": "陸八魔アルが社長を務める、ゲヘナ学園の何でも屋の名前は？",
+		"answer": "便利屋68",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "美甘ネルや一之瀬アスナなどが所属する、ミレニアムの特殊部隊の名称は？",
+		"answer": "C&C",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "月雪ミヤコや空井サキなどが所属する、SRT特殊学園の小隊の名前は？",
+		"answer": "ラビット小隊",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "レッドウィンター連邦学園の生徒会長を務める、独裁的な性格で知られる人物は？",
+		"answer": "チェリノ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "警察学校として知られる、キヴォトスの学園の名前は？",
+		"answer": "ヴァルキューレ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『ブルーアーカイブ』において、複数の生徒で強大なボスに挑戦するコンテンツを何という？",
+		"answer": "総力戦",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ゲーム『ブルーアーカイブ』の舞台となる、数多くの学園が存在する巨大な学園都市の名前は？",
+		"answer": "キヴォトス",
 		"difficulty": "EASY"
 	}
 ]
