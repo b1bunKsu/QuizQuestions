@@ -334,5 +334,54 @@
 		"hint": "櫂",
 		"answer": "かい",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "景色が空中に浮かんで見える現象",
+		"hint": "蜃気楼",
+		"answer": "しんきろう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "石灰岩が溶けてできた洞窟",
+		"hint": "鍾乳洞",
+		"answer": "しょうにゅうどう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "コンパスともいいます",
+		"hint": "羅針盤",
+		"answer": "らしんばん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "炭酸カルシウムを主成分とする炭酸塩鉱物",
+		"hint": "方解石",
+		"answer": "ほうかいせき",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "芥川龍之介が書いた短編小説",
+		"hint": "羅生門",
+		"answer": "らしょうもん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "成功へといたる難しい関門を突破したことをいうことわざ",
+		"hint": "登龍門",
+		"answer": "とうりゅうもん",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "分子の熱運動がほぼ止まる温度",
+		"hint": "絶対零度",
+		"answer": "ぜったいれいど",
+		"difficulty": "NORMAL"
 	}
 ]
