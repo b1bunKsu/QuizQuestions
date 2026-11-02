@@ -194,5 +194,12 @@
 		"hint": "斎藤千和",
 		"answer": "さいとうちわ",
 		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "『ブルーアーカイブ』において、「募集」をするために必要なゲーム内通貨",
+		"hint": "青輝石",
+		"answer": "あおきせき",
+		"difficulty": "HARD"
 	}
 ]
