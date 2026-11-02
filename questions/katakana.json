@@ -121,5 +121,11 @@
 		"question": "DECO*27の楽曲で、涙を流した初音ミクがスナイパーライフルで狙われているのは？",
 		"answer": "ヒバナ",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "KATAKANA",
+		"question": "歩きスマホをする人、ふらふらと歩く様子をある怪物に例えて英語で「スマートフォン〇〇〇」という？",
+		"answer": "ゾンビ",
+		"difficulty": "NORMAL"
 	}
 ]
