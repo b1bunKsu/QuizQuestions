@@ -73,7 +73,7 @@
 	},
 	{
 		"type": "NUMBER",
-		"question": "Joy-Conを使った直感的な操作で、家族や友達、世界中の人とスポーツ対戦を楽しめるNintendo Switch用ソフトといえば\\w『Nintendo Switch Sports』ですが、\\w\\cその続編となるNintendo Swich 2 向けのゲームは『Nintendo Switch Sports 〇〇〇〇〇〇』",
+		"question": "Joy-Conを使った直感的な操作で、家族や友達、世界中の人とスポーツ対戦を楽しめるNintendo Switch用ソフトといえば\\w『Nintendo Switch Sports』ですが、\\w\\cその続編となるNintendo Swich 2 向けのゲームは『Nintendo Switch Sports 〇〇〇〇〇〇』？",
 		"answer": "RESORT",
 		"difficulty": "NORMAL"
 	}
