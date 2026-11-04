@@ -346,5 +346,23 @@
 		"question": "物体が音速を超える際に発生する衝撃波に伴う、特徴的な大きな音を何という？",
 		"answer": "ソニックブーム",
 		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "地方税共同機構が運営する、地方税に関する手続きをインターネットで行うための電子申告・納税システムを何という？",
+		"answer": "eLTAX",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "国税庁が運営する、国税に関する申告や納税などの手続きをインターネットで行うためのシステムを何という？",
+		"answer": "e-Tax",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "入力されたデータが正しい形式や条件を満たしているかを確認することを何という？",
+		"answer": "バリデーション",
+		"difficulty": "HARD"
 	}
 ]
