@@ -76,5 +76,23 @@
 		"question": "Joy-Conを使った直感的な操作で、家族や友達、世界中の人とスポーツ対戦を楽しめるNintendo Switch用ソフトといえば\\w『Nintendo Switch Sports』ですが、\\w\\cその続編となるNintendo Swich 2 向けのゲームは『Nintendo Switch Sports 〇〇〇〇〇〇』？",
 		"answer": "RESORT",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "「世界一タフな時計」としてギネス世界記録に認定されているモデルもある、カシオが製造している腕時計のブランドといえば「G-〇〇〇〇〇」？",
+		"answer": "SHOCK",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "第一興商が運用する業務用通信カラオケシリーズのブランドといえば？",
+		"answer": "DAM",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "NUMBER",
+		"question": "エクシングが運用する業務用通信カラオケシリーズのブランドといえば？",
+		"answer": "JOYSOUND",
+		"difficulty": "NORMAL"
 	}
 ]
