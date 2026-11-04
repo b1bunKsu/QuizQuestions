@@ -823,5 +823,20 @@
 			"兵庫県"
 		],
 		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の機器の名前の「コン」の部分は何の略であるか、正しい組み合わせを選びなさい",
+		"leftChoices": [
+			"エアコン",
+			"パソコン",
+			"リモコン"
+		],
+		"rightChoices": [
+			"コンディショナー",
+			"コンピューター",
+			"コントローラー"
+		],
+		"difficulty": "EASY"
 	}
 ]
