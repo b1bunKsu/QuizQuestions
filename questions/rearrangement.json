@@ -363,6 +363,12 @@
 		"type": "REARRANGEMENT",
 		"question": "入力されたデータが正しい形式や条件を満たしているかを確認することを何という？",
 		"answer": "バリデーション",
-		"difficulty": "HARD"
+		"difficulty": "NORMAL"
+	},
+		{
+		"type": "REARRANGEMENT",
+		"question": "モイ株式会社が運営する、iPhoneやAndroid端末、PCなどから手軽にライブ配信を行えるサービスといえば？",
+		"answer": "ツイキャス",
+		"difficulty": "NORMAL"
 	}
 ]
