@@ -61,12 +61,6 @@
   },
   {
     "type": "CHOICE",
-    "question": "水素原子の原子核に含まれる粒子はどれ？（最も一般的な軽水素の場合）",
-    "choices": ["陽子1個", "陽子2個", "陽子1個と中性子1個", "中性子1個"],
-    "difficulty": "NORMAL"
-  },
-  {
-    "type": "CHOICE",
     "question": "光の三原色に含まれないものはどれ？",
     "choices": ["黄色", "赤色", "緑色", "青色"],
     "difficulty": "NORMAL"
@@ -117,12 +111,6 @@
     "type": "CHOICE",
     "question": "ベンゼンの分子式はどれ？",
     "choices": ["C6H6", "C6H12", "C6H14", "C5H6"],
-    "difficulty": "HARD"
-  },
-  {
-    "type": "CHOICE",
-    "question": "オイラーの公式として知られる、複素指数関数と三角関数を結びつける等式はどれ？",
-    "choices": ["e^(ix) = cos x + i sin x", "e^(ix) = cos x - sin x", "e^(ix) = sin x + i cos x", "e^(ix) = cos x + sin x"],
     "difficulty": "HARD"
   },
   {
