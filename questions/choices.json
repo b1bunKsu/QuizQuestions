@@ -603,5 +603,16 @@
 			"Gemini"
 		],
 		"difficulty": "NORMAL"
+	},
+		{
+		"type": "CHOICE",
+		"question": "日本で一般的に、マリオの職業として知られるものは？",
+		"choices": [
+			"配管工",
+			"警察官",
+			"消防士",
+			"料理人"
+		],
+		"difficulty": "EASY"
 	}
 ]
