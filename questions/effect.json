@@ -384,18 +384,60 @@
 		"answer": "ぜったいれいど",
 		"difficulty": "NORMAL"
 	},
-		{
+	{
 		"type": "EFFECT",
 		"question": "分数の分母と分子を隔てる横棒をこう言います",
 		"hint": "括線",
 		"answer": "かっせん",
 		"difficulty": "NORMAL"
 	},
-		{
+	{
 		"type": "EFFECT",
 		"question": "2数の最大公約数を求めるアルゴリズムは「ユークリッドの〇〇〇」？",
 		"hint": "互除法",
 		"answer": "ごじょほう",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "異なる生物が、互いに利益を得る関係を何という？",
+		"hint": "相利共生",
+		"answer": "そうりきょうせい",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "地層が横方向から圧縮され、波状に曲がる地質構造を何という？",
+		"hint": "褶曲",
+		"answer": "しゅうきょく",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "ある集団の遺伝子頻度が、偶然によって世代ごとに変化する現象を何という？",
+		"hint": "遺伝的浮動",
+		"answer": "いでんてきふどう",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "古代ギリシャの哲学者が用いた、問答を通じて相手に真理を自覚させる方法を何という？",
+		"hint": "産婆術",
+		"answer": "さんばじゅつ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "EFFECT",
+		"question": "河川が山地から平野へ出る場所に、土砂が扇形に堆積して形成される地形を何という？",
+		"hint": "扇状地",
+		"answer": "せんじょうち",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "EFFECT",
+		"question": "海底に堆積した砂や泥が固結して形成される岩石を何という？",
+		"hint": "堆積岩",
+		"answer": "たいせきがん",
 		"difficulty": "NORMAL"
 	}
 ]
