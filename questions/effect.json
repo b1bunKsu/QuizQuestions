@@ -383,5 +383,19 @@
 		"hint": "絶対零度",
 		"answer": "ぜったいれいど",
 		"difficulty": "NORMAL"
+	},
+		{
+		"type": "EFFECT",
+		"question": "分数の分母と分子を隔てる横棒をこう言います",
+		"hint": "括線",
+		"answer": "かっせん",
+		"difficulty": "NORMAL"
+	},
+		{
+		"type": "EFFECT",
+		"question": "2数の最大公約数を求めるアルゴリズムは「ユークリッドの〇〇〇」？",
+		"hint": "互除法",
+		"answer": "ごじょほう",
+		"difficulty": "NORMAL"
 	}
 ]
