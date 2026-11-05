@@ -966,5 +966,510 @@
 			}
 		},
 		"difficulty": "EASY"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の元素を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "ハロゲン",
+				"choices": [
+					"フッ素",
+					"塩素"
+				]
+			},
+			"B": {
+				"name": "貴ガス",
+				"choices": [
+					"ネオン",
+					"アルゴン"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の数を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "素数",
+				"choices": [
+					"17",
+					"23"
+				]
+			},
+			"B": {
+				"name": "合成数",
+				"choices": [
+					"21",
+					"27"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の化合物を結合の種類で分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "イオン結合",
+				"choices": [
+					"NaCl",
+					"MgO"
+				]
+			},
+			"B": {
+				"name": "共有結合",
+				"choices": [
+					"H2O",
+					"CO2"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の物理量を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "ベクトル",
+				"choices": [
+					"速度",
+					"加速度"
+				]
+			},
+			"B": {
+				"name": "スカラー",
+				"choices": [
+					"質量",
+					"温度"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の天体を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "地球型惑星",
+				"choices": [
+					"水星",
+					"火星"
+				]
+			},
+			"B": {
+				"name": "木星型惑星",
+				"choices": [
+					"木星",
+					"土星"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の国を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "内陸国",
+				"choices": [
+					"ネパール",
+					"ボリビア"
+				]
+			},
+			"B": {
+				"name": "島国",
+				"choices": [
+					"日本",
+					"キューバ"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の作曲家を音楽史上の時代で分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "バロック",
+				"choices": [
+					"バッハ",
+					"ヘンデル"
+				]
+			},
+			"B": {
+				"name": "古典派",
+				"choices": [
+					"モーツァルト",
+					"ハイドン"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の絵画を作者ごとに分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "ゴッホ",
+				"choices": [
+					"ひまわり",
+					"夜のカフェ"
+				]
+			},
+			"B": {
+				"name": "モネ",
+				"choices": [
+					"睡蓮",
+					"印象・日の出"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の歴史上の人物を時代で分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "戦国時代",
+				"choices": [
+					"織田信長",
+					"武田信玄"
+				]
+			},
+			"B": {
+				"name": "江戸時代",
+				"choices": [
+					"徳川吉宗",
+					"松平定信"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の出来事を起きた世紀で分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "18世紀",
+				"choices": [
+					"産業革命",
+					"米独立"
+				]
+			},
+			"B": {
+				"name": "19世紀",
+				"choices": [
+					"明治維新",
+					"南北戦争"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の条約を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "第一次大戦後",
+				"choices": [
+					"ベルサイユ",
+					"サンジェルマン"
+				]
+			},
+			"B": {
+				"name": "第二次大戦後",
+				"choices": [
+					"サンフランシスコ",
+					"ポツダム"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の単位を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "基本単位",
+				"choices": [
+					"メートル",
+					"ケルビン"
+				]
+			},
+			"B": {
+				"name": "組立単位",
+				"choices": [
+					"ニュートン",
+					"ジュール"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の情報技術用語を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "暗号方式",
+				"choices": [
+					"AES",
+					"RSA"
+				]
+			},
+			"B": {
+				"name": "通信規約",
+				"choices": [
+					"HTTP",
+					"SMTP"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次のデータ構造を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "線形構造",
+				"choices": [
+					"スタック",
+					"キュー"
+				]
+			},
+			"B": {
+				"name": "非線形構造",
+				"choices": [
+					"木構造",
+					"グラフ"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次のプログラミング言語を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "コンパイル型",
+				"choices": [
+					"C言語",
+					"Rust"
+				]
+			},
+			"B": {
+				"name": "インタプリタ型",
+				"choices": [
+					"Python",
+					"Ruby"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の食材を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "豆類",
+				"choices": [
+					"大豆",
+					"小豆"
+				]
+			},
+			"B": {
+				"name": "穀類",
+				"choices": [
+					"小麦",
+					"大麦"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の料理を発祥国ごとに分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "イタリア",
+				"choices": [
+					"リゾット",
+					"ラザニア"
+				]
+			},
+			"B": {
+				"name": "スペイン",
+				"choices": [
+					"パエリア",
+					"ガスパチョ"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の鉱物を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "ケイ酸塩鉱物",
+				"choices": [
+					"石英",
+					"長石"
+				]
+			},
+			"B": {
+				"name": "炭酸塩鉱物",
+				"choices": [
+					"方解石",
+					"菱苦土石"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の血液型を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "A型抗原あり",
+				"choices": [
+					"A型",
+					"AB型"
+				]
+			},
+			"B": {
+				"name": "A型抗原なし",
+				"choices": [
+					"B型",
+					"O型"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の元素を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "アルカリ金属",
+				"choices": [
+					"リチウム",
+					"ナトリウム"
+				]
+			},
+			"B": {
+				"name": "アルカリ土類金属",
+				"choices": [
+					"マグネシウム",
+					"カルシウム"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の惑星を分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "内惑星",
+				"choices": [
+					"水星",
+					"金星"
+				]
+			},
+			"B": {
+				"name": "外惑星",
+				"choices": [
+					"木星",
+					"土星"
+				]
+			}
+		},
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の人物をノーベル賞の受賞分野で分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "物理学賞",
+				"choices": [
+					"アインシュタイン",
+					"湯川秀樹"
+				]
+			},
+			"B": {
+				"name": "化学賞",
+				"choices": [
+					"キュリー",
+					"野依良治"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の文学作品を作者ごとに分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "シェイクスピア",
+				"choices": [
+					"ハムレット",
+					"マクベス"
+				]
+			},
+			"B": {
+				"name": "ゲーテ",
+				"choices": [
+					"ファウスト",
+					"若きウェルテル"
+				]
+			}
+		},
+		"difficulty": "HARD"
+	},
+	{
+		"type": "GROUP",
+		"question": "次の惑星探査機を目的地ごとに分類しなさい。",
+		"groups": {
+			"A": {
+				"name": "火星探査",
+				"choices": [
+					"バイキング",
+					"キュリオシティ"
+				]
+			},
+			"B": {
+				"name": "金星探査",
+				"choices": [
+					"あかつき",
+					"ベネラ"
+				]
+			}
+		},
+		"difficulty": "HARD"
 	}
+]
 ]
