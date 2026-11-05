@@ -116,7 +116,7 @@
 			"SQL",
 			"CSS",
 			"AWT",
-			"PKI"
+			"UMI"
 		],
 		"difficulty": "NORMAL"
 	},
@@ -127,7 +127,7 @@
 			"AWS",
 			"CST",
 			"SQL",
-			"PKI"
+			"UMI"
 		],
 		"difficulty": "NORMAL"
 	},
@@ -138,7 +138,18 @@
 			"CSS",
 			"SQL",
 			"AWT",
-			"PKI"
+			"UMI"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "SLOT",
+		"question": "ソフトウェアの構造や動きを視覚的に表現するための国際標準のモデリング言語を何という？",
+		"choices": [
+			"UML",
+			"SQS",
+			"AWT",
+			"CSI"
 		],
 		"difficulty": "NORMAL"
 	},
@@ -243,17 +254,6 @@
 	},
 	{
 		"type": "SLOT",
-		"question": "日本の首都はどこ？",
-		"choices": [
-			"東京都",
-			"大阪府",
-			"京都県",
-			"北海道"
-		],
-		"difficulty": "EASY"
-	},
-	{
-		"type": "SLOT",
 		"question": "日本で最も長い川は「〇〇川」？",
 		"choices": [
 			"信濃",
@@ -276,17 +276,6 @@
 	},
 	{
 		"type": "SLOT",
-		"question": "日本で最も北に位置する都道府県はどれ？",
-		"choices": [
-			"北海道",
-			"青森県",
-			"岩手府",
-			"秋田都"
-		],
-		"difficulty": "EASY"
-	},
-	{
-		"type": "SLOT",
 		"question": "日本の伝統的な麺料理で、そば粉を主な原料とするものは？",
 		"choices": [
 			"蕎麦",
@@ -304,17 +293,6 @@
 			"柔道",
 			"剣道",
 			"空手"
-		],
-		"difficulty": "EASY"
-	},
-	{
-		"type": "SLOT",
-		"question": "日本で一般的に、マリオの職業として知られるものは？",
-		"choices": [
-			"配管工",
-			"警察官",
-			"消防士",
-			"料理人"
 		],
 		"difficulty": "EASY"
 	},
