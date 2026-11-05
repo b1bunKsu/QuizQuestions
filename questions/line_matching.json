@@ -838,5 +838,447 @@
 			"コントローラー"
 		],
 		"difficulty": "EASY"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の化学物質と化学式を対応させなさい。",
+		"leftChoices": [
+			"アンモニア",
+			"メタン",
+			"オゾン",
+			"硫化水素"
+		],
+		"rightChoices": [
+			"CH4",
+			"H2S",
+			"NH3",
+			"O3"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の数学者と主な業績を対応させなさい。",
+		"leftChoices": [
+			"ピタゴラス",
+			"デカルト",
+			"ガウス",
+			"オイラー"
+		],
+		"rightChoices": [
+			"解析学の発展",
+			"座標幾何学",
+			"整数論の研究",
+			"三平方の定理"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の元素記号と元素名を対応させなさい。",
+		"leftChoices": [
+			"W",
+			"Sb",
+			"Hg",
+			"Sn"
+		],
+		"rightChoices": [
+			"スズ",
+			"水銀",
+			"タングステン",
+			"アンチモン"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の国と首都を対応させなさい。",
+		"leftChoices": [
+			"カザフスタン",
+			"モロッコ",
+			"スロベニア",
+			"エチオピア"
+		],
+		"rightChoices": [
+			"アディスアベバ",
+			"ラバト",
+			"リュブリャナ",
+			"アスタナ"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の物理学者と関連する法則を対応させなさい。",
+		"leftChoices": [
+			"ボイル",
+			"フック",
+			"オーム",
+			"クーロン"
+		],
+		"rightChoices": [
+			"弾性の法則",
+			"電気抵抗の法則",
+			"気体の圧力と体積",
+			"静電気力の法則"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の山と標高を対応させなさい。",
+		"leftChoices": [
+			"富士山",
+			"北岳",
+			"奥穂高岳",
+			"槍ヶ岳"
+		],
+		"rightChoices": [
+			"3190m",
+			"3180m",
+			"3776m",
+			"3193m"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の古代文明と主な河川を対応させなさい。",
+		"leftChoices": [
+			"エジプト文明",
+			"メソポタミア",
+			"インダス文明",
+			"中国文明"
+		],
+		"rightChoices": [
+			"黄河",
+			"インダス川",
+			"チグリス・ユーフラテス川",
+			"ナイル川"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の美術家と代表作を対応させなさい。",
+		"leftChoices": [
+			"モネ",
+			"ゴッホ",
+			"ダリ",
+			"ムンク"
+		],
+		"rightChoices": [
+			"記憶の固執",
+			"叫び",
+			"睡蓮",
+			"星月夜"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の言語と主な使用国を対応させなさい。",
+		"leftChoices": [
+			"スワヒリ語",
+			"ベンガル語",
+			"ペルシア語",
+			"タミル語"
+		],
+		"rightChoices": [
+			"バングラデシュ",
+			"イラン",
+			"タンザニア",
+			"インド南部"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の天体と分類を対応させなさい。",
+		"leftChoices": [
+			"ケレス",
+			"エウロパ",
+			"タイタン",
+			"ベスタ"
+		],
+		"rightChoices": [
+			"土星の衛星",
+			"小惑星",
+			"準惑星",
+			"木星の衛星"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の法律と制定年を対応させなさい。",
+		"leftChoices": [
+			"日本国憲法",
+			"民法",
+			"刑法",
+			"教育基本法"
+		],
+		"rightChoices": [
+			"1907年",
+			"1947年",
+			"1896年",
+			"1946年"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の生物と分類を対応させなさい。",
+		"leftChoices": [
+			"カモノハシ",
+			"コウモリ",
+			"ペンギン",
+			"サメ"
+		],
+		"rightChoices": [
+			"軟骨魚類",
+			"哺乳類",
+			"鳥類",
+			"単孔類"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の哲学者と思想を対応させなさい。",
+		"leftChoices": [
+			"デカルト",
+			"ニーチェ",
+			"カント",
+			"ベンサム"
+		],
+		"rightChoices": [
+			"功利主義",
+			"超人思想",
+			"物自体",
+			"我思う、ゆえに我あり"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の音楽家と出身国を対応させなさい。",
+		"leftChoices": [
+			"ショパン",
+			"リスト",
+			"ドビュッシー",
+			"チャイコフスキー"
+		],
+		"rightChoices": [
+			"フランス",
+			"ロシア",
+			"ポーランド",
+			"ハンガリー"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の単位と物理量を対応させなさい。",
+		"leftChoices": [
+			"パスカル",
+			"ジュール",
+			"テスラ",
+			"ワット"
+		],
+		"rightChoices": [
+			"磁束密度",
+			"仕事・エネルギー",
+			"圧力",
+			"仕事率"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の島と都道府県を対応させなさい。",
+		"leftChoices": [
+			"佐渡島",
+			"淡路島",
+			"屋久島",
+			"隠岐諸島"
+		],
+		"rightChoices": [
+			"島根県",
+			"鹿児島県",
+			"新潟県",
+			"兵庫県"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の国際機関と本部所在地を対応させなさい。",
+		"leftChoices": [
+			"WHO",
+			"UNESCO",
+			"WTO",
+			"IMF"
+		],
+		"rightChoices": [
+			"ワシントンD.C.",
+			"ジュネーブ",
+			"パリ",
+			"ジュネーブ"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の火山と所在する都道府県を対応させなさい。",
+		"leftChoices": [
+			"阿蘇山",
+			"桜島",
+			"浅間山",
+			"大山"
+		],
+		"rightChoices": [
+			"群馬県・長野県",
+			"鳥取県",
+			"熊本県",
+			"鹿児島県"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の科学者と専門分野を対応させなさい。",
+		"leftChoices": [
+			"メンデル",
+			"パスツール",
+			"ファラデー",
+			"ラボアジエ"
+		],
+		"rightChoices": [
+			"電磁誘導",
+			"遺伝の法則",
+			"質量保存の法則",
+			"微生物学"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の古典文学作品と成立時代を対応させなさい。",
+		"leftChoices": [
+			"万葉集",
+			"古今和歌集",
+			"新古今和歌集",
+			"平家物語"
+		],
+		"rightChoices": [
+			"鎌倉時代",
+			"奈良時代",
+			"平安時代",
+			"鎌倉初期"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の元素と原子番号を対応させなさい。",
+		"leftChoices": [
+			"タングステン",
+			"金",
+			"白金",
+			"鉛"
+		],
+		"rightChoices": [
+			"82",
+			"79",
+			"78",
+			"74"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の経済学者と著書を対応させなさい。",
+		"leftChoices": [
+			"アダム・スミス",
+			"ケインズ",
+			"マルクス",
+			"リカード"
+		],
+		"rightChoices": [
+			"資本論",
+			"経済学および課税の原理",
+			"国富論",
+			"雇用・利子・貨幣の一般理論"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の建築物と建築様式を対応させなさい。",
+		"leftChoices": [
+			"パルテノン神殿",
+			"ノートルダム大聖堂",
+			"パンテオン",
+			"サン・ピエトロ大聖堂"
+		],
+		"rightChoices": [
+			"ゴシック様式",
+			"ルネサンス様式",
+			"古代ギリシア建築",
+			"古代ローマ建築"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の元素と主な用途を対応させなさい。",
+		"leftChoices": [
+			"ネオン",
+			"アルゴン",
+			"ヘリウム",
+			"ヨウ素"
+		],
+		"rightChoices": [
+			"風船や冷却材",
+			"殺菌・消毒",
+			"看板用放電管",
+			"溶接時の保護ガス"
+		],
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の日本の歴史人物と役職を対応させなさい。",
+		"leftChoices": [
+			"藤原道長",
+			"北条泰時",
+			"足利義満",
+			"田沼意次"
+		],
+		"rightChoices": [
+			"室町幕府3代将軍",
+			"江戸幕府の老中",
+			"鎌倉幕府の執権",
+			"平安時代の摂政・関白"
+		],
+		"difficulty": "HARD"
+	},
+	{
+		"type": "LINE_MATCHING",
+		"question": "次の数学者と関連する概念を対応させなさい。",
+		"leftChoices": [
+			"フェルマー",
+			"ラマヌジャン",
+			"カントール",
+			"ノイマン"
+		],
+		"rightChoices": [
+			"集合論",
+			"ゲーム理論",
+			"最終定理",
+			"整数分割"
+		],
+		"difficulty": "HARD"
 	}
 ]
