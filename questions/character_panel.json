@@ -657,5 +657,201 @@
     "answer": "母指対向",
     "choices": ["母", "指", "対", "向", "子", "称", "回", "反", "手", "掌"],
     "difficulty": "EASY"
+  },[
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "熱力学において、系の乱雑さやエネルギーの分散を表す状態量は何？",
+    "answer": "エントロピー",
+    "choices": ["エ", "ン", "ト", "ロ", "ピ", "ー", "ア", "ク", "サ", "ル"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "惑星の運動に関する三つの法則を発見したドイツの天文学者は誰？",
+    "answer": "ケプラー",
+    "choices": ["ケ", "プ", "ラ", "ー", "ト", "ン", "ガ", "リ", "オ", "ス"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "電磁誘導の法則を発見したイギリスの科学者は誰？",
+    "answer": "ファラデー",
+    "choices": ["フ", "ァ", "ラ", "デ", "ー", "ク", "ン", "ボ", "イ", "ル"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "微分積分学の基本定理を独立して確立したドイツの数学者は誰？",
+    "answer": "ライプニッツ",
+    "choices": ["ラ", "イ", "プ", "ニ", "ッ", "ツ", "カ", "ン", "ト", "ル"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "進化論を著書『種の起源』で発表したイギリスの博物学者は誰？",
+    "answer": "ダーウィン",
+    "choices": ["ダ", "ー", "ウ", "ィ", "ン", "メ", "ン", "デ", "ル", "パ"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "元素の周期律を発見し、周期表の原型を作成したロシアの化学者は誰？",
+    "answer": "メンデレーエフ",
+    "choices": ["メ", "ン", "デ", "レ", "ー", "エ", "フ", "ボ", "イ", "ル"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "不完全性定理を証明したオーストリア出身の数学者は誰？",
+    "answer": "ゲーデル",
+    "choices": ["ゲ", "ー", "デ", "ル", "カ", "ン", "ト", "ア", "リ", "ス"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "フランス革命期に制定された、人間の自由と平等を掲げる宣言は何？",
+    "answer": "人権宣言",
+    "choices": ["人", "権", "宣", "言", "憲", "法", "革", "命", "民", "主"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "古代ギリシアで、ソクラテスの弟子として知られる哲学者は誰？",
+    "answer": "プラトン",
+    "choices": ["プ", "ラ", "ト", "ン", "ア", "リ", "ス", "ソ", "ク", "テ"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『純粋理性批判』を著したドイツの哲学者は誰？",
+    "answer": "カント",
+    "choices": ["カ", "ン", "ト", "ヘ", "ー", "ゲ", "ル", "ニ", "ー", "チ"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『神曲』を著した中世イタリアの詩人は誰？",
+    "answer": "ダンテ",
+    "choices": ["ダ", "ン", "テ", "シ", "ェ", "イ", "ク", "ス", "ピ", "ア"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『変身』や『審判』などの作品で知られる作家は誰？",
+    "answer": "カフカ",
+    "choices": ["カ", "フ", "カ", "ゲ", "ー", "テ", "ヘ", "ッ", "セ", "ル"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『ドン・キホーテ』を著したスペインの作家は誰？",
+    "answer": "セルバンテス",
+    "choices": ["セ", "ル", "バ", "ン", "テ", "ス", "カ", "フ", "カ", "ロ"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "『罪と罰』や『カラマーゾフの兄弟』を著したロシアの作家は誰？",
+    "answer": "ドストエフスキー",
+    "choices": ["ド", "ス", "ト", "エ", "フ", "ス", "キ", "ー", "ロ", "フ"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "古代エジプトの象形文字の解読に大きく貢献した石碑は何？",
+    "answer": "ロゼッタストーン",
+    "choices": ["ロ", "ゼ", "ッ", "タ", "ス", "ト", "ー", "ン", "ピ", "ラ"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "15世紀に活版印刷術をヨーロッパで普及させた人物は誰？",
+    "answer": "グーテンベルク",
+    "choices": ["グ", "ー", "テ", "ン", "ベ", "ル", "ク", "ガ", "リ", "レ"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "古代ローマで、元老院と対立しながら終身独裁官となった人物は誰？",
+    "answer": "カエサル",
+    "choices": ["カ", "エ", "サ", "ル", "オ", "ク", "タ", "ウ", "ィ", "ア"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "世界で最も深い湖として知られる、シベリアに位置する湖は「〇〇〇〇湖」？",
+    "answer": "バイカル",
+    "choices": ["バ", "イ", "カ", "ル", "オ", "ア", "ラ", "ル", "ビ", "ト"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "南アメリカ大陸西部を南北に走る大山脈は「〇〇〇〇山脈」？",
+    "answer": "アンデス",
+    "choices": ["ア", "ン", "デ", "ス", "ズ", "キ", "ヒ", "マ", "ラ", "ヤ"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "世界で最も面積が大きい内陸国はどこ？",
+    "answer": "カザフスタン",
+    "choices": ["カ", "ザ", "フ", "ス", "タ", "ン", "モ", "ス", "ゴ", "ル"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "国際単位系において、電気抵抗の単位は何？",
+    "answer": "オーム",
+    "choices": ["オ", "ー", "ム", "ボ", "ル", "ト", "ワ", "ッ", "ト", "ン"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "DNAの二重らせん構造の解明で知られる科学者のうち、ワトソンとともに研究した人物は誰？",
+    "answer": "クリック",
+    "choices": ["ク", "リ", "ッ", "ク", "ワ", "ト", "ソ", "ン", "メ", "ア"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "光合成において、光エネルギーを吸収する主要な色素は何？",
+    "answer": "クロロフィル",
+    "choices": ["ク", "ロ", "フ", "ィ", "ル", "カ", "タ", "テ", "ン", "ア"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "細胞内でタンパク質の合成が行われる小器官は何？",
+    "answer": "リボソーム",
+    "choices": ["リ", "ボ", "ソ", "ー", "ム", "ミ", "ト", "コ", "ン", "ド"],
+    "difficulty": "NORMAL"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "地球の地質時代において、恐竜が繁栄した中生代を構成する三つの紀のうち、最も古いものは？",
+    "answer": "三畳紀",
+    "choices": ["三", "畳", "紀", "白", "亜", "新", "生", "代", "古", "期"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "数学において、円周の直径に対する比を表す定数は何？",
+    "answer": "円周率",
+    "choices": ["円", "周", "率", "半", "径", "面", "積", "体", "積", "角"],
+    "difficulty": "EASY"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "コンピュータ科学において、計算可能性の理論の基礎を築いたイギリスの数学者は誰？",
+    "answer": "チューリング",
+    "choices": ["チ", "ュ", "ー", "リ", "ン", "グ", "ノ", "イ", "マ", "モ"],
+    "difficulty": "HARD"
+  },
+  {
+    "type": "CHARACTER_PANEL",
+    "question": "経済学において、自由市場の価格調整機能を「見えざる手」と表現した思想家は誰？",
+    "answer": "アダムスミス",
+    "choices": ["ア", "ダ", "ム", "ス", "ミ", "マ", "リ", "カ", "ル", "ド"],
+    "difficulty": "HARD"
   }
 ]
