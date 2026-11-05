@@ -370,5 +370,143 @@
 		"question": "モイ株式会社が運営する、iPhoneやAndroid端末、PCなどから手軽にライブ配信を行えるサービスといえば？",
 		"answer": "ツイキャス",
 		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "プログラミングにおいて、ある関数が自分自身を呼び出す処理方法を何という？",
+		"answer": "再帰呼び出し",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "暗号化と復号に同じ鍵を使用する暗号方式を何という？",
+		"answer": "共通鍵暗号",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "インターネット上で、IPアドレスとドメイン名を対応付ける仕組みを何という？",
+		"answer": "DNS",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "データを後入れ先出しの原則で管理するデータ構造を何という？",
+		"answer": "スタック",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "複数の処理が互いの終了を待ち続け、処理が進まなくなる状態を何という？",
+		"answer": "デッドロック",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "ソフトウェア開発において、プログラムの不具合を取り除く作業を何という？",
+		"answer": "デバッグ",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "二つの入力が異なる場合にのみ1を出力する論理演算は？",
+		"answer": "排他的論理和",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "データベースにおいて、複数の操作をひとまとまりとして扱い、すべて成功するかすべて取り消す処理単位を何という？",
+		"answer": "トランザクション",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "二次方程式の解を求める際に使用する、判別式を表す記号「D」は何という言葉の頭文字？",
+		"answer": "ディスクリミナント",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "三角形の3辺の長さについて、直角三角形で成り立つ関係を示した定理は？",
+		"answer": "ピタゴラスの定理",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "微分積分学の基本定理を発見した人物の一人であり、万有引力の法則でも知られるイギリスの科学者は？",
+		"answer": "ニュートン",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "物体が外部から力を受けない限り、静止または等速直線運動を続けるという法則を何という？",
+		"answer": "慣性の法則",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "電流が流れる導体の周囲に磁場が発生する現象を発見したデンマークの物理学者は？",
+		"answer": "エルステッド",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "元素記号Naで表される元素の名称は？",
+		"answer": "ナトリウム",
+		"difficulty": "EASY"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "化学反応の前後で、原子の種類と数が変化しないという法則は？",
+		"answer": "質量保存の法則",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "1517年、九十五か条の論題を発表し、宗教改革のきっかけを作ったドイツの神学者は？",
+		"answer": "マルティンルター",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "古代ローマの政治家であり、『ガリア戦記』を著した人物は？",
+		"answer": "ユリウスカエサル",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "1215年、イングランド王ジョンが貴族たちの要求によって認めた文書は？",
+		"answer": "マグナカルタ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "アフリカ大陸で最も高い山の名前は？",
+		"answer": "キリマンジャロ",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "世界で最も深いことで知られる、太平洋西部にある海溝は？",
+		"answer": "マリアナ海溝",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "南アメリカ大陸の西側に沿って南北に連なる世界最長級の山脈は？",
+		"answer": "アンデス山脈",
+		"difficulty": "NORMAL"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "小説『変身』を執筆した、チェコ出身の作家は？",
+		"answer": "フランツカフカ",
+		"difficulty": "HARD"
+	},
+	{
+		"type": "REARRANGEMENT",
+		"question": "小説『罪と罰』を執筆したロシアの作家は？",
+		"answer": "ドストエフスキー",
+		"difficulty": "HARD"
 	}
 ]
