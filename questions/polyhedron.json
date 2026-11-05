@@ -316,5 +316,11 @@
 		"question": "あるゲームのキャラクターから命名された遺伝子",
 		"answer": "ピカチュリン",
 		"difficulty": "NORMAL"
+	},
+		{
+		"type": "CUBE",
+		"question": "第一興商が運営するカラオケチェーン店",
+		"answer": "ビッグエコー",
+		"difficulty": "NORMAL"
 	}
 ]
