@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、太陽系の惑星で地球型惑星に分類されるものをすべて選びなさい。",
 		"answer": [
@@ -22,6 +23,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 2,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、日本の四国地方に属する県をすべて選びなさい。",
 		"answer": [
@@ -44,6 +46,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 3,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、哺乳類に分類される動物をすべて選びなさい。",
 		"answer": [
@@ -66,6 +69,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 4,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国連安全保障理事会の常任理事国をすべて選びなさい。",
 		"answer": [
@@ -89,6 +93,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 5,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素記号が2文字で表される元素をすべて選びなさい。",
 		"answer": [
@@ -111,6 +116,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 6,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、世界の三大宗教として一般に挙げられる宗教をすべて選びなさい。",
 		"answer": [
@@ -132,6 +138,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 7,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素の周期表で第1周期に位置する元素をすべて選びなさい。",
 		"answer": [
@@ -152,6 +159,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 8,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、太平洋に面している日本の都道府県をすべて選びなさい。",
 		"answer": [
@@ -174,6 +182,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 9,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素記号が1文字で表される元素をすべて選びなさい。",
 		"answer": [
@@ -197,6 +206,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 10,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、江戸幕府の歴代将軍をすべて選びなさい。",
 		"answer": [
@@ -219,6 +229,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 11,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、世界遺産に登録されている日本の文化遺産をすべて選びなさい。",
 		"answer": [
@@ -241,6 +252,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 12,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、地球より太陽に近い軌道を公転する惑星をすべて選びなさい。",
 		"answer": [
@@ -261,6 +273,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 13,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、日本の政令指定都市をすべて選びなさい。",
 		"answer": [
@@ -284,6 +297,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 14,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、英語で曜日を表す単語をすべて選びなさい。",
 		"answer": [
@@ -306,6 +320,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 15,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、人体の消化管に含まれる器官をすべて選びなさい。",
 		"answer": [
@@ -328,6 +343,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 16,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国際単位系（SI）の基本単位をすべて選びなさい。",
 		"answer": [
@@ -351,6 +367,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 17,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素記号が2文字で表される元素をすべて選びなさい。",
 		"answer": [
@@ -373,6 +390,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 18,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、世界の五大洋に分類されるものをすべて選びなさい。",
 		"answer": [
@@ -396,6 +414,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 19,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、日本の国会を構成する議院をすべて選びなさい。",
 		"answer": [
@@ -416,6 +435,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 20,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、植物の光合成に必要な物質をすべて選びなさい。",
 		"answer": [
@@ -436,6 +456,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 21,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、平方数である整数をすべて選びなさい。",
 		"answer": [
@@ -458,6 +479,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 22,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、素数である整数をすべて選びなさい。",
 		"answer": [
@@ -481,6 +503,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 23,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、ローマ数字で表記できる正の整数をすべて選びなさい。",
 		"answer": [
@@ -504,6 +527,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 24,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国際オリンピック委員会の公用語をすべて選びなさい。",
 		"answer": [
@@ -524,6 +548,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 25,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、五大湖に含まれる湖をすべて選びなさい。",
 		"answer": [
@@ -547,6 +572,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 26,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、本州に位置する県をすべて選びなさい。",
 		"answer": [
@@ -569,6 +595,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 27,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素の周期表で貴ガスに分類される元素をすべて選びなさい。",
 		"answer": [
@@ -592,6 +619,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 28,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素の周期表で原子番号が10以下の元素をすべて選びなさい。",
 		"answer": [
@@ -615,6 +643,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 29,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、哺乳類に分類される動物をすべて選びなさい。",
 		"answer": [
@@ -637,6 +666,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 30,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、人体の消化管に含まれる器官をすべて選びなさい。",
 		"answer": [
@@ -659,6 +689,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 31,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、地球より太陽から遠い軌道を公転する惑星をすべて選びなさい。",
 		"answer": [
@@ -682,6 +713,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 32,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、力学で基本的に用いられるSI基本単位をすべて選びなさい。",
 		"answer": [
@@ -703,6 +735,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 33,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、日本の中国地方に属する県をすべて選びなさい。",
 		"answer": [
@@ -726,6 +759,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 34,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、日本の四国地方に属する県をすべて選びなさい。",
 		"answer": [
@@ -748,6 +782,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 35,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、木星型惑星に分類される太陽系の惑星をすべて選びなさい。",
 		"answer": [
@@ -768,6 +803,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 36,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、ABO式血液型における血液型をすべて選びなさい。",
 		"answer": [
@@ -790,6 +826,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 37,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、DNAを構成する塩基をすべて選びなさい。",
 		"answer": [
@@ -812,6 +849,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 38,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、RNAを構成する塩基をすべて選びなさい。",
 		"answer": [
@@ -834,6 +872,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 39,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、光の三原色に含まれる色をすべて選びなさい。",
 		"answer": [
@@ -855,6 +894,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 40,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、色料の三原色に含まれる色をすべて選びなさい。",
 		"answer": [
@@ -876,6 +916,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 41,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、物質の古典的な4つの状態に含まれるものをすべて選びなさい。",
 		"answer": [
@@ -898,6 +939,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 42,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次の整数のうち、素数であるものをすべて選びなさい。",
 		"answer": [
@@ -920,6 +962,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 43,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次の整数のうち、平方数であるものをすべて選びなさい。",
 		"answer": [
@@ -943,6 +986,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 44,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、1から30までの整数のうち7の倍数であるものをすべて選びなさい。",
 		"answer": [
@@ -965,6 +1009,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 45,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、日数が30日である月をすべて選びなさい。",
 		"answer": [
@@ -987,6 +1032,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 46,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、日本の4つの主要な島に含まれるものをすべて選びなさい。",
 		"answer": [
@@ -1009,6 +1055,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 47,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国連安全保障理事会の常任理事国をすべて選びなさい。",
 		"answer": [
@@ -1032,6 +1079,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 48,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国際連合の公用語をすべて選びなさい。",
 		"answer": [
@@ -1056,6 +1104,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 49,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、オリンピックの五輪マークに使われる色をすべて選びなさい。",
 		"answer": [
@@ -1079,6 +1128,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 50,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素記号が1文字で表される元素をすべて選びなさい。",
 		"answer": [
@@ -1102,6 +1152,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 51,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、原子番号が18以下の元素をすべて選びなさい。",
 		"answer": [
@@ -1124,6 +1175,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 52,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、太陽系の地球型惑星をすべて選びなさい。",
 		"answer": [
@@ -1146,6 +1198,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 53,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国際連合の安全保障理事会における常任理事国をすべて選びなさい。",
 		"answer": [
@@ -1169,6 +1222,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 54,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、フランス革命に関連する出来事をすべて選びなさい。",
 		"answer": [
@@ -1191,6 +1245,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 55,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、哺乳類に分類される動物をすべて選びなさい。",
 		"answer": [
@@ -1213,6 +1268,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 56,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、元素記号が2文字で表される元素をすべて選びなさい。",
 		"answer": [
@@ -1235,6 +1291,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 57,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、江戸幕府の将軍を務めた人物をすべて選びなさい。",
 		"answer": [
@@ -1257,6 +1314,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 58,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、世界遺産に登録されている日本の文化遺産をすべて選びなさい。",
 		"answer": [
@@ -1279,6 +1337,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 59,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、シェイクスピアが著した戯曲をすべて選びなさい。",
 		"answer": [
@@ -1301,6 +1360,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 60,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、赤道が通過する国をすべて選びなさい。",
 		"answer": [
@@ -1323,6 +1383,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 61,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、第一次世界大戦後に設立された国際連盟の常任理事国となった国をすべて選びなさい。",
 		"answer": [
@@ -1345,6 +1406,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 62,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、素数をすべて選びなさい。",
 		"answer": [
@@ -1367,6 +1429,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 63,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、DNAを構成する塩基をすべて選びなさい。",
 		"answer": [
@@ -1389,6 +1452,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 64,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、鎌倉時代に成立した仏教宗派をすべて選びなさい。",
 		"answer": [
@@ -1411,6 +1475,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 65,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、フランス語を公用語の一つとしている国をすべて選びなさい。",
 		"answer": [
@@ -1433,6 +1498,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 66,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、太宰治の著作をすべて選びなさい。",
 		"answer": [
@@ -1455,6 +1521,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 67,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、電磁波に分類されるものをすべて選びなさい。",
 		"answer": [
@@ -1477,6 +1544,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 68,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国土が南アメリカ大陸に位置する国をすべて選びなさい。",
 		"answer": [
@@ -1499,6 +1567,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 69,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、ルネサンス期に活躍した芸術家をすべて選びなさい。",
 		"answer": [
@@ -1521,6 +1590,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 70,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、世界三大宗教に数えられる宗教をすべて選びなさい。",
 		"answer": [
@@ -1542,6 +1612,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 71,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、江戸時代に日本へ来航した外国船に関係する人物をすべて選びなさい。",
 		"answer": [
@@ -1564,6 +1635,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 72,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、植物細胞に存在し、一般的な動物細胞には存在しない構造をすべて選びなさい。",
 		"answer": [
@@ -1585,6 +1657,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 73,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、第二次世界大戦後に独立したアジアの国をすべて選びなさい。",
 		"answer": [
@@ -1607,6 +1680,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 74,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、ノーベル賞の創設時から存在する賞をすべて選びなさい。",
 		"answer": [
@@ -1629,6 +1703,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 75,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、古代ギリシャの哲学者をすべて選びなさい。",
 		"answer": [
@@ -1651,6 +1726,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 76,
 		"type": "MULTIPLE_CHOICE",
 		"question": "次のうち、国際単位系（SI）の基本単位をすべて選びなさい。",
 		"answer": [
