@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統的な遊び",
@@ -16,6 +17,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 2,
 		"type": "RENSOU",
 		"hints": [
 			"世界に存在する建造物",
@@ -32,6 +34,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 3,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統文化",
@@ -48,6 +51,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 4,
 		"type": "RENSOU",
 		"hints": [
 			"世界の動物",
@@ -64,6 +68,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 5,
 		"type": "RENSOU",
 		"hints": [
 			"日本の食文化",
@@ -80,6 +85,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 6,
 		"type": "RENSOU",
 		"hints": [
 			"世界の自然現象",
@@ -96,6 +102,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 7,
 		"type": "RENSOU",
 		"hints": [
 			"日本の歴史上の人物",
@@ -112,6 +119,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 8,
 		"type": "RENSOU",
 		"hints": [
 			"世界の文学作品",
@@ -128,6 +136,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 9,
 		"type": "RENSOU",
 		"hints": [
 			"日本の地理に関係する",
@@ -144,6 +153,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 10,
 		"type": "RENSOU",
 		"hints": [
 			"世界の歴史に関係する",
@@ -160,6 +170,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 11,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統芸能",
@@ -176,6 +187,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 12,
 		"type": "RENSOU",
 		"hints": [
 			"太陽系に関係する",
@@ -192,6 +204,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 13,
 		"type": "RENSOU",
 		"hints": [
 			"日本の文学作品",
@@ -208,6 +221,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 14,
 		"type": "RENSOU",
 		"hints": [
 			"世界の音楽に関係する",
@@ -224,6 +238,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 15,
 		"type": "RENSOU",
 		"hints": [
 			"日本の食べ物",
@@ -240,6 +255,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 16,
 		"type": "RENSOU",
 		"hints": [
 			"世界の動物",
@@ -256,6 +272,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 17,
 		"type": "RENSOU",
 		"hints": [
 			"日本の歴史上の出来事",
@@ -272,6 +289,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 18,
 		"type": "RENSOU",
 		"hints": [
 			"世界の地理に関係する",
@@ -288,6 +306,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 19,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統的な道具",
@@ -304,6 +323,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 20,
 		"type": "RENSOU",
 		"hints": [
 			"世界の科学者",
@@ -320,6 +340,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 21,
 		"type": "RENSOU",
 		"hints": [
 			"日本の観光地",
@@ -336,6 +357,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 22,
 		"type": "RENSOU",
 		"hints": [
 			"世界のスポーツ",
@@ -352,6 +374,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 23,
 		"type": "RENSOU",
 		"hints": [
 			"日本の文学に関係する",
@@ -368,6 +391,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 24,
 		"type": "RENSOU",
 		"hints": [
 			"世界の建造物",
@@ -384,6 +408,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 25,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統的な食べ物",
@@ -400,6 +425,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 26,
 		"type": "RENSOU",
 		"hints": [
 			"日本のゲーム作品",
@@ -416,6 +442,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 27,
 		"type": "RENSOU",
 		"hints": [
 			"日本の自然に関係する",
@@ -432,6 +459,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 28,
 		"type": "RENSOU",
 		"hints": [
 			"世界の科学に関係する",
@@ -448,6 +476,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 29,
 		"type": "RENSOU",
 		"hints": [
 			"日本の歴史上の人物",
@@ -464,6 +493,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 30,
 		"type": "RENSOU",
 		"hints": [
 			"世界の自然に関係する",
@@ -480,6 +510,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 31,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統文化",
@@ -496,6 +527,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 32,
 		"type": "RENSOU",
 		"hints": [
 			"日本の世界遺産",
@@ -512,6 +544,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 33,
 		"type": "RENSOU",
 		"hints": [
 			"ヨーロッパの国",
@@ -528,6 +561,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 34,
 		"type": "RENSOU",
 		"hints": [
 			"食べ物の名前",
@@ -544,6 +578,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 35,
 		"type": "RENSOU",
 		"hints": [
 			"動物の名前",
@@ -560,6 +595,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 36,
 		"type": "RENSOU",
 		"hints": [
 			"楽器の名前",
@@ -576,6 +612,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 37,
 		"type": "RENSOU",
 		"hints": [
 			"天体の名前",
@@ -592,6 +629,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 38,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統的な食べ物",
@@ -608,6 +646,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 39,
 		"type": "RENSOU",
 		"hints": [
 			"植物の名前",
@@ -624,6 +663,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 40,
 		"type": "RENSOU",
 		"hints": [
 			"乗り物の名前",
@@ -640,6 +680,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 41,
 		"type": "RENSOU",
 		"hints": [
 			"元素の一つ",
@@ -656,6 +697,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 42,
 		"type": "RENSOU",
 		"hints": [
 			"世界の建造物",
@@ -672,6 +714,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 43,
 		"type": "RENSOU",
 		"hints": [
 			"スポーツの用具",
@@ -688,6 +731,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 44,
 		"type": "RENSOU",
 		"hints": [
 			"日本の地名",
@@ -704,6 +748,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 45,
 		"type": "RENSOU",
 		"hints": [
 			"生き物の名前",
@@ -720,6 +765,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 46,
 		"type": "RENSOU",
 		"hints": [
 			"文学作品の名前",
@@ -736,6 +782,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 47,
 		"type": "RENSOU",
 		"hints": [
 			"調理器具の名前",
@@ -752,6 +799,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 48,
 		"type": "RENSOU",
 		"hints": [
 			"宇宙に関する言葉",
@@ -768,6 +816,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 49,
 		"type": "RENSOU",
 		"hints": [
 			"世界の料理",
@@ -784,6 +833,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 50,
 		"type": "RENSOU",
 		"hints": [
 			"歴史上の人物",
@@ -800,6 +850,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 51,
 		"type": "RENSOU",
 		"hints": [
 			"道具の名前",
@@ -816,6 +867,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 52,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統的な遊び",
@@ -832,6 +884,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 53,
 		"type": "RENSOU",
 		"hints": [
 			"イタリアの建造物",
@@ -848,6 +901,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 54,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統文化",
@@ -864,6 +918,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 55,
 		"type": "RENSOU",
 		"hints": [
 			"世界の動物",
@@ -880,6 +935,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 56,
 		"type": "RENSOU",
 		"hints": [
 			"日本の食文化",
@@ -896,6 +952,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 57,
 		"type": "RENSOU",
 		"hints": [
 			"世界の自然現象",
@@ -912,6 +969,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 58,
 		"type": "RENSOU",
 		"hints": [
 			"日本の歴史上の人物",
@@ -928,6 +986,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 59,
 		"type": "RENSOU",
 		"hints": [
 			"世界の文学作品",
@@ -944,6 +1003,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 60,
 		"type": "RENSOU",
 		"hints": [
 			"日本の地理に関係する",
@@ -960,6 +1020,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 61,
 		"type": "RENSOU",
 		"hints": [
 			"古代エジプトの王",
@@ -976,6 +1037,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 62,
 		"type": "RENSOU",
 		"hints": [
 			"日本の伝統芸能",
@@ -992,6 +1054,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 63,
 		"type": "RENSOU",
 		"hints": [
 			"太陽系の惑星",
@@ -1008,6 +1071,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 64,
 		"type": "RENSOU",
 		"hints": [
 			"日本の文学作品",
@@ -1024,6 +1088,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 65,
 		"type": "RENSOU",
 		"hints": [
 			"世界の音楽に関係する",
@@ -1040,6 +1105,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 66,
 		"type": "RENSOU",
 		"hints": [
 			"日本の食べ物",
@@ -1056,6 +1122,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 67,
 		"type": "RENSOU",
 		"hints": [
 			"世界の動物",
@@ -1072,6 +1139,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 68,
 		"type": "RENSOU",
 		"hints": [
 			"日本の歴史上の出来事",
@@ -1088,6 +1156,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 69,
 		"type": "RENSOU",
 		"hints": [
 			"世界の地理に関係する",
@@ -1104,6 +1173,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 70,
 		"type": "RENSOU",
 		"hints": [
 			"筆記用具の名前",
@@ -1120,6 +1190,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 71,
 		"type": "RENSOU",
 		"hints": [
 			"世界の科学者",
@@ -1136,6 +1207,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 72,
 		"type": "RENSOU",
 		"hints": [
 			"日本の観光地",
