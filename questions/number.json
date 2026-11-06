@@ -1,95 +1,111 @@
 [
 	{
+		"id": 1,
 		"type": "NUMBER",
 		"question": "日本において、警察に緊急通報する際にかける電話番号は何番？数字で答えなさい",
 		"answer": "110",
 		"difficulty": "EASY"
 	},
 	{
+		"id": 2,
 		"type": "NUMBER",
 		"question": "日本において、警察に緊急通報する際にかける電話番号は\\w110番ですが、\\wアメリカ合衆国やカナダなどにおいて、警察に緊急通報する際にかける電話番号は何番？数字で答えなさい",
 		"answer": "911",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 3,
 		"type": "NUMBER",
 		"question": "日本において、火事や救急搬送を要請する際にかける電話番号は何番？数字で答えなさい",
 		"answer": "119",
 		"difficulty": "EASY"
 	},
 	{
+		"id": 4,
 		"type": "NUMBER",
 		"question": "円周率πの小数点以下の最初の5桁は何？数字で答えなさい",
 		"answer": "14159",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 5,
 		"type": "NUMBER",
 		"question": "アポロ11号が人類初の月面着陸を成功させた西暦年は何年？数字で答えなさい",
 		"answer": "1969",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 6,
 		"type": "NUMBER",
 		"question": "水の化学式は何？大文字のアルファベットと数字で答えなさい",
 		"answer": "H2O",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 7,
 		"type": "NUMBER",
 		"question": "二酸化炭素の化学式は何？大文字のアルファベットと数字で答えなさい",
 		"answer": "CO2",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 8,
 		"type": "NUMBER",
 		"question": "日本の国際電話で使用される国番号は何番？数字で答えなさい",
 		"answer": "81",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 9,
 		"type": "NUMBER",
 		"question": "光速は秒速約何キロメートル？数字で答えなさい",
 		"answer": "300000",
 		"difficulty": "HARD"
 	},
 	{
+		"id": 10,
 		"type": "NUMBER",
 		"question": "うるう年でない1年の日数は何日？数字で答えなさい",
 		"answer": "365",
 		"difficulty": "HARD"
 	},
 	{
+		"id": 11,
 		"type": "NUMBER",
 		"question": "水素を表す記号は何？大文字のアルファベットで答えなさい",
 		"answer": "H",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 12,
 		"type": "NUMBER",
 		"question": "Joy-Conを使った直感的な操作で、家族や友達、世界中の人とスポーツ対戦を楽しめるNintendo Switch用ソフトといえば『Nintendo Switch 〇〇〇〇〇〇』？",
 		"answer": "SPORTS",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 13,
 		"type": "NUMBER",
 		"question": "Joy-Conを使った直感的な操作で、家族や友達、世界中の人とスポーツ対戦を楽しめるNintendo Switch用ソフトといえば\\w『Nintendo Switch Sports』ですが、\\w\\cその続編となるNintendo Swich 2 向けのゲームは『Nintendo Switch Sports 〇〇〇〇〇〇』？",
 		"answer": "RESORT",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 14,
 		"type": "NUMBER",
 		"question": "「世界一タフな時計」としてギネス世界記録に認定されているモデルもある、カシオが製造している腕時計のブランドといえば「G-〇〇〇〇〇」？",
 		"answer": "SHOCK",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 15,
 		"type": "NUMBER",
 		"question": "第一興商が運用する業務用通信カラオケシリーズのブランドといえば？",
 		"answer": "DAM",
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 16,
 		"type": "NUMBER",
 		"question": "エクシングが運用する業務用通信カラオケシリーズのブランドといえば？",
 		"answer": "JOYSOUND",
