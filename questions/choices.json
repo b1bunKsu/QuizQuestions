@@ -2,6 +2,690 @@
   {
     "id": 1,
     "type": "CHOICE",
+    "question": "日本の国旗の色は何色？",
+    "choices": [
+      "赤と白",
+      "青と白",
+      "緑と白",
+      "黒と白"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2,
+    "type": "CHOICE",
+    "question": "1週間は何日？",
+    "choices": [
+      "7日",
+      "5日",
+      "10日",
+      "14日"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3,
+    "type": "CHOICE",
+    "question": "犬は何と鳴く？",
+    "choices": [
+      "ワンワン",
+      "ニャーニャー",
+      "モーモー",
+      "コケコッコー"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4,
+    "type": "CHOICE",
+    "question": "日本の首都はどこ？",
+    "choices": [
+      "東京",
+      "大阪",
+      "京都",
+      "名古屋"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 5,
+    "type": "CHOICE",
+    "question": "富士山の高さは約何メートル？",
+    "choices": [
+      "3776メートル",
+      "3012メートル",
+      "2500メートル",
+      "4210メートル"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 6,
+    "type": "CHOICE",
+    "question": "太陽系で最も大きな惑星はどれ？",
+    "choices": [
+      "木星",
+      "土星",
+      "地球",
+      "火星"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 7,
+    "type": "CHOICE",
+    "question": "江戸時代の将軍家は何家？",
+    "choices": [
+      "徳川家",
+      "豊臣家",
+      "織田家",
+      "源氏"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 8,
+    "type": "CHOICE",
+    "question": "光速は約何km/s？",
+    "choices": [
+      "30万km/s",
+      "3万km/s",
+      "300万km/s",
+      "150万km/s"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 9,
+    "type": "CHOICE",
+    "question": "DNAの二重らせん構造を発見したのは誰？",
+    "choices": [
+      "ワトソンとクリック",
+      "アインシュタイン",
+      "ニュートン",
+      "ダーウィン"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 10,
+    "type": "CHOICE",
+    "question": "日本で最も面積の大きい都道府県は？",
+    "choices": [
+      "北海道",
+      "岩手県",
+      "長野県",
+      "新潟県"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 11,
+    "type": "CHOICE",
+    "question": "次のうち、日本の首都はどれ？",
+    "choices": [
+      "東京都",
+      "大阪府",
+      "京都府",
+      "北海道"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 12,
+    "type": "CHOICE",
+    "question": "日本で最も高い山はどれ？",
+    "choices": [
+      "富士山",
+      "北岳",
+      "奥穂高岳",
+      "槍ヶ岳"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 13,
+    "type": "CHOICE",
+    "question": "日本国憲法が施行されたのは何年？",
+    "choices": [
+      "1947年",
+      "1945年",
+      "1946年",
+      "1950年"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 14,
+    "type": "CHOICE",
+    "question": "江戸幕府を開いた人物は誰？",
+    "choices": [
+      "徳川家康",
+      "豊臣秀吉",
+      "織田信長",
+      "足利尊氏"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 15,
+    "type": "CHOICE",
+    "question": "鎌倉幕府の初代将軍は誰？",
+    "choices": [
+      "源頼朝",
+      "源義経",
+      "北条時政",
+      "足利義満"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 16,
+    "type": "CHOICE",
+    "question": "世界で最も面積が大きい国はどれ？",
+    "choices": [
+      "ロシア",
+      "カナダ",
+      "中国",
+      "アメリカ合衆国"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 17,
+    "type": "CHOICE",
+    "question": "地球の大気中で最も割合が大きい気体はどれ？",
+    "choices": [
+      "窒素",
+      "酸素",
+      "二酸化炭素",
+      "アルゴン"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 18,
+    "type": "CHOICE",
+    "question": "水の化学式はどれ？",
+    "choices": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 19,
+    "type": "CHOICE",
+    "question": "光合成を行う細胞小器官はどれ？",
+    "choices": [
+      "葉緑体",
+      "ミトコンドリア",
+      "リボソーム",
+      "ゴルジ体"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 20,
+    "type": "CHOICE",
+    "question": "元素記号「Fe」が表す元素はどれ？",
+    "choices": [
+      "鉄",
+      "銅",
+      "銀",
+      "金"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 21,
+    "type": "CHOICE",
+    "question": "三角形の内角の和は何度？",
+    "choices": [
+      "180度",
+      "90度",
+      "270度",
+      "360度"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 22,
+    "type": "CHOICE",
+    "question": "円の面積を求める公式はどれ？",
+    "choices": [
+      "πr²",
+      "2πr",
+      "πr",
+      "4πr²"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 23,
+    "type": "CHOICE",
+    "question": "2次方程式 x² - 5x + 6 = 0 の解の組み合わせはどれ？",
+    "choices": [
+      "x = 2, 3",
+      "x = 1, 6",
+      "x = -2, -3",
+      "x = 2, -3"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 24,
+    "type": "CHOICE",
+    "question": "素数はどれ？",
+    "choices": [
+      "17",
+      "21",
+      "27",
+      "33"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 25,
+    "type": "CHOICE",
+    "question": "微分すると 2x になる関数はどれ？",
+    "choices": [
+      "x²",
+      "x³",
+      "2x²",
+      "x + 2"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 26,
+    "type": "CHOICE",
+    "question": "『吾輩は猫である』の作者は誰？",
+    "choices": [
+      "夏目漱石",
+      "芥川龍之介",
+      "森鴎外",
+      "太宰治"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 27,
+    "type": "CHOICE",
+    "question": "『走れメロス』を書いた作家は誰？",
+    "choices": [
+      "太宰治",
+      "宮沢賢治",
+      "川端康成",
+      "谷崎潤一郎"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 28,
+    "type": "CHOICE",
+    "question": "『源氏物語』の作者は誰？",
+    "choices": [
+      "紫式部",
+      "清少納言",
+      "和泉式部",
+      "小野小町"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 29,
+    "type": "CHOICE",
+    "question": "俳句の基本的な音数構成はどれ？",
+    "choices": [
+      "5・7・5",
+      "5・5・7",
+      "7・7・5",
+      "7・5・7"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 30,
+    "type": "CHOICE",
+    "question": "『モナ・リザ』を描いた人物は誰？",
+    "choices": [
+      "レオナルド・ダ・ヴィンチ",
+      "ミケランジェロ",
+      "ラファエロ",
+      "レンブラント"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 31,
+    "type": "CHOICE",
+    "question": "『交響曲第9番』を作曲したベートーヴェンの出身国はどれ？",
+    "choices": [
+      "ドイツ",
+      "オーストリア",
+      "イタリア",
+      "フランス"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 32,
+    "type": "CHOICE",
+    "question": "国際連合の本部が置かれている都市はどれ？",
+    "choices": [
+      "ニューヨーク",
+      "ジュネーブ",
+      "パリ",
+      "ロンドン"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 33,
+    "type": "CHOICE",
+    "question": "日本の国会を構成する議院の組み合わせはどれ？",
+    "choices": [
+      "衆議院と参議院",
+      "衆議院と貴族院",
+      "参議院と元老院",
+      "上院と下院"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 34,
+    "type": "CHOICE",
+    "question": "需要が一定で供給が減少した場合、一般に価格はどうなる？",
+    "choices": [
+      "上昇する",
+      "下落する",
+      "必ず一定になる",
+      "必ずゼロになる"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 35,
+    "type": "CHOICE",
+    "question": "供給が一定で需要が減少した場合、一般に価格はどうなる？",
+    "choices": [
+      "下落する",
+      "上昇する",
+      "必ず一定になる",
+      "必ずゼロになる"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 36,
+    "type": "CHOICE",
+    "question": "日本の中央銀行はどれ？",
+    "choices": [
+      "日本銀行",
+      "日本政策金融公庫",
+      "金融庁",
+      "東京証券取引所"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 37,
+    "type": "CHOICE",
+    "question": "地球が太陽の周りを1周するのにかかる時間は約何日？",
+    "choices": [
+      "365.25日",
+      "30日",
+      "180日",
+      "400日"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 38,
+    "type": "CHOICE",
+    "question": "地震の規模を表す指標はどれ？",
+    "choices": [
+      "マグニチュード",
+      "震度",
+      "気圧",
+      "湿度"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 39,
+    "type": "CHOICE",
+    "question": "DNAを構成する塩基に含まれないものはどれ？",
+    "choices": [
+      "ウラシル",
+      "アデニン",
+      "グアニン",
+      "シトシン"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 40,
+    "type": "CHOICE",
+    "question": "相対性理論を提唱した物理学者は誰？",
+    "choices": [
+      "アルベルト・アインシュタイン",
+      "アイザック・ニュートン",
+      "ニールス・ボーア",
+      "ガリレオ・ガリレイ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 41,
+    "type": "CHOICE",
+    "question": "日本の都道府県のうち、最も面積が小さいのはどれ？",
+    "choices": [
+      "香川県",
+      "大阪府",
+      "東京都",
+      "沖縄県"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 42,
+    "type": "CHOICE",
+    "question": "次のうち、2026年10月2日にリリースされた、\nきゃりーぱみゅぱみゅがパン生地をボコボコに捏ねる\nMVが特徴的な同氏の楽曲は？",
+    "choices": [
+      "Pang Pang Pang",
+      "Ping Ping Ping",
+      "Peng Peng Peng",
+      "Pong Pong Pong"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 43,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、「自然をたたえ、生物をいつくしむ」日とされている国民の祝日は？",
+    "choices": [
+      "春分の日",
+      "みどりの日",
+      "秋分の日",
+      "文化の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 44,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、「自然に親しむとともにその恩恵に感謝し、豊かな心をはぐくむ」日とされている国民の祝日は？",
+    "choices": [
+      "みどりの日",
+      "春分の日",
+      "秋分の日",
+      "文化の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 45,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、「祖先をうやまい、なくなった人々をしのぶ」日とされている国民の祝日は？",
+    "choices": [
+      "秋分の日",
+      "春分の日",
+      "みどりの日",
+      "文化の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 46,
+    "type": "CHOICE",
+    "question": "国民の祝日に関する法律において、「自由と平和を愛し、文化をすすめる」日とされている国民の祝日は？",
+    "choices": [
+      "文化の日",
+      "春分の日",
+      "みどりの日",
+      "秋分の日"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 47,
+    "type": "CHOICE",
+    "question": "『ヨルシカ』という名前の由来となった同バンドの楽曲は？",
+    "choices": [
+      "雲と幽霊",
+      "靴の花火",
+      "雨とカプチーノ",
+      "あの夏に咲け"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 48,
+    "type": "CHOICE",
+    "question": "次のうち、光の三原色にないのは？",
+    "choices": [
+      "黄",
+      "赤",
+      "青",
+      "緑"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 49,
+    "type": "CHOICE",
+    "question": "次のうち、新聞記者が書くのはどれ？",
+    "choices": [
+      "キジ",
+      "イヌ",
+      "サル",
+      "タヌキ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 50,
+    "type": "CHOICE",
+    "question": "次のうち、OpenAIが提供している生成AIはどれ？",
+    "choices": [
+      "ChatGPT",
+      "Grok",
+      "Gemini",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 51,
+    "type": "CHOICE",
+    "question": "次のうち、Microsoftが提供している生成AIはどれ？",
+    "choices": [
+      "Copilot",
+      "Grok",
+      "Gemini",
+      "ChatGPT"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 52,
+    "type": "CHOICE",
+    "question": "次のうち、SpaceXAIが提供している生成AIはどれ？",
+    "choices": [
+      "Grok",
+      "ChatGPT",
+      "Gemini",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 53,
+    "type": "CHOICE",
+    "question": "次のうち、Googleが提供している生成AIはどれ？",
+    "choices": [
+      "Gemini",
+      "Grok",
+      "ChatGPT",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 54,
+    "type": "CHOICE",
+    "question": "次のうち、OpenAIが提供している生成AIは\\w\n『ChatGPT』ですが、\\w\nGoogleが提供している生成AIはどれ？",
+    "choices": [
+      "Gemini",
+      "Grok",
+      "ChatGPT",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 55,
+    "type": "CHOICE",
+    "question": "次のうち、Googleが提供している生成AIは\\w\n『Gemini』ですが、\\w\nMicrosoftが提供している生成AIはどれ？",
+    "choices": [
+      "Copilot",
+      "Grok",
+      "ChatGPT",
+      "Gemini"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 56,
+    "type": "CHOICE",
+    "question": "日本で一般的に、マリオの職業として知られるものは？",
+    "choices": [
+      "配管工",
+      "警察官",
+      "消防士",
+      "料理人"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 57,
+    "type": "CHOICE",
+    "question": "東京メトロ日比谷線茅場町駅の発車メロディーは、AKB48のなんという楽曲のアレンジ？",
+    "choices": [
+      "『恋するフォーチュンクッキー』",
+      "『ヘビーローテーション』",
+      "『会いたかった』",
+      "『フライングゲット』"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 58,
+    "type": "CHOICE",
     "question": "ヴェストファーレン条約が締結されたのは何年？",
     "choices": [
       "1648年",
@@ -12,7 +696,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 2,
+    "id": 59,
     "type": "CHOICE",
     "question": "ビザンツ帝国の首都として、1453年の陥落まで機能した都市はどれ？",
     "choices": [
@@ -24,7 +708,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 3,
+    "id": 60,
     "type": "CHOICE",
     "question": "アヘン戦争後、清がイギリスとの間で締結した講和条約はどれ？",
     "choices": [
@@ -36,7 +720,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 4,
+    "id": 61,
     "type": "CHOICE",
     "question": "明治時代に岩倉使節団が欧米へ派遣されたのは何年？",
     "choices": [
@@ -48,7 +732,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 5,
+    "id": 62,
     "type": "CHOICE",
     "question": "古代メソポタミア文明で、楔形文字を最初に使用したことで知られる民族はどれ？",
     "choices": [
@@ -60,7 +744,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 6,
+    "id": 63,
     "type": "CHOICE",
     "question": "世界で最も深い湖として知られる湖はどれ？",
     "choices": [
@@ -72,7 +756,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 7,
+    "id": 64,
     "type": "CHOICE",
     "question": "チリとアルゼンチンの国境付近に連なる山脈はどれ？",
     "choices": [
@@ -84,7 +768,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 8,
+    "id": 65,
     "type": "CHOICE",
     "question": "世界で最も面積が大きい内陸国はどれ？",
     "choices": [
@@ -96,7 +780,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 9,
+    "id": 66,
     "type": "CHOICE",
     "question": "経度15度の差は、時差に換算すると何時間に相当する？",
     "choices": [
@@ -108,7 +792,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 10,
+    "id": 67,
     "type": "CHOICE",
     "question": "ドナウ川が最終的に注ぐ海はどれ？",
     "choices": [
@@ -120,7 +804,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 11,
+    "id": 68,
     "type": "CHOICE",
     "question": "光の三原色に含まれないものはどれ？",
     "choices": [
@@ -132,7 +816,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 12,
+    "id": 69,
     "type": "CHOICE",
     "question": "電磁誘導の法則を発見した物理学者は誰？",
     "choices": [
@@ -144,7 +828,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 13,
+    "id": 70,
     "type": "CHOICE",
     "question": "絶対零度は摂氏温度で約何度？",
     "choices": [
@@ -156,7 +840,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 14,
+    "id": 71,
     "type": "CHOICE",
     "question": "放射性元素の半減期とは何を表す時間？",
     "choices": [
@@ -168,7 +852,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 15,
+    "id": 72,
     "type": "CHOICE",
     "question": "ヒトの体細胞に含まれる染色体の数は通常何本？",
     "choices": [
@@ -180,7 +864,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 16,
+    "id": 73,
     "type": "CHOICE",
     "question": "細胞内でタンパク質の合成が行われる構造はどれ？",
     "choices": [
@@ -192,7 +876,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 17,
+    "id": 74,
     "type": "CHOICE",
     "question": "血液凝固に重要な役割を果たす血液成分はどれ？",
     "choices": [
@@ -204,7 +888,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 18,
+    "id": 75,
     "type": "CHOICE",
     "question": "酸化還元反応において、電子を失う反応を何という？",
     "choices": [
@@ -216,7 +900,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 19,
+    "id": 76,
     "type": "CHOICE",
     "question": "ベンゼンの分子式はどれ？",
     "choices": [
@@ -228,7 +912,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 20,
+    "id": 77,
     "type": "CHOICE",
     "question": "行列式の値が0である正方行列について、必ず成り立つ性質はどれ？",
     "choices": [
@@ -240,7 +924,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 21,
+    "id": 78,
     "type": "CHOICE",
     "question": "自然対数の底 e の値に最も近いものはどれ？",
     "choices": [
@@ -252,7 +936,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 22,
+    "id": 79,
     "type": "CHOICE",
     "question": "フェルマーの最終定理が証明されたことで知られる数学者は誰？",
     "choices": [
@@ -264,7 +948,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 23,
+    "id": 80,
     "type": "CHOICE",
     "question": "『神曲』を著したイタリアの詩人は誰？",
     "choices": [
@@ -276,7 +960,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 24,
+    "id": 81,
     "type": "CHOICE",
     "question": "『純粋理性批判』を著した哲学者は誰？",
     "choices": [
@@ -288,7 +972,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 25,
+    "id": 82,
     "type": "CHOICE",
     "question": "『ペスト』の作者は誰？",
     "choices": [
@@ -300,7 +984,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 26,
+    "id": 83,
     "type": "CHOICE",
     "question": "ルネサンス期に『ヴィーナスの誕生』を描いた画家は誰？",
     "choices": [
@@ -312,7 +996,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 27,
+    "id": 84,
     "type": "CHOICE",
     "question": "経済学において、他の条件が一定のとき、価格の上昇に伴って需要量が減少する関係を何という？",
     "choices": [
@@ -324,7 +1008,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 28,
+    "id": 85,
     "type": "CHOICE",
     "question": "ゲーム理論において、相手の戦略を前提として、自分だけが戦略を変更しても利得を改善できない状態を何という？",
     "choices": [
