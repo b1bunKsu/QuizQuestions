@@ -1,5 +1,6 @@
 [
 	{
+		"id": 1,
 		"type": "GROUP",
 		"question": "次の動物をグループ分けしなさい",
 		"groups": {
@@ -27,6 +28,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 2,
 		"type": "GROUP",
 		"question": "次の果物をグループ分けしなさい",
 		"groups": {
@@ -48,6 +50,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 3,
 		"type": "GROUP",
 		"question": "次の乗り物をグループ分けしなさい",
 		"groups": {
@@ -75,6 +78,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 4,
 		"type": "GROUP",
 		"question": "次の野菜をグループ分けしなさい",
 		"groups": {
@@ -96,6 +100,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 5,
 		"type": "GROUP",
 		"question": "次のスポーツをグループ分けしなさい",
 		"groups": {
@@ -123,6 +128,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 6,
 		"type": "GROUP",
 		"question": "次の楽器をグループ分けしなさい",
 		"groups": {
@@ -144,6 +150,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 7,
 		"type": "GROUP",
 		"question": "次の昆虫をグループ分けしなさい",
 		"groups": {
@@ -171,6 +178,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 8,
 		"type": "GROUP",
 		"question": "次の色をグループ分けしなさい",
 		"groups": {
@@ -192,6 +200,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 9,
 		"type": "GROUP",
 		"question": "次の食べ物をグループ分けしなさい",
 		"groups": {
@@ -219,6 +228,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 10,
 		"type": "GROUP",
 		"question": "次の植物をグループ分けしなさい",
 		"groups": {
@@ -240,6 +250,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 11,
 		"type": "GROUP",
 		"question": "次のボードゲームをグループ分けしなさい",
 		"groups": {
@@ -261,6 +272,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 12,
 		"type": "GROUP",
 		"question": "次の食べ物をグループ分けしなさい",
 		"groups": {
@@ -286,6 +298,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 13,
 		"type": "GROUP",
 		"question": "次の植物をグループ分けしなさい",
 		"groups": {
@@ -306,6 +319,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 14,
 		"type": "GROUP",
 		"question": "次の認証に使用する情報をグループ分けしなさい",
 		"groups": {
@@ -332,6 +346,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 15,
 		"type": "GROUP",
 		"question": "次の動物をグループ分けしなさい",
 		"groups": {
@@ -353,6 +368,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 16,
 		"type": "GROUP",
 		"question": "次の果物をグループ分けしなさい",
 		"groups": {
@@ -374,6 +390,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 17,
 		"type": "GROUP",
 		"question": "次の乗り物をグループ分けしなさい",
 		"groups": {
@@ -395,6 +412,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 18,
 		"type": "GROUP",
 		"question": "次の野菜をグループ分けしなさい",
 		"groups": {
@@ -416,6 +434,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 19,
 		"type": "GROUP",
 		"question": "次のスポーツをグループ分けしなさい",
 		"groups": {
@@ -437,6 +456,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 20,
 		"type": "GROUP",
 		"question": "次の楽器をグループ分けしなさい",
 		"groups": {
@@ -458,6 +478,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 21,
 		"type": "GROUP",
 		"question": "次の昆虫をグループ分けしなさい",
 		"groups": {
@@ -479,6 +500,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 22,
 		"type": "GROUP",
 		"question": "次の色をグループ分けしなさい",
 		"groups": {
@@ -500,6 +522,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 23,
 		"type": "GROUP",
 		"question": "次の料理をグループ分けしなさい",
 		"groups": {
@@ -521,6 +544,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 24,
 		"type": "GROUP",
 		"question": "次の植物をグループ分けしなさい",
 		"groups": {
@@ -542,6 +566,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 25,
 		"type": "GROUP",
 		"question": "次の天体をグループ分けしなさい",
 		"groups": {
@@ -563,6 +588,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 26,
 		"type": "GROUP",
 		"question": "次の国をグループ分けしなさい",
 		"groups": {
@@ -584,6 +610,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 27,
 		"type": "GROUP",
 		"question": "次の数をグループ分けしなさい",
 		"groups": {
@@ -605,6 +632,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 28,
 		"type": "GROUP",
 		"question": "次の水溶液をグループ分けしなさい",
 		"groups": {
@@ -626,6 +654,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 29,
 		"type": "GROUP",
 		"question": "次の人物をグループ分けしなさい",
 		"groups": {
@@ -647,6 +676,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 30,
 		"type": "GROUP",
 		"question": "次の文学作品をグループ分けしなさい",
 		"groups": {
@@ -668,6 +698,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 31,
 		"type": "GROUP",
 		"question": "次の認証情報をグループ分けしなさい",
 		"groups": {
@@ -689,6 +720,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 32,
 		"type": "GROUP",
 		"question": "次の元素をグループ分けしなさい",
 		"groups": {
@@ -710,6 +742,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 33,
 		"type": "GROUP",
 		"question": "次の動物をグループ分けしなさい",
 		"groups": {
@@ -737,6 +770,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 34,
 		"type": "GROUP",
 		"question": "次の言語をグループ分けしなさい",
 		"groups": {
@@ -758,6 +792,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 35,
 		"type": "GROUP",
 		"question": "次の元素をグループ分けしなさい",
 		"groups": {
@@ -779,6 +814,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 36,
 		"type": "GROUP",
 		"question": "次の法律をグループ分けしなさい",
 		"groups": {
@@ -800,6 +836,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 37,
 		"type": "GROUP",
 		"question": "次の音楽用語をグループ分けしなさい",
 		"groups": {
@@ -821,6 +858,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 38,
 		"type": "GROUP",
 		"question": "次の都道府県をグループ分けしなさい",
 		"groups": {
@@ -842,6 +880,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 39,
 		"type": "GROUP",
 		"question": "次の物理量をグループ分けしなさい",
 		"groups": {
@@ -863,6 +902,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 40,
 		"type": "GROUP",
 		"question": "次の生物をグループ分けしなさい",
 		"groups": {
@@ -884,6 +924,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 41,
 		"type": "GROUP",
 		"question": "次の山脈をグループ分けしなさい",
 		"groups": {
@@ -905,6 +946,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 42,
 		"type": "GROUP",
 		"question": "次の時代をグループ分けしなさい",
 		"groups": {
@@ -926,6 +968,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 43,
 		"type": "GROUP",
 		"question": "次の数をグループ分けしなさい",
 		"groups": {
@@ -947,6 +990,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 44,
 		"type": "GROUP",
 		"question": "次の衣服をグループ分けしなさい",
 		"groups": {
@@ -968,6 +1012,7 @@
 		"difficulty": "EASY"
 	},
 	{
+		"id": 45,
 		"type": "GROUP",
 		"question": "次の元素を分類しなさい。",
 		"groups": {
@@ -989,6 +1034,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 46,
 		"type": "GROUP",
 		"question": "次の数を分類しなさい。",
 		"groups": {
@@ -1010,6 +1056,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 47,
 		"type": "GROUP",
 		"question": "次の化合物を結合の種類で分類しなさい。",
 		"groups": {
@@ -1031,6 +1078,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 48,
 		"type": "GROUP",
 		"question": "次の物理量を分類しなさい。",
 		"groups": {
@@ -1052,6 +1100,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 49,
 		"type": "GROUP",
 		"question": "次の天体を分類しなさい。",
 		"groups": {
@@ -1073,6 +1122,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 50,
 		"type": "GROUP",
 		"question": "次の国を分類しなさい。",
 		"groups": {
@@ -1094,6 +1144,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 51,
 		"type": "GROUP",
 		"question": "次の作曲家を音楽史上の時代で分類しなさい。",
 		"groups": {
@@ -1115,6 +1166,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 52,
 		"type": "GROUP",
 		"question": "次の絵画を作者ごとに分類しなさい。",
 		"groups": {
@@ -1136,6 +1188,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 53,
 		"type": "GROUP",
 		"question": "次の歴史上の人物を時代で分類しなさい。",
 		"groups": {
@@ -1157,6 +1210,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 54,
 		"type": "GROUP",
 		"question": "次の出来事を起きた世紀で分類しなさい。",
 		"groups": {
@@ -1178,6 +1232,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 55,
 		"type": "GROUP",
 		"question": "次の条約を分類しなさい。",
 		"groups": {
@@ -1199,6 +1254,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 56,
 		"type": "GROUP",
 		"question": "次の単位を分類しなさい。",
 		"groups": {
@@ -1220,6 +1276,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 57,
 		"type": "GROUP",
 		"question": "次の情報技術用語を分類しなさい。",
 		"groups": {
@@ -1241,6 +1298,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 58,
 		"type": "GROUP",
 		"question": "次のデータ構造を分類しなさい。",
 		"groups": {
@@ -1262,6 +1320,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 59,
 		"type": "GROUP",
 		"question": "次のプログラミング言語を分類しなさい。",
 		"groups": {
@@ -1283,6 +1342,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 60,
 		"type": "GROUP",
 		"question": "次の食材を分類しなさい。",
 		"groups": {
@@ -1304,6 +1364,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 61,
 		"type": "GROUP",
 		"question": "次の料理を発祥国ごとに分類しなさい。",
 		"groups": {
@@ -1325,6 +1386,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 62,
 		"type": "GROUP",
 		"question": "次の鉱物を分類しなさい。",
 		"groups": {
@@ -1346,6 +1408,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 63,
 		"type": "GROUP",
 		"question": "次の血液型を分類しなさい。",
 		"groups": {
@@ -1367,6 +1430,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 64,
 		"type": "GROUP",
 		"question": "次の元素を分類しなさい。",
 		"groups": {
@@ -1388,6 +1452,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 65,
 		"type": "GROUP",
 		"question": "次の惑星を分類しなさい。",
 		"groups": {
@@ -1409,6 +1474,7 @@
 		"difficulty": "NORMAL"
 	},
 	{
+		"id": 66,
 		"type": "GROUP",
 		"question": "次の人物をノーベル賞の受賞分野で分類しなさい。",
 		"groups": {
@@ -1430,6 +1496,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 67,
 		"type": "GROUP",
 		"question": "次の文学作品を作者ごとに分類しなさい。",
 		"groups": {
@@ -1451,6 +1518,7 @@
 		"difficulty": "HARD"
 	},
 	{
+		"id": 68,
 		"type": "GROUP",
 		"question": "次の惑星探査機を目的地ごとに分類しなさい。",
 		"groups": {
@@ -1471,5 +1539,4 @@
 		},
 		"difficulty": "HARD"
 	}
-]
 ]
