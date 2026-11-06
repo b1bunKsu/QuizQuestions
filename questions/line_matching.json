@@ -928,10 +928,10 @@
 		"type": "LINE_MATCHING",
 		"question": "次の元素記号と元素名を対応させなさい。",
 		"leftChoices": [
-			"W",
-			"Sb",
+			"Sn",
 			"Hg",
-			"Sn"
+			"W",
+			"Sb"
 		],
 		"rightChoices": [
 			"スズ",
