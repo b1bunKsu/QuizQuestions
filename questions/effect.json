@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"type": "EFFECT",
-		"question": "『原神』において、刻晴の声を担当",
+		"question": "『原神』において、刻晴の声を担当した声優",
 		"hint": "喜多村英梨",
 		"answer": "きたむらえり",
 		"difficulty": "NORMAL"
@@ -34,7 +34,7 @@
 	{
 		"id": 5,
 		"type": "EFFECT",
-		"question": "『原神』において、ナヴィアの声を担当",
+		"question": "『原神』において、ナヴィアの声を担当した声優",
 		"hint": "豊崎愛生",
 		"answer": "とよさきあき",
 		"difficulty": "NORMAL"
@@ -42,7 +42,7 @@
 	{
 		"id": 6,
 		"type": "EFFECT",
-		"question": "『原神』において、クロリンデの声を担当",
+		"question": "『原神』において、クロリンデの声を担当した声優",
 		"hint": "石川由依",
 		"answer": "いしかわゆい",
 		"difficulty": "NORMAL"
@@ -50,7 +50,7 @@
 	{
 		"id": 7,
 		"type": "EFFECT",
-		"question": "『原神』において、レイラの声を担当",
+		"question": "『原神』において、レイラの声を担当した声優",
 		"hint": "富田美憂",
 		"answer": "とみたみゆ",
 		"difficulty": "NORMAL"
@@ -58,7 +58,7 @@
 	{
 		"id": 8,
 		"type": "EFFECT",
-		"question": "『崩壊: スターレイル』において、カフカの声を担当",
+		"question": "『崩壊: スターレイル』において、カフカの声を担当した声優",
 		"hint": "伊藤静",
 		"answer": "いとうしずか",
 		"difficulty": "NORMAL"
@@ -66,7 +66,7 @@
 	{
 		"id": 9,
 		"type": "EFFECT",
-		"question": "『崩壊: スターレイル』において、銀狼の声を担当",
+		"question": "『崩壊: スターレイル』において、銀狼の声を担当した声優",
 		"hint": "阿澄佳奈",
 		"answer": "あすみかな",
 		"difficulty": "NORMAL"
@@ -74,7 +74,7 @@
 	{
 		"id": 10,
 		"type": "EFFECT",
-		"question": "『原神』において、九条裟羅の声を担当",
+		"question": "『原神』において、九条裟羅の声を担当した声優",
 		"hint": "瀬戸麻沙美",
 		"answer": "せとあさみ",
 		"difficulty": "NORMAL"
@@ -82,7 +82,7 @@
 	{
 		"id": 11,
 		"type": "EFFECT",
-		"question": "『ゼンレスゾーンゼロ』において、浮波柚葉の声を担当",
+		"question": "『ゼンレスゾーンゼロ』において、浮波柚葉の声を担当した声優",
 		"hint": "長谷川育美",
 		"answer": "はせがわいくみ",
 		"difficulty": "NORMAL"
@@ -90,7 +90,7 @@
 	{
 		"id": 12,
 		"type": "EFFECT",
-		"question": "『原神』において、夜欄の声を担当",
+		"question": "『原神』において、夜欄の声を担当した声優",
 		"hint": "遠藤綾",
 		"answer": "えんどうあや",
 		"difficulty": "NORMAL"
