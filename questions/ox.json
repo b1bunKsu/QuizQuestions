@@ -444,7 +444,7 @@
         "id": 64,
         "type": "OX",
         "question": "オーストラリアの首都は\\wキャンベラである",
-        "answer": "X",
+        "answer": "O",
         "difficulty": "EASY"
     },
     {
