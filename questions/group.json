@@ -1232,28 +1232,6 @@
 		"difficulty": "HARD"
 	},
 	{
-		"id": 55,
-		"type": "GROUP",
-		"question": "次の条約を分類しなさい。",
-		"groups": {
-			"A": {
-				"name": "第一次大戦後",
-				"choices": [
-					"ベルサイユ",
-					"サンジェルマン"
-				]
-			},
-			"B": {
-				"name": "第二次大戦後",
-				"choices": [
-					"サンフランシスコ",
-					"ポツダム"
-				]
-			}
-		},
-		"difficulty": "HARD"
-	},
-	{
 		"id": 56,
 		"type": "GROUP",
 		"question": "次の単位を分類しなさい。",
