@@ -1538,25 +1538,6 @@
     "difficulty": "HARD"
   },
   {
-    "id": 81,
-    "type": "CHARACTER_PANEL",
-    "question": "15世紀に活版印刷術をヨーロッパで普及させた人物は誰？",
-    "answer": "グーテンベルク",
-    "choices": [
-      "グ",
-      "ー",
-      "テ",
-      "ン",
-      "ベ",
-      "ル",
-      "ク",
-      "ガ",
-      "リ",
-      "レ"
-    ],
-    "difficulty": "HARD"
-  },
-  {
     "id": 82,
     "type": "CHARACTER_PANEL",
     "question": "古代ローマで、元老院と対立しながら終身独裁官となった人物は誰？",
