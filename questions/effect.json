@@ -2,7 +2,7 @@
 	{
 		"id": 1,
 		"type": "EFFECT",
-		"question": "『原神』において、刻晴の声を担当した声優",
+		"question": "『原神』において、\n刻晴の声を担当した声優",
 		"hint": "喜多村英梨",
 		"answer": "きたむらえり",
 		"difficulty": "NORMAL"
@@ -34,7 +34,7 @@
 	{
 		"id": 5,
 		"type": "EFFECT",
-		"question": "『原神』において、ナヴィアの声を担当した声優",
+		"question": "『原神』において、\nナヴィアの声を担当した声優",
 		"hint": "豊崎愛生",
 		"answer": "とよさきあき",
 		"difficulty": "NORMAL"
@@ -42,7 +42,7 @@
 	{
 		"id": 6,
 		"type": "EFFECT",
-		"question": "『原神』において、クロリンデの声を担当した声優",
+		"question": "『原神』において、\nクロリンデの声を担当した声優",
 		"hint": "石川由依",
 		"answer": "いしかわゆい",
 		"difficulty": "NORMAL"
@@ -50,7 +50,7 @@
 	{
 		"id": 7,
 		"type": "EFFECT",
-		"question": "『原神』において、レイラの声を担当した声優",
+		"question": "『原神』において、\nレイラの声を担当した声優",
 		"hint": "富田美憂",
 		"answer": "とみたみゆ",
 		"difficulty": "NORMAL"
@@ -58,7 +58,7 @@
 	{
 		"id": 8,
 		"type": "EFFECT",
-		"question": "『崩壊: スターレイル』において、カフカの声を担当した声優",
+		"question": "『崩壊: スターレイル』において、\nカフカの声を担当した声優",
 		"hint": "伊藤静",
 		"answer": "いとうしずか",
 		"difficulty": "NORMAL"
@@ -66,7 +66,7 @@
 	{
 		"id": 9,
 		"type": "EFFECT",
-		"question": "『崩壊: スターレイル』において、銀狼の声を担当した声優",
+		"question": "『崩壊: スターレイル』において、\n銀狼の声を担当した声優",
 		"hint": "阿澄佳奈",
 		"answer": "あすみかな",
 		"difficulty": "NORMAL"
@@ -74,7 +74,7 @@
 	{
 		"id": 10,
 		"type": "EFFECT",
-		"question": "『原神』において、九条裟羅の声を担当した声優",
+		"question": "『原神』において、\n九条裟羅の声を担当した声優",
 		"hint": "瀬戸麻沙美",
 		"answer": "せとあさみ",
 		"difficulty": "NORMAL"
@@ -82,7 +82,7 @@
 	{
 		"id": 11,
 		"type": "EFFECT",
-		"question": "『ゼンレスゾーンゼロ』において、浮波柚葉の声を担当した声優",
+		"question": "『ゼンレスゾーンゼロ』において、\n浮波柚葉の声を担当した声優",
 		"hint": "長谷川育美",
 		"answer": "はせがわいくみ",
 		"difficulty": "NORMAL"
@@ -98,7 +98,7 @@
 	{
 		"id": 13,
 		"type": "EFFECT",
-		"question": "ゲーム『NTE』でカバーもされた『MyGO!!!!!』の\n楽曲",
+		"question": "ゲーム『NTE』でカバーもされた\n『MyGO!!!!!』の楽曲",
 		"hint": "迷星叫",
 		"answer": "まよいうた",
 		"difficulty": "HARD"
@@ -298,7 +298,7 @@
 	{
 		"id": 38,
 		"type": "EFFECT",
-		"question": "その咲き方と見た目からこの名前が付けられました",
+		"question": "その咲き方と見た目から\nこの名前が付けられました",
 		"hint": "芝桜",
 		"answer": "しばざくら",
 		"difficulty": "NORMAL"
@@ -370,7 +370,7 @@
 	{
 		"id": 47,
 		"type": "EFFECT",
-		"question": "数列の隣り合う項や前の項との関係を数式で表したもの",
+		"question": "数列の隣り合う項や前の項との関係を\n数式で表したもの",
 		"hint": "漸化式",
 		"answer": "ぜんかしき",
 		"difficulty": "NORMAL"
@@ -426,7 +426,7 @@
 	{
 		"id": 54,
 		"type": "EFFECT",
-		"question": "成功へといたる難しい関門を突破したことをいうことわざ",
+		"question": "成功へといたる難しい関門を突破したことをいう\nことわざ",
 		"hint": "登龍門",
 		"answer": "とうりゅうもん",
 		"difficulty": "NORMAL"
@@ -450,7 +450,7 @@
 	{
 		"id": 57,
 		"type": "EFFECT",
-		"question": "2数の最大公約数を求めるアルゴリズムは「ユークリッドの〇〇〇」？",
+		"question": "2数の最大公約数を求めるアルゴリズムは\n「ユークリッドの〇〇〇」？",
 		"hint": "互除法",
 		"answer": "ごじょほう",
 		"difficulty": "NORMAL"
@@ -458,7 +458,7 @@
 	{
 		"id": 58,
 		"type": "EFFECT",
-		"question": "異なる生物が、互いに利益を得る関係を何という？",
+		"question": "異なる生物が、互いに利益を得る関係",
 		"hint": "相利共生",
 		"answer": "そうりきょうせい",
 		"difficulty": "NORMAL"
@@ -466,7 +466,7 @@
 	{
 		"id": 59,
 		"type": "EFFECT",
-		"question": "地層が横方向から圧縮され、波状に曲がる地質構造を何という？",
+		"question": "地層が横方向から圧縮され、波状に曲がる地質構造",
 		"hint": "褶曲",
 		"answer": "しゅうきょく",
 		"difficulty": "HARD"
@@ -474,7 +474,7 @@
 	{
 		"id": 60,
 		"type": "EFFECT",
-		"question": "ある集団の遺伝子頻度が、偶然によって世代ごとに変化する現象を何という？",
+		"question": "ある集団の遺伝子頻度が、\n偶然によって世代ごとに変化する現象",
 		"hint": "遺伝的浮動",
 		"answer": "いでんてきふどう",
 		"difficulty": "HARD"
@@ -482,7 +482,7 @@
 	{
 		"id": 61,
 		"type": "EFFECT",
-		"question": "古代ギリシャの哲学者が用いた、問答を通じて相手に真理を自覚させる方法を何という？",
+		"question": "古代ギリシャの哲学者が用いた、\n問答を通じて相手に真理を自覚させる方法",
 		"hint": "産婆術",
 		"answer": "さんばじゅつ",
 		"difficulty": "HARD"
@@ -490,7 +490,7 @@
 	{
 		"id": 62,
 		"type": "EFFECT",
-		"question": "河川が山地から平野へ出る場所に、土砂が扇形に堆積して形成される地形を何という？",
+		"question": "河川が山地から平野へ出る場所に、\n土砂が扇形に堆積して形成される地形",
 		"hint": "扇状地",
 		"answer": "せんじょうち",
 		"difficulty": "NORMAL"
@@ -498,7 +498,7 @@
 	{
 		"id": 63,
 		"type": "EFFECT",
-		"question": "海底に堆積した砂や泥が固結して形成される岩石を何という？",
+		"question": "海底に堆積した砂や泥が固結して\n形成される岩石",
 		"hint": "堆積岩",
 		"answer": "たいせきがん",
 		"difficulty": "NORMAL"
