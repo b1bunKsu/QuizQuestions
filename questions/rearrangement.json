@@ -1,597 +1,590 @@
 [
-	{
-		"id": 1,
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて、NEXONが運営するゲームの名称にしなさい",
-		"answer": "ブルーアーカイブ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 2,
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて、ゲーム『崩壊: スターレイル』の登場人物の名前にしなさい",
-		"answer": "ルアン・メェイ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 3,
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて、Yostarが運営するゲームの名称にしなさい",
-		"answer": "ステラソラ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 4,
-		"type": "REARRANGEMENT",
-		"question": "DNAの正式名称は？",
-		"answer": "デオキシリボ核酸",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 5,
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えて音楽ストリーミングサービスの名前にしなさい",
-		"answer": "Spotify",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 6,
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えてHoyoverseが運営するゲームの名称にしなさい",
-		"answer": "ゼンレスゾーンゼロ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 7,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『原神』、『崩壊: スターレイル』、『ゼンレスゾーンゼロ』などを運営する中国のゲーム会社といえば？",
-		"answer": "Hoyoverse",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 8,
-		"type": "REARRANGEMENT",
-		"question": "文字を正しく並び替えてゲーム『ゼンレスゾーンゼロ』の登場人物の名前にしなさい",
-		"answer": "アンビー・デマラ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 9,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『Minecraft』を開発している会社は\n「◯◯◯◯◯◯ Studio」？",
-		"answer": "Mojang",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 10,
-		"type": "REARRANGEMENT",
-		"question": "広大なゲーム世界をシームレスに自由に探索・攻略できるコンピュータゲームのジャンルを何という？",
-		"answer": "オープンワールド",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 11,
-		"type": "REARRANGEMENT",
-		"question": "航空機または船舶で日本から出国する旅客に対して課税される税金を何という？",
-		"answer": "国際観光旅客税",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 12,
-		"type": "REARRANGEMENT",
-		"question": "SOLID原則において、「クライアントが利用しないメソッドへの依存を強制してはならない」という原則を「〇〇〇〇〇〇〇〇分離原則」という？",
-		"answer": "インターフェース",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 13,
-		"type": "REARRANGEMENT",
-		"question": "1946年にアメリカのペンシルベニア大学で開発された、世界初のコンピューターを何という？",
-		"answer": "ENIAC",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 14,
-		"type": "REARRANGEMENT",
-		"question": "サーバー側でほとんどのファイル、アプリケーションなどの資源一元管理することで、必要最低限の記憶媒体やアプリケーションソフトしか持たせていないクライアントコンピューターのことを何という？",
-		"answer": "シンクライアント",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 15,
-		"type": "REARRANGEMENT",
-		"question": "日本において毎年5月初めにかけて休日が続く期間のことを何という？",
-		"answer": "ゴールデンウィーク",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 16,
-		"type": "REARRANGEMENT",
-		"question": "例えばキーボードの「a」を押しっぱなしにすると\n「aaaaaaa」と入力されるように、キーを押し続けた時に同じ入力が自動的に連続して発生する現象を何という？",
-		"answer": "キーリピート",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 17,
-		"type": "REARRANGEMENT",
-		"question": "Microsoftが提供するクラウドコンピューティングサービスといえば\n「Microsoft 〇〇〇〇〇」？",
-		"answer": "Azure",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 18,
-		"type": "REARRANGEMENT",
-		"question": "月単位または年単位で定期的に料金を支払い利用するコンテンツやサービスのことを何という？",
-		"answer": "サブスクリプション",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 19,
-		"type": "REARRANGEMENT",
-		"question": "「true」または「false」の2つの値を持つ日本語では論理型と言われるデータ型を何という？",
-		"answer": "boolean",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 20,
-		"type": "REARRANGEMENT",
-		"question": "他人の不幸や失敗、不遇な出来事を見聞きした際に、思わず感じてしまう快感をドイツ語で何という？",
-		"answer": "シャーデンフロイデ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 21,
-		"type": "REARRANGEMENT",
-		"question": "任天堂が開発・販売する、配管工のマリオが主人公のゲームシリーズといえば？",
-		"answer": "スーパーマリオ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 22,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『Minecraft』に登場する、爆発する緑色の敵キャラクターの名前は？",
-		"answer": "クリーパー",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 23,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ポケットモンスター』シリーズに登場する、ピカチュウの進化前のポケモンは？",
-		"answer": "ピチュー",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 24,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ドラゴンクエスト』シリーズに登場する、青いしずく型のモンスターといえば？",
-		"answer": "スライム",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 25,
-		"type": "REARRANGEMENT",
-		"question": "Webページを記述するために使用されるマークアップ言語といえば？",
-		"answer": "HTML",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 26,
-		"type": "REARRANGEMENT",
-		"question": "JavaやC++などで、クラスから生成される実体のことを何という？",
-		"answer": "インスタンス",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 27,
-		"type": "REARRANGEMENT",
-		"question": "プログラムのソースコードを機械語に変換するソフトウェアを何という？",
-		"answer": "コンパイラ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 28,
-		"type": "REARRANGEMENT",
-		"question": "コンピューターの処理装置であり、命令の実行や演算を行う部品を何という？",
-		"answer": "プロセッサ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 29,
-		"type": "REARRANGEMENT",
-		"question": "インターネット上で、Webページの場所を示すために使用される文字列を何という？",
-		"answer": "URL",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 30,
-		"type": "REARRANGEMENT",
-		"question": "コンピューター上で動作するプログラムやデータをまとめたものを何という？",
-		"answer": "ソフトウェア",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 31,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ファイナルファンタジーVII』の主人公の名前は？",
-		"answer": "クラウド",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 32,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ペルソナ5』に登場する、主人公たちが結成する怪盗団の名前は？",
-		"answer": "心の怪盗団",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 33,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『ソニック・ザ・ヘッジホッグ』シリーズの主人公の名前は？",
-		"answer": "ソニック",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 34,
-		"type": "REARRANGEMENT",
-		"question": "ゲーム『UNDERTALE』に登場する、骨の姿をしたキャラクターの名前は？",
-		"answer": "サンズ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 35,
-		"type": "REARRANGEMENT",
-		"question": "プログラミングにおいて、条件に応じて処理を分岐させる構文を何という？",
-		"answer": "条件分岐",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 36,
-		"type": "REARRANGEMENT",
-		"question": "プログラムの中で、同じ処理を繰り返し実行することを何という？",
-		"answer": "ループ処理",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 37,
-		"type": "REARRANGEMENT",
-		"question": "Javaなどのオブジェクト指向言語において、データと処理をまとめた設計図を何という？",
-		"answer": "クラス",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 38,
-		"type": "REARRANGEMENT",
-		"question": "コンピューターが一時的にデータを保存するために使用する主記憶装置を何という？",
-		"answer": "メモリ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 39,
-		"type": "REARRANGEMENT",
-		"question": "コンピューターの起動時に、ハードウェアを初期化するための基本的なプログラムを何という？",
-		"answer": "BIOS",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 40,
-		"type": "REARRANGEMENT",
-		"question": "太陽の表面で発生する、大規模な爆発現象を何という？",
-		"answer": "太陽フレア",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 41,
-		"type": "REARRANGEMENT",
-		"question": "地球の周囲を取り巻く、磁場が広がっている領域を何という？",
-		"answer": "磁気圏",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 42,
-		"type": "REARRANGEMENT",
-		"question": "地震の際に、最初に到達する小さな揺れを何という？",
-		"answer": "初期微動",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 43,
-		"type": "REARRANGEMENT",
-		"question": "フランス革命の際に掲げられた、自由・平等・友愛を意味する標語は？",
-		"answer": "自由平等友愛",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 44,
-		"type": "REARRANGEMENT",
-		"question": "古代エジプトで使用されていた、象形文字の一種を何という？",
-		"answer": "ヒエログリフ",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 45,
-		"type": "REARRANGEMENT",
-		"question": "問題を解決するための手順を、明確な規則に従って記述したものを何という？",
-		"answer": "アルゴリズム",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 46,
-		"type": "REARRANGEMENT",
-		"question": "コーヒーに泡立てたミルクを加えて作る、イタリア発祥の飲み物は？",
-		"answer": "カプチーノ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 47,
-		"type": "REARRANGEMENT",
-		"question": "成層圏に多く存在し、太陽からの有害な紫外線を吸収するものは「〇〇〇層」？",
-		"answer": "オゾン",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 48,
-		"type": "REARRANGEMENT",
-		"question": "古代ギリシャの数学者で、『原論』を著した人物は？",
-		"answer": "ユークリッド",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 49,
-		"type": "REARRANGEMENT",
-		"question": "14世紀ごろのイタリアで始まり、古代ギリシャ・ローマの文化を復興しようとした運動を何という？",
-		"answer": "ルネサンス",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 50,
-		"type": "REARRANGEMENT",
-		"question": "火山活動によって形成された、円形または馬蹄形の大きなくぼ地を何という？",
-		"answer": "カルデラ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 51,
-		"type": "REARRANGEMENT",
-		"question": "放物面を利用して電波を特定の方向に集めるアンテナを何という？",
-		"answer": "パラボラアンテナ",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 52,
-		"type": "REARRANGEMENT",
-		"question": "電流を増幅したり、スイッチとして利用したりする半導体素子を何という？",
-		"answer": "トランジスタ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 53,
-		"type": "REARRANGEMENT",
-		"question": "フランスのパリに建設された、鉄骨構造の有名な塔の名前は？",
-		"answer": "エッフェル塔",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 54,
-		"type": "REARRANGEMENT",
-		"question": "南米大陸を流れ、流域面積が世界最大級である川は「〇〇〇〇川」？",
-		"answer": "アマゾン",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 55,
-		"type": "REARRANGEMENT",
-		"question": "クリミア戦争で負傷兵の看護に尽力し、「近代看護の母」と呼ばれる人物は？",
-		"answer": "ナイチンゲール",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 56,
-		"type": "REARRANGEMENT",
-		"question": "明治政府が1875年にロシアとの間で締結し、樺太と千島列島の領有関係を定めた条約は？",
-		"answer": "樺太千島交換条約",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 57,
-		"type": "REARRANGEMENT",
-		"question": "日本の伝統的な遊びで、数字の書かれた札を使い、読み札に対応する札を取るものは？",
-		"answer": "百人一首",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 58,
-		"type": "REARRANGEMENT",
-		"question": "物体が音速を超える際に発生する衝撃波に伴う、特徴的な大きな音を何という？",
-		"answer": "ソニックブーム",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 59,
-		"type": "REARRANGEMENT",
-		"question": "地方税共同機構が運営する、地方税に関する手続きをインターネットで行うための電子申告・納税システムを何という？",
-		"answer": "eLTAX",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 60,
-		"type": "REARRANGEMENT",
-		"question": "国税庁が運営する、国税に関する申告や納税などの手続きをインターネットで行うためのシステムを何という？",
-		"answer": "e-Tax",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 61,
-		"type": "REARRANGEMENT",
-		"question": "入力されたデータが正しい形式や条件を満たしているかを確認することを何という？",
-		"answer": "バリデーション",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 62,
-		"type": "REARRANGEMENT",
-		"question": "モイ株式会社が運営する、iPhoneやAndroid端末、PCなどから手軽にライブ配信を行えるサービスといえば？",
-		"answer": "ツイキャス",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 63,
-		"type": "REARRANGEMENT",
-		"question": "プログラミングにおいて、ある関数が自分自身を呼び出す処理方法を何という？",
-		"answer": "再帰呼び出し",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 64,
-		"type": "REARRANGEMENT",
-		"question": "暗号化と復号に同じ鍵を使用する暗号方式を何という？",
-		"answer": "共通鍵暗号",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 65,
-		"type": "REARRANGEMENT",
-		"question": "インターネット上で、IPアドレスとドメイン名を対応付ける仕組みを何という？",
-		"answer": "DNS",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 66,
-		"type": "REARRANGEMENT",
-		"question": "データを後入れ先出しの原則で管理するデータ構造を何という？",
-		"answer": "スタック",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 67,
-		"type": "REARRANGEMENT",
-		"question": "複数の処理が互いの終了を待ち続け、処理が進まなくなる状態を何という？",
-		"answer": "デッドロック",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 68,
-		"type": "REARRANGEMENT",
-		"question": "ソフトウェア開発において、プログラムの不具合を取り除く作業を何という？",
-		"answer": "デバッグ",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 69,
-		"type": "REARRANGEMENT",
-		"question": "二つの入力が異なる場合にのみ1を出力する論理演算は？",
-		"answer": "排他的論理和",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 70,
-		"type": "REARRANGEMENT",
-		"question": "データベースにおいて、複数の操作をひとまとまりとして扱い、すべて成功するかすべて取り消す処理単位を何という？",
-		"answer": "トランザクション",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 71,
-		"type": "REARRANGEMENT",
-		"question": "二次方程式の解を求める際に使用する、判別式を表す記号「D」は何という言葉の頭文字？",
-		"answer": "ディスクリミナント",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 72,
-		"type": "REARRANGEMENT",
-		"question": "三角形の3辺の長さについて、直角三角形で成り立つ関係を示した定理は？",
-		"answer": "ピタゴラスの定理",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 73,
-		"type": "REARRANGEMENT",
-		"question": "微分積分学の基本定理を発見した人物の一人であり、万有引力の法則でも知られるイギリスの科学者は？",
-		"answer": "ニュートン",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 74,
-		"type": "REARRANGEMENT",
-		"question": "物体が外部から力を受けない限り、静止または等速直線運動を続けるという法則を何という？",
-		"answer": "慣性の法則",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 75,
-		"type": "REARRANGEMENT",
-		"question": "電流が流れる導体の周囲に磁場が発生する現象を発見したデンマークの物理学者は？",
-		"answer": "エルステッド",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 76,
-		"type": "REARRANGEMENT",
-		"question": "元素記号Naで表される元素の名称は？",
-		"answer": "ナトリウム",
-		"difficulty": "EASY"
-	},
-	{
-		"id": 77,
-		"type": "REARRANGEMENT",
-		"question": "化学反応の前後で、原子の種類と数が変化しないという法則は？",
-		"answer": "質量保存の法則",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 78,
-		"type": "REARRANGEMENT",
-		"question": "1517年、九十五か条の論題を発表し、宗教改革のきっかけを作ったドイツの神学者は？",
-		"answer": "マルティンルター",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 79,
-		"type": "REARRANGEMENT",
-		"question": "古代ローマの政治家であり、『ガリア戦記』を著した人物は？",
-		"answer": "ユリウスカエサル",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 80,
-		"type": "REARRANGEMENT",
-		"question": "1215年、イングランド王ジョンが貴族たちの要求によって認めた文書は？",
-		"answer": "マグナカルタ",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 81,
-		"type": "REARRANGEMENT",
-		"question": "アフリカ大陸で最も高い山の名前は？",
-		"answer": "キリマンジャロ",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 82,
-		"type": "REARRANGEMENT",
-		"question": "世界で最も深いことで知られる、太平洋西部にある海溝は？",
-		"answer": "マリアナ海溝",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 83,
-		"type": "REARRANGEMENT",
-		"question": "南アメリカ大陸の西側に沿って南北に連なる世界最長級の山脈は？",
-		"answer": "アンデス山脈",
-		"difficulty": "NORMAL"
-	},
-	{
-		"id": 84,
-		"type": "REARRANGEMENT",
-		"question": "小説『変身』を執筆した、チェコ出身の作家は？",
-		"answer": "フランツカフカ",
-		"difficulty": "HARD"
-	},
-	{
-		"id": 85,
-		"type": "REARRANGEMENT",
-		"question": "小説『罪と罰』を執筆したロシアの作家は？",
-		"answer": "ドストエフスキー",
-		"difficulty": "HARD"
-	}
+  {
+    "id": 1,
+    "type": "REARRANGEMENT",
+    "question": "文字を正しく並び替えて、\nNEXONが運営するゲームの名称にしなさい",
+    "answer": "ブルーアーカイブ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 2,
+    "type": "REARRANGEMENT",
+    "question": "文字を正しく並び替えて、\nゲーム『崩壊: スターレイル』の登場人物の\n名前にしなさい",
+    "answer": "ルアン・メェイ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 3,
+    "type": "REARRANGEMENT",
+    "question": "文字を正しく並び替えて、\nYostarが運営するゲームの名称にしなさい",
+    "answer": "ステラソラ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 4,
+    "type": "REARRANGEMENT",
+    "question": "DNAの正式名称は？",
+    "answer": "デオキシリボ核酸",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 5,
+    "type": "REARRANGEMENT",
+    "question": "文字を正しく並び替えて\n音楽ストリーミングサービスの名前にしなさい",
+    "answer": "Spotify",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 6,
+    "type": "REARRANGEMENT",
+    "question": "文字を正しく並び替えてHoyoverseが運営する\nゲームの名称にしなさい",
+    "answer": "ゼンレスゾーンゼロ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 7,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『原神』、『崩壊: スターレイル』、\n『ゼンレスゾーンゼロ』などを運営する\n中国のゲーム会社といえば？",
+    "answer": "Hoyoverse",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 8,
+    "type": "REARRANGEMENT",
+    "question": "文字を正しく並び替えてゲーム\n『ゼンレスゾーンゼロ』の登場人物の名前にしなさい",
+    "answer": "アンビー・デマラ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 9,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『Minecraft』を開発している会社は\n「◯◯◯◯◯◯ Studio」？",
+    "answer": "Mojang",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 10,
+    "type": "REARRANGEMENT",
+    "question": "広大なゲーム世界をシームレスに\n自由に探索・攻略できるコンピュータゲームのジャンルを\n何という？",
+    "answer": "オープンワールド",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 11,
+    "type": "REARRANGEMENT",
+    "question": "航空機または船舶で日本から出国する旅客に対して\n課税される税金を何という？",
+    "answer": "国際観光旅客税",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 12,
+    "type": "REARRANGEMENT",
+    "question": "SOLID原則において、「クライアントが\n利用しないメソッドへの依存を強制してはならない」\nという原則を「〇〇〇〇〇〇〇〇分離原則」という？",
+    "answer": "インターフェース",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 13,
+    "type": "REARRANGEMENT",
+    "question": "1946年にアメリカの\nペンシルベニア大学で開発された、\n世界初のコンピューターを何という？",
+    "answer": "ENIAC",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 14,
+    "type": "REARRANGEMENT",
+    "question": "サーバー側でほとんどのファイル、アプリケーション\nなどの資源一元管理することで、必要最低限の\n記憶媒体やアプリケーションソフトしか持たせていない\nクライアントコンピューターのことを何という？",
+    "answer": "シンクライアント",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 15,
+    "type": "REARRANGEMENT",
+    "question": "日本において毎年5月初めにかけて\n休日が続く期間のことを何という？",
+    "answer": "ゴールデンウィーク",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 16,
+    "type": "REARRANGEMENT",
+    "question": "例えばキーボードの「a」を押しっぱなしにすると\n「aaaaaaa」と入力されるように、キーを押し続けた時に同じ入力が自動的に連続して発生する現象を何という？",
+    "answer": "キーリピート",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 17,
+    "type": "REARRANGEMENT",
+    "question": "Microsoftが提供する\nクラウドコンピューティングサービスといえば\n「Microsoft 〇〇〇〇〇」？",
+    "answer": "Azure",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 18,
+    "type": "REARRANGEMENT",
+    "question": "月単位または年単位で定期的に料金を支払い\n利用するコンテンツやサービスのことを\n何という？",
+    "answer": "サブスクリプション",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 19,
+    "type": "REARRANGEMENT",
+    "question": "「true」または「false」の2つの値を持つ、日本語では\n論理型と言われるデータ型を何という？",
+    "answer": "boolean",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 20,
+    "type": "REARRANGEMENT",
+    "question": "他人の不幸や失敗、不遇な出来事を見聞きした際に、\n思わず感じてしまう快感をドイツ語で何という？",
+    "answer": "シャーデンフロイデ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 21,
+    "type": "REARRANGEMENT",
+    "question": "任天堂が開発・販売する、\n配管工のマリオが主人公のゲームシリーズといえば？",
+    "answer": "スーパーマリオ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 22,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『Minecraft』に登場する、\n音もなく近づいてきて爆発する\n緑色の敵キャラクターといえば？",
+    "answer": "クリーパー",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 23,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『ポケットモンスター』シリーズに登場する、\nピカチュウの進化前のポケモンは？",
+    "answer": "ピチュー",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 24,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『ドラゴンクエスト』シリーズに登場する、\n青いしずく型のモンスターといえば？",
+    "answer": "スライム",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 25,
+    "type": "REARRANGEMENT",
+    "question": "Webページを記述するために使用される\nマークアップ言語といえば？",
+    "answer": "HTML",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 26,
+    "type": "REARRANGEMENT",
+    "question": "JavaやC++などで、\nクラスから生成される実体のことを\n何という？",
+    "answer": "インスタンス",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 27,
+    "type": "REARRANGEMENT",
+    "question": "プログラムのソースコードを\n機械語に変換するソフトウェアを\n何という？",
+    "answer": "コンパイラ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 28,
+    "type": "REARRANGEMENT",
+    "question": "コンピューターの処理装置であり、\n命令の実行や演算を行う部品を何という？",
+    "answer": "プロセッサ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 29,
+    "type": "REARRANGEMENT",
+    "question": "インターネット上で、\nWebページの場所を示すために使用される\n文字列を何という？",
+    "answer": "URL",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 30,
+    "type": "REARRANGEMENT",
+    "question": "コンピューター上で動作するプログラムや\nデータをまとめたものを何という？",
+    "answer": "ソフトウェア",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 31,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『ファイナルファンタジーVII』の\n主人公の名前は？",
+    "answer": "クラウド",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 32,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『ペルソナ5』に登場する、\n主人公たちが結成する怪盗団の名前は？",
+    "answer": "心の怪盗団",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 33,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『ソニック・ザ・ヘッジホッグ』\nシリーズの主人公の名前は？",
+    "answer": "ソニック",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 34,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『UNDERTALE』に登場する、\n骨の姿をしたキャラクターの名前は？",
+    "answer": "サンズ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 35,
+    "type": "REARRANGEMENT",
+    "question": "プログラミングにおいて、\n条件に応じて処理を分岐させる構文を何という？",
+    "answer": "条件分岐",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 36,
+    "type": "REARRANGEMENT",
+    "question": "プログラムの中で、\n同じ処理を繰り返し実行することを何という？",
+    "answer": "ループ処理",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 37,
+    "type": "REARRANGEMENT",
+    "question": "Javaなどのオブジェクト指向言語において、\nデータと処理をまとめた設計図を何という？",
+    "answer": "クラス",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 38,
+    "type": "REARRANGEMENT",
+    "question": "コンピューターが一時的に\nデータを保存するために使用する\n主記憶装置を何という？",
+    "answer": "メモリ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 39,
+    "type": "REARRANGEMENT",
+    "question": "コンピューターの起動時に、\nハードウェアを初期化するための\n基本的なプログラムを何という？",
+    "answer": "BIOS",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 40,
+    "type": "REARRANGEMENT",
+    "question": "太陽の表面で発生する、\n大規模な爆発現象を何という？",
+    "answer": "太陽フレア",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 41,
+    "type": "REARRANGEMENT",
+    "question": "地球の周囲を取り巻く、\n磁場が広がっている領域を何という？",
+    "answer": "磁気圏",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 42,
+    "type": "REARRANGEMENT",
+    "question": "地震の際に、最初に到達する小さな揺れを何という？",
+    "answer": "初期微動",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 43,
+    "type": "REARRANGEMENT",
+    "question": "古代エジプトで使用されていた、\n象形文字の一種を何という？",
+    "answer": "ヒエログリフ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 44,
+    "type": "REARRANGEMENT",
+    "question": "問題を解決するための手順を、\n明確な規則に従って記述したものを何という？",
+    "answer": "アルゴリズム",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 45,
+    "type": "REARRANGEMENT",
+    "question": "コーヒーに泡立てたミルクを加えて作る、\nイタリア発祥の飲み物は？",
+    "answer": "カプチーノ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 46,
+    "type": "REARRANGEMENT",
+    "question": "成層圏に多く存在し、\n太陽からの有害な紫外線を吸収するものは\n「〇〇〇層」？",
+    "answer": "オゾン",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 47,
+    "type": "REARRANGEMENT",
+    "question": "古代ギリシャの数学者で、\n『原論』を著した人物は？",
+    "answer": "ユークリッド",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 48,
+    "type": "REARRANGEMENT",
+    "question": "14世紀ごろのイタリアで始まり、\n古代ギリシャ・ローマの文化を復興しようとした\n運動を何という？",
+    "answer": "ルネサンス",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 49,
+    "type": "REARRANGEMENT",
+    "question": "火山活動によって形成された、\n円形または馬蹄形の大きな窪地を\n何という？",
+    "answer": "カルデラ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 50,
+    "type": "REARRANGEMENT",
+    "question": "放物面を利用して電波を特定の方向に\n集めるアンテナを何という？",
+    "answer": "パラボラアンテナ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 51,
+    "type": "REARRANGEMENT",
+    "question": "電流を増幅したり、\nスイッチとして利用したりする半導体素子を\n何という？",
+    "answer": "トランジスタ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 52,
+    "type": "REARRANGEMENT",
+    "question": "フランスのパリに建設された、\n鉄骨構造の有名な塔の名前は？",
+    "answer": "エッフェル塔",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 53,
+    "type": "REARRANGEMENT",
+    "question": "南米大陸を流れ、\n流域面積が世界最大級である川は「〇〇〇〇川」？",
+    "answer": "アマゾン",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 54,
+    "type": "REARRANGEMENT",
+    "question": "クリミア戦争で負傷兵の看護に尽力し、\n「近代看護の母」と呼ばれる人物は？",
+    "answer": "ナイチンゲール",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 55,
+    "type": "REARRANGEMENT",
+    "question": "明治政府が1875年にロシアとの間で締結し、\n樺太と千島列島の領有関係を定めた条約は？",
+    "answer": "樺太千島交換条約",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 56,
+    "type": "REARRANGEMENT",
+    "question": "日本の伝統的な遊びで、数字の書かれた札を使い、\n読み札に対応する札を取るものは？",
+    "answer": "百人一首",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 57,
+    "type": "REARRANGEMENT",
+    "question": "物体が音速を超える際に発生する衝撃波に伴う、\n特徴的な大きな音を何という？",
+    "answer": "ソニックブーム",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 58,
+    "type": "REARRANGEMENT",
+    "question": "地方税共同機構が運営する、\n地方税に関する手続きをインターネットで\n行うための電子申告・納税システムを何という？",
+    "answer": "eLTAX",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 59,
+    "type": "REARRANGEMENT",
+    "question": "国税庁が運営する、\n国税に関する申告や納税などの手続きを\nインターネットで行うためのシステムを\n何という？",
+    "answer": "e-Tax",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 60,
+    "type": "REARRANGEMENT",
+    "question": "入力されたデータが正しい形式や\n条件を満たしているかを確認することを\n何という？",
+    "answer": "バリデーション",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 61,
+    "type": "REARRANGEMENT",
+    "question": "モイ株式会社が運営する、\niPhoneやAndroid端末、PCなどから手軽に\nライブ配信を行えるサービスといえば？",
+    "answer": "ツイキャス",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 62,
+    "type": "REARRANGEMENT",
+    "question": "プログラミングにおいて、\nある関数が自分自身を呼び出す\n処理方法を何という？",
+    "answer": "再帰呼び出し",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 63,
+    "type": "REARRANGEMENT",
+    "question": "暗号化と復号に同じ鍵を使用する\n暗号方式を何という？",
+    "answer": "共通鍵暗号",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 64,
+    "type": "REARRANGEMENT",
+    "question": "インターネット上で、\nIPアドレスとドメイン名を対応付ける仕組みを\n何という？",
+    "answer": "DNS",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 65,
+    "type": "REARRANGEMENT",
+    "question": "データを後入れ先出しの原則で管理する\nデータ構造を何という？",
+    "answer": "スタック",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 66,
+    "type": "REARRANGEMENT",
+    "question": "複数の処理が互いの終了を待ち続け、\n処理が進まなくなる状態を何という？",
+    "answer": "デッドロック",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 67,
+    "type": "REARRANGEMENT",
+    "question": "ソフトウェア開発において、\nプログラムの不具合を取り除く作業を何という？",
+    "answer": "デバッグ",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 68,
+    "type": "REARRANGEMENT",
+    "question": "二つの入力が異なる場合にのみ1を出力する論理演算は？",
+    "answer": "排他的論理和",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 69,
+    "type": "REARRANGEMENT",
+    "question": "データベースにおいて、\n複数の操作をひとまとまりとして扱い、\nすべて成功するかすべて取り消す処理単位を\n何という？",
+    "answer": "トランザクション",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 70,
+    "type": "REARRANGEMENT",
+    "question": "二次方程式の解を求める際に使用する、\n判別式を表す記号「D」は何という言葉の頭文字？",
+    "answer": "ディスクリミナント",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 71,
+    "type": "REARRANGEMENT",
+    "question": "三角形の3辺の長さについて、\n直角三角形で成り立つ関係を示した定理は？",
+    "answer": "ピタゴラスの定理",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 72,
+    "type": "REARRANGEMENT",
+    "question": "微分積分学の基本定理を発見した人物の一人であり、\n万有引力の法則でも知られるイギリスの科学者は？",
+    "answer": "ニュートン",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 73,
+    "type": "REARRANGEMENT",
+    "question": "物体が外部から力を受けない限り、\n静止または等速直線運動を続けるという法則を\n何という？",
+    "answer": "慣性の法則",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 74,
+    "type": "REARRANGEMENT",
+    "question": "電流が流れる導体の周囲に磁場が\n発生する現象を発見した\nデンマークの物理学者は？",
+    "answer": "エルステッド",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 75,
+    "type": "REARRANGEMENT",
+    "question": "元素記号Naで表される元素の名称は？",
+    "answer": "ナトリウム",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 76,
+    "type": "REARRANGEMENT",
+    "question": "化学反応の前後で、\n原子の種類と数が変化しないという法則は？",
+    "answer": "質量保存の法則",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 77,
+    "type": "REARRANGEMENT",
+    "question": "1517年、九十五か条の論題を発表し、\n宗教改革のきっかけを作ったドイツの神学者は？",
+    "answer": "マルティンルター",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 78,
+    "type": "REARRANGEMENT",
+    "question": "古代ローマの政治家であり、\n『ガリア戦記』を著した人物は？",
+    "answer": "ユリウスカエサル",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 79,
+    "type": "REARRANGEMENT",
+    "question": "1215年、イングランド王ジョンが貴族たちの\n要求によって認めた文書は？",
+    "answer": "マグナカルタ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 80,
+    "type": "REARRANGEMENT",
+    "question": "アフリカ大陸で最も高い山の名前は？",
+    "answer": "キリマンジャロ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 81,
+    "type": "REARRANGEMENT",
+    "question": "世界で最も深いことで知られる、\n太平洋西部にある海溝は「〇〇〇〇海溝」？",
+    "answer": "マリアナ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 82,
+    "type": "REARRANGEMENT",
+    "question": "南アメリカ大陸の西側に沿って南北に連なる\n世界最長級の山脈は「〇〇〇〇山脈」？",
+    "answer": "アンデス",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 83,
+    "type": "REARRANGEMENT",
+    "question": "小説『変身』を執筆した、チェコ出身の作家は？",
+    "answer": "フランツカフカ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 84,
+    "type": "REARRANGEMENT",
+    "question": "小説『罪と罰』を執筆したロシアの作家は？",
+    "answer": "ドストエフスキー",
+    "difficulty": "HARD"
+  }
 ]
