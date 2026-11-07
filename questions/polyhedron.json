@@ -72,140 +72,140 @@
     {
         "id": 11,
         "type": "CUBE",
-        "question": "長さを測るために使う、目盛りがついた細い棒状の道具です。",
+        "question": "長さを測るために使う、目盛りがついた細い棒状の道具です",
         "answer": "ものさし",
         "difficulty": "EASY"
     },
     {
         "id": 12,
         "type": "CUBE",
-        "question": "髭や体毛を剃るために使う、刃のついた小さな道具です。",
+        "question": "髭や体毛を剃るために使う、刃のついた小さな道具です",
         "answer": "かみそり",
         "difficulty": "EASY"
     },
     {
         "id": 13,
         "type": "CUBE",
-        "question": "木や板を切断するときに使う、ギザギザの刃がついた道具です。",
+        "question": "木や板を切断するときに使う、ギザギザの刃がついた道具です",
         "answer": "ノコギリ",
         "difficulty": "EASY"
     },
     {
         "id": 14,
         "type": "CUBE",
-        "question": "土を掘ったり砂をすくったりする、柄のついた道具です。",
+        "question": "土を掘ったり砂をすくったりする、柄のついた道具です",
         "answer": "スコップ",
         "difficulty": "EASY"
     },
     {
         "id": 15,
         "type": "CUBE",
-        "question": "紙をとじるために針を打ち込む文房具です。",
+        "question": "紙をとじるために針を打ち込む文房具です",
         "answer": "ホッチキス",
         "difficulty": "NORMAL"
     },
     {
         "id": 16,
         "type": "CUBE",
-        "question": "小さな物をつまむために使う、先が細い金属の道具です。",
+        "question": "小さな物をつまむために使う、先が細い金属の道具です",
         "answer": "ピンセット",
         "difficulty": "NORMAL"
     },
     {
         "id": 17,
         "type": "CUBE",
-        "question": "音を大きく出して聞けるようにする機械です。",
+        "question": "音を大きく出して聞けるようにする機械です",
         "answer": "スピーカー",
         "difficulty": "NORMAL"
     },
     {
         "id": 18,
         "type": "CUBE",
-        "question": "パンを焼いてこんがりさせるための調理家電です。",
+        "question": "パンを焼いてこんがりさせるための調理家電です",
         "answer": "トースター",
         "difficulty": "NORMAL"
     },
     {
         "id": 19,
         "type": "CUBE",
-        "question": "食材を混ぜたり砕いたりする回転する調理家電です。",
+        "question": "食材を混ぜたり砕いたりする回転する調理家電です",
         "answer": "ミキサー",
         "difficulty": "NORMAL"
     },
     {
         "id": 20,
         "type": "CUBE",
-        "question": "テレビやエアコンを離れた場所から操作する道具です。",
+        "question": "テレビやエアコンを離れた場所から操作する道具です",
         "answer": "リモコン",
         "difficulty": "NORMAL"
     },
     {
         "id": 21,
         "type": "CUBE",
-        "question": "耳に入れて音楽や通話の音を聞く小さな道具です。",
+        "question": "耳に入れて音楽や通話の音を聞く小さな道具です",
         "answer": "イヤホン",
         "difficulty": "HARD"
     },
     {
         "id": 22,
         "type": "CUBE",
-        "question": "計算を素早く行うための、ボタンが並んだ電子機器です。",
+        "question": "計算を素早く行うための、ボタンが並んだ電子機器です",
         "answer": "でんたく",
         "difficulty": "HARD"
     },
     {
         "id": 23,
         "type": "CUBE",
-        "question": "映像を大きな画面に映し出すための機械です。",
+        "question": "映像を大きな画面に映し出すための機械です",
         "answer": "プロジェクター",
         "difficulty": "HARD"
     },
     {
         "id": 24,
         "type": "CUBE",
-        "question": "建物の階を上下に移動するための箱型の乗り物です。",
+        "question": "建物の階を上下に移動するための箱型の乗り物です",
         "answer": "エレベーター",
         "difficulty": "HARD"
     },
     {
         "id": 25,
         "type": "CUBE",
-        "question": "階段の代わりに自動で人を運ぶ、動く段々の機械です。",
+        "question": "階段の代わりに自動で人を運ぶ、動く段々の機械です",
         "answer": "エスカレーター",
         "difficulty": "HARD"
     },
     {
         "id": 26,
         "type": "CUBE",
-        "question": "コーヒーを淹れるための、専用の調理家電です。",
+        "question": "コーヒーを淹れるための、専用の調理家電です",
         "answer": "コーヒーメーカー",
         "difficulty": "HARD"
     },
     {
         "id": 27,
         "type": "CUBE",
-        "question": "英語で「コンピュータ」を意味する、計算や作業を行う機械です。",
+        "question": "英語で「コンピュータ」を意味する、計算や作業を行う機械です",
         "answer": "COMPUTER",
         "difficulty": "HARD"
     },
     {
         "id": 28,
         "type": "CUBE",
-        "question": "英語で「キーボード」を意味する、文字を入力する道具です。",
+        "question": "英語で「キーボード」を意味する、文字を入力する道具です",
         "answer": "KEYBOARD",
         "difficulty": "HARD"
     },
     {
         "id": 29,
         "type": "CUBE",
-        "question": "英語で「モニター」を意味する、画面を表示する機器です。",
+        "question": "英語で「モニター」を意味する、画面を表示する機器です",
         "answer": "MONITOR",
         "difficulty": "HARD"
     },
     {
         "id": 30,
         "type": "CUBE",
-        "question": "英語で「バッテリー」を意味する、電気を蓄える部品です。",
+        "question": "英語で「バッテリー」を意味する、電気を蓄える部品です",
         "answer": "BATTERY",
         "difficulty": "HARD"
     },
