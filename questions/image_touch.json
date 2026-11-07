@@ -51,7 +51,7 @@
     {
         "id": 2,
         "type": "IMAGE_TOUCH",
-        "question": "カナダはどこ？",
+        "question": "中国はどこ？",
         "hint": "",
         "difficulty": "NORMAL",
         "image": "images/image_touch/world_ma.png",
