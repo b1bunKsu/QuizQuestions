@@ -870,10 +870,11 @@
       "均",
       "線"
     ],
-    "difficulty": "HARD"
+    "difficulty": "HARD",
+    "id": 46
   },
   {
-    "id": 46,
+    "id": 47,
     "type": "CHARACTER_PANEL",
     "question": "任天堂が発売した、マリオが登場するレースゲームシリーズの名称を何という？",
     "answer": "マリオカート",
@@ -892,7 +893,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 47,
+    "id": 48,
     "type": "CHARACTER_PANEL",
     "question": "『ポケットモンスター』シリーズで、ピカチュウが進化した姿を何という？",
     "answer": "ライチュウ",
@@ -911,7 +912,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 48,
+    "id": 49,
     "type": "CHARACTER_PANEL",
     "question": "『ゼルダの伝説』シリーズで、主人公リンクが冒険する世界に登場する王国を何という？",
     "answer": "ハイラル",
@@ -930,7 +931,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 49,
+    "id": 50,
     "type": "CHARACTER_PANEL",
     "question": "『ドラゴンクエスト』シリーズで、敵を眠らせる呪文を何という？",
     "answer": "ラリホー",
@@ -949,7 +950,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 50,
+    "id": 51,
     "type": "CHARACTER_PANEL",
     "question": "『ONE PIECE』で、主人公ルフィが目指している称号を何という？",
     "answer": "海賊王",
@@ -968,7 +969,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 51,
+    "id": 52,
     "type": "CHARACTER_PANEL",
     "question": "『鬼滅の刃』で、鬼殺隊が鬼を倒すために使用する特殊な剣を何という？",
     "answer": "日輪刀",
@@ -987,7 +988,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 52,
+    "id": 53,
     "type": "CHARACTER_PANEL",
     "question": "『名探偵コナン』で、江戸川コナンの本来の名前を何という？",
     "answer": "工藤新一",
@@ -1006,7 +1007,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 53,
+    "id": 54,
     "type": "CHARACTER_PANEL",
     "question": "日本の伝統的な弦楽器で、13本の弦を持つ代表的な楽器を何という？",
     "answer": "十三弦琴",
@@ -1025,7 +1026,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 54,
+    "id": 55,
     "type": "CHARACTER_PANEL",
     "question": "音楽で、五線譜の最初に書かれ、高い音域を表す記号を何という？",
     "answer": "ト音記号",
@@ -1044,7 +1045,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 55,
+    "id": 56,
     "type": "CHARACTER_PANEL",
     "question": "クラシック音楽で、複数の楽器による小規模な合奏を何という？",
     "answer": "室内楽",
@@ -1063,7 +1064,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 56,
+    "id": 57,
     "type": "CHARACTER_PANEL",
     "question": "野球で、打者が打った球がフェンスを越えて得点になる打撃を何という？",
     "answer": "ホームラン",
@@ -1082,7 +1083,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 57,
+    "id": 58,
     "type": "CHARACTER_PANEL",
     "question": "バスケットボールで、ボールを持ったまま3歩以上歩く反則を何という？",
     "answer": "トラベリング",
@@ -1101,7 +1102,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 58,
+    "id": 59,
     "type": "CHARACTER_PANEL",
     "question": "料理で、食材を細かく刻んで混ぜ合わせたものを一般に何という？",
     "answer": "みじん切り",
@@ -1120,7 +1121,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 59,
+    "id": 60,
     "type": "CHARACTER_PANEL",
     "question": "日本料理で、魚や肉を醤油・みりん・砂糖などで煮る調理法を何という？",
     "answer": "煮付け",
@@ -1139,7 +1140,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 60,
+    "id": 61,
     "type": "CHARACTER_PANEL",
     "question": "コーヒー豆を焙煎した後、粉にして湯を通し抽出する方法を何という？",
     "answer": "ドリップ",
@@ -1158,7 +1159,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 61,
+    "id": 62,
     "type": "CHARACTER_PANEL",
     "question": "絵画で、遠くのものほど小さく見えるように描く技法を何という？",
     "answer": "遠近法",
@@ -1177,7 +1178,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 62,
+    "id": 63,
     "type": "CHARACTER_PANEL",
     "question": "コンピューターで、情報を一時的に保存する主記憶装置を何という？",
     "answer": "メモリ",
@@ -1196,7 +1197,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 63,
+    "id": 64,
     "type": "CHARACTER_PANEL",
     "question": "給与所得者について、勤務先が1年間に天引きした所得税と、本来納めるべき所得税の差額を年末に生産する手続きを何という？",
     "answer": "年末調整",
@@ -1215,7 +1216,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 64,
+    "id": 65,
     "type": "CHARACTER_PANEL",
     "question": "給与や報酬を支払う人が、予め所得税などを差し引いて、本人に代わって税務署へ納める仕組みを何という？",
     "answer": "源泉徴収",
@@ -1234,7 +1235,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 65,
+    "id": 66,
     "type": "CHARACTER_PANEL",
     "question": "霊長類に見られる特徴で、親指が他の4本の指と向かい合うように位置する性質を「〇〇〇〇性」という？",
     "answer": "母指対向",
@@ -1253,7 +1254,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 66,
+    "id": 67,
     "type": "CHARACTER_PANEL",
     "question": "熱力学において、系の乱雑さやエネルギーの分散を表す状態量は何？",
     "answer": "エントロピー",
@@ -1272,7 +1273,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 67,
+    "id": 68,
     "type": "CHARACTER_PANEL",
     "question": "惑星の運動に関する三つの法則を発見したドイツの天文学者は誰？",
     "answer": "ケプラー",
@@ -1291,7 +1292,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 68,
+    "id": 69,
     "type": "CHARACTER_PANEL",
     "question": "電磁誘導の法則を発見したイギリスの科学者は誰？",
     "answer": "ファラデー",
@@ -1310,7 +1311,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 69,
+    "id": 70,
     "type": "CHARACTER_PANEL",
     "question": "微分積分学の基本定理を独立して確立したドイツの数学者は誰？",
     "answer": "ライプニッツ",
@@ -1329,7 +1330,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 70,
+    "id": 71,
     "type": "CHARACTER_PANEL",
     "question": "進化論を著書『種の起源』で発表したイギリスの博物学者は誰？",
     "answer": "ダーウィン",
@@ -1481,7 +1482,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 82,
+    "id": 79,
     "type": "CHARACTER_PANEL",
     "question": "古代ローマで、元老院と対立しながら終身独裁官となった人物は誰？",
     "answer": "カエサル",
@@ -1500,7 +1501,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 83,
+    "id": 80,
     "type": "CHARACTER_PANEL",
     "question": "世界で最も深い湖として知られる、シベリアに位置する湖は「〇〇〇〇湖」？",
     "answer": "バイカル",
@@ -1519,7 +1520,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 84,
+    "id": 81,
     "type": "CHARACTER_PANEL",
     "question": "南アメリカ大陸西部を南北に走る大山脈は「〇〇〇〇山脈」？",
     "answer": "アンデス",
@@ -1538,7 +1539,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 85,
+    "id": 82,
     "type": "CHARACTER_PANEL",
     "question": "世界で最も面積が大きい内陸国はどこ？",
     "answer": "カザフスタン",
@@ -1557,7 +1558,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 86,
+    "id": 83,
     "type": "CHARACTER_PANEL",
     "question": "国際単位系において、電気抵抗の単位は何？",
     "answer": "オーム",
@@ -1576,7 +1577,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 87,
+    "id": 84,
     "type": "CHARACTER_PANEL",
     "question": "DNAの二重らせん構造の解明で知られる科学者のうち、ワトソンとともに研究した人物は誰？",
     "answer": "クリック",
@@ -1595,7 +1596,26 @@
     "difficulty": "HARD"
   },
   {
-    "id": 88,
+    "id": 85,
+    "type": "CHARACTER_PANEL",
+    "question": "DNAの二重らせん構造の解明で知られる科学者のうち、クリックとともに研究した人物は誰？",
+    "answer": "ワトソン",
+    "choices": [
+      "ク",
+      "リ",
+      "ッ",
+      "パ",
+      "ワ",
+      "ト",
+      "ソ",
+      "ン",
+      "メ",
+      "ア"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 86,
     "type": "CHARACTER_PANEL",
     "question": "光合成において、光エネルギーを吸収する主要な色素は何？",
     "answer": "クロロフィル",
@@ -1614,7 +1634,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 89,
+    "id": 87,
     "type": "CHARACTER_PANEL",
     "question": "細胞内でタンパク質の合成が行われる小器官は何？",
     "answer": "リボソーム",
@@ -1633,7 +1653,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 90,
+    "id": 88,
     "type": "CHARACTER_PANEL",
     "question": "地球の地質時代において、恐竜が繁栄した中生代を構成する三つの紀のうち、最も古いものは？",
     "answer": "三畳紀",
@@ -1652,7 +1672,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 91,
+    "id": 89,
     "type": "CHARACTER_PANEL",
     "question": "数学において、円周の直径に対する比を表す定数は何？",
     "answer": "円周率",
@@ -1671,7 +1691,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 92,
+    "id": 90,
     "type": "CHARACTER_PANEL",
     "question": "コンピュータ科学において、計算可能性の理論の基礎を築いたイギリスの数学者は誰？",
     "answer": "チューリング",
@@ -1690,7 +1710,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 93,
+    "id": 91,
     "type": "CHARACTER_PANEL",
     "question": "経済学において、自由市場の価格調整機能を「見えざる手」と表現した思想家は誰？",
     "answer": "アダムスミス",
@@ -1709,7 +1729,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 94,
+    "id": 92,
     "type": "CHARACTER_PANEL",
     "question": "「睦月」、「如月」といった月の和風の呼び名を漢字4文字で何という？",
     "answer": "和風月名",
@@ -1724,25 +1744,6 @@
       "明",
       "呼",
       "称"
-    ],
-    "difficulty": "HARD"
-  },
-    {
-    "id": 95,
-    "type": "CHARACTER_PANEL",
-    "question": "DNAの二重らせん構造の解明で知られる科学者のうち、クリックとともに研究した人物は誰？",
-    "answer": "ワトソン",
-    "choices": [
-      "ク",
-      "リ",
-      "ッ",
-      "パ",
-      "ワ",
-      "ト",
-      "ソ",
-      "ン",
-      "メ",
-      "ア"
     ],
     "difficulty": "HARD"
   }
