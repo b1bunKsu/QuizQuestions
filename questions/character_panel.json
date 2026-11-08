@@ -1746,5 +1746,13 @@
       "称"
     ],
     "difficulty": "HARD"
-  }
+  },
+  	{
+		"id": 93,
+		"type": "CHARACTER_PANEL",
+		"question": "河川が山地から平野へ出る場所に、土砂が扇形に\n堆積して形成される地形を何という？",
+		"answer": "扇状地",
+    "choices":["扇", "状", "地", "三", "角", "州", "砂", "嘴", "四", "偏"],
+		"difficulty": "NORMAL"
+	},
 ]
