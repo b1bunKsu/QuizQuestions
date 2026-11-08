@@ -44,7 +44,7 @@
   {
     "id": 7,
     "type": "OX",
-    "question": "人間の心臓は体の\\w左にある",
+    "question": "人間の心臓は体の\\w左側にある",
     "answer": "O",
     "difficulty": "NORMAL"
   },
