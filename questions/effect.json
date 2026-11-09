@@ -618,5 +618,21 @@
     "question": "不定積分で出てくる任意の定数",
     "answer": "せきぶんていすう",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 76,
+    "type": "EFFECT",
+    "hint": "重音テト",
+    "question": "元はエイプリルフールで生まれた\n架空のVOCALOID",
+    "answer": "かさねてと",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 76,
+    "type": "EFFECT",
+    "hint": "夏色花梨",
+    "question": "声優・高木美佑の声を元に制作された\n合成音声キャラクター",
+    "answer": "なつきかりん",
+    "difficulty": "NORMAL"
   }
 ]
