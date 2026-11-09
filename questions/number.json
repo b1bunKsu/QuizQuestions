@@ -117,5 +117,14 @@
     "question": "エクシングが運用する業務用通信カラオケシリーズの\nブランドといえば？",
     "answer": "JOYSOUND",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 18,
+    "type": "NUMBER",
+    "question": "世界中で最も広く使われている文字入力用キーボード\nの標準的なアルファベット配列を、その上段を\nそのまま読んで「〇〇〇〇〇〇配列」という？\n〇の部分をアルファベットで答えなさい",
+    "answer": [
+      "QWERTY"
+    ],
+    "difficulty": "EASY"
   }
 ]
