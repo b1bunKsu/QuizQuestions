@@ -586,5 +586,54 @@
     "question": "小説『罪と罰』を執筆したロシアの作家は？",
     "answer": "ドストエフスキー",
     "difficulty": "HARD"
+  },
+  {
+    "id": 85,
+    "type": "REARRANGEMENT",
+    "question": "人間がコードを直接書くのではなく、AIにプロンプト\nでイメージや雰囲気を伝えて対話しながら、\nコード生成・修正を任せてアプリやシステムを\n作り上げる開発手法のことを何という？",
+    "answer": "バイブコーディング",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 86,
+    "type": "REARRANGEMENT",
+    "question": "細胞が細胞膜を使って細胞外の物質を包み込み、\n小胞として細胞内に取り込む現象を何という？",
+    "answer": "エンドサイトーシス",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 87,
+    "type": "REARRANGEMENT",
+    "question": "細胞内で合成された物質を膜で包んだ小胞を、\n細胞膜と融合させて細胞外へ放出する現象を\n何という？",
+    "answer": "エキソサイトーシス",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 88,
+    "type": "REARRANGEMENT",
+    "question": "2の正の平方根の近似値は？",
+    "answer": "1.4142135",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 89,
+    "type": "REARRANGEMENT",
+    "question": "3の正の平方根の近似値は？",
+    "answer": "1.7320508",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 90,
+    "type": "REARRANGEMENT",
+    "question": "5の正の平方根の近似値は？",
+    "answer": "2.2360679",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 91,
+    "type": "REARRANGEMENT",
+    "question": "7の正の平方根の近似値は？",
+    "answer": "2.64575",
+    "difficulty": "HARD"
   }
 ]
