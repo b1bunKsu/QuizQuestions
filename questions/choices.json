@@ -1018,5 +1018,149 @@
       "完全競争均衡"
     ],
     "difficulty": "HARD"
+  },
+  {
+    "id": 86,
+    "type": "CHOICE",
+    "question": "次のうち、お坊さんが読むのはどれ？",
+    "choices": [
+      "きょう",
+      "あした",
+      "きのう",
+      "あさって"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 87,
+    "type": "CHOICE",
+    "question": "次のうち、お花屋さんで買えるのはどれ？",
+    "choices": [
+      "きく",
+      "みる",
+      "いう",
+      "とる"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 88,
+    "type": "CHOICE",
+    "question": "次のうち、空から降るのはどれ？",
+    "choices": [
+      "アメ",
+      "チョコ",
+      "ガム",
+      "グミ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 89,
+    "type": "CHOICE",
+    "question": "次のうち、選挙に立候補した人が欲しいのはどれ？",
+    "choices": [
+      "ヒョウ",
+      "チーター",
+      "トラ",
+      "ライオン"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 90,
+    "type": "CHOICE",
+    "question": "次のうち、ゲームでズルをしている人はどれ？",
+    "choices": [
+      "チーター",
+      "トラ",
+      "ライオン",
+      "ヒョウ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 91,
+    "type": "CHOICE",
+    "question": "次のうち、将棋の駒にあるのは？",
+    "choices": [
+      "金",
+      "鉄",
+      "銅",
+      "鉛"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 92,
+    "type": "CHOICE",
+    "question": "次のうち、人の体にあるのはどれ？",
+    "choices": [
+      "ヒフ",
+      "ハヒ",
+      "フヘ",
+      "ヘホ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 93,
+    "type": "CHOICE",
+    "question": "次のうち、まだ完成していないのはどれ？",
+    "choices": [
+      "みかん",
+      "りんご",
+      "ぶどう",
+      "いちご"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 94,
+    "type": "CHOICE",
+    "question": "次のうち、ケガをしたら出るのはどれ？",
+    "choices": [
+      "ち",
+      "つ",
+      "た",
+      "て"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 95,
+    "type": "CHOICE",
+    "question": "次のうち、タイプミスしてしまったのはどれ？",
+    "choices": [
+      "ごじ",
+      "にじ",
+      "さんじ",
+      "よじ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 96,
+    "type": "CHOICE",
+    "question": "次のうち、調味料はどれ？",
+    "choices": [
+      "さとう",
+      "やまだ",
+      "すずき",
+      "たなか"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 97,
+    "type": "CHOICE",
+    "question": "次のうち、雨上がりに空に架かるのはどれ？",
+    "choices": [
+      "にじ",
+      "さんじ",
+      "よじ",
+      "ごじ"
+    ],
+    "difficulty": "EASY"
   }
 ]
