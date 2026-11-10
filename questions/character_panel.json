@@ -94,8 +94,8 @@
     ],
     "difficulty": "NORMAL"
   },
-    {
-    "id": 5,
+  {
+    "id": 6,
     "type": "CHARACTER_PANEL",
     "question": "磁場の変化によって電流が生じる現象を\\w「電磁誘導」といいますが、\\w\n電磁誘導によって生じた電流をなんという？",
     "answer": "誘導電流",
@@ -114,7 +114,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 6,
+    "id": 7,
     "type": "CHARACTER_PANEL",
     "question": "細胞核内にあり、遺伝情報を担う糸状の構造を何という？",
     "answer": "染色体",
@@ -133,7 +133,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 7,
+    "id": 8,
     "type": "CHARACTER_PANEL",
     "question": "古代の生物の遺骸が変化してできた燃料を何という？",
     "answer": "化石燃料",
@@ -152,7 +152,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 8,
+    "id": 9,
     "type": "CHARACTER_PANEL",
     "question": "温室効果ガスの増加により\n地球の気温が上昇する現象を何という？",
     "answer": "地球温暖化",
@@ -171,7 +171,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 9,
+    "id": 10,
     "type": "CHARACTER_PANEL",
     "question": "645年に中大兄皇子らが行った政治改革を何という？",
     "answer": "大化の改新",
@@ -190,7 +190,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 10,
+    "id": 11,
     "type": "CHARACTER_PANEL",
     "question": "直角三角形の三辺の長さの関係を表す定理を何という？",
     "answer": "三平方の定理",
@@ -209,7 +209,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 11,
+    "id": 12,
     "type": "CHARACTER_PANEL",
     "question": "水が蒸発して気体になったものを何という？",
     "answer": "水蒸気",
@@ -228,7 +228,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 12,
+    "id": 13,
     "type": "CHARACTER_PANEL",
     "question": "地震が発生したときに地中を伝わる波を何という？",
     "answer": "地震波",
@@ -247,7 +247,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 13,
+    "id": 14,
     "type": "CHARACTER_PANEL",
     "question": "大陸が長い年月をかけて移動する考え方を何という？",
     "answer": "大陸移動説",
@@ -266,7 +266,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 14,
+    "id": 15,
     "type": "CHARACTER_PANEL",
     "question": "環境に適した個体が生き残るという\nダーウィンの説を何という？",
     "answer": "自然選択",
@@ -285,7 +285,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 15,
+    "id": 16,
     "type": "CHARACTER_PANEL",
     "question": "親から子へ伝えられる遺伝情報の単位を何という？",
     "answer": "遺伝子",
@@ -304,7 +304,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 16,
+    "id": 17,
     "type": "CHARACTER_PANEL",
     "question": "一つの細胞が分裂して新しい細胞を作る現象を何という？",
     "answer": "細胞分裂",
@@ -323,7 +323,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 17,
+    "id": 18,
     "type": "CHARACTER_PANEL",
     "question": "元素を原子番号順に並べた表を何という？",
     "answer": "周期表",
@@ -342,7 +342,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 18,
+    "id": 19,
     "type": "CHARACTER_PANEL",
     "question": "1868年に始まった日本の近代化改革を何という？",
     "answer": "明治維新",
@@ -361,7 +361,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 19,
+    "id": 20,
     "type": "CHARACTER_PANEL",
     "question": "1600年に徳川家康が勝利した戦いの地名を\n何という？",
     "answer": "関ヶ原",
@@ -380,7 +380,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 20,
+    "id": 21,
     "type": "CHARACTER_PANEL",
     "question": "794年に桓武天皇が遷都した都の名前を何という？",
     "answer": "平安京",
@@ -399,7 +399,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 21,
+    "id": 22,
     "type": "CHARACTER_PANEL",
     "question": "徳川家が開いた江戸時代の政権を何という？",
     "answer": "江戸幕府",
@@ -418,7 +418,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 22,
+    "id": 23,
     "type": "CHARACTER_PANEL",
     "question": "地球上で最も広い海洋の名前を何という？",
     "answer": "太平洋",
@@ -437,7 +437,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 23,
+    "id": 24,
     "type": "CHARACTER_PANEL",
     "question": "北の空でほとんど動かない星として知られるものを\n何という？",
     "answer": "北極星",
@@ -456,7 +456,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 24,
+    "id": 25,
     "type": "CHARACTER_PANEL",
     "question": "皇帝や天皇などの君主1人につき、\n元号を1つだけ定める制度を何という？",
     "answer": "一世一元の制",
@@ -475,7 +475,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 25,
+    "id": 26,
     "type": "CHARACTER_PANEL",
     "question": "平成最後の日は2019年何月何日？ずばり答えなさい",
     "answer": "4月30日",
@@ -494,7 +494,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 26,
+    "id": 27,
     "type": "CHARACTER_PANEL",
     "question": "個人の所得に対して課税される税金を何という？",
     "answer": "所得税",
@@ -513,7 +513,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 27,
+    "id": 28,
     "type": "CHARACTER_PANEL",
     "question": "法人の所得に対して課税される税金を何という？",
     "answer": "法人税",
@@ -532,7 +532,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 28,
+    "id": 29,
     "type": "CHARACTER_PANEL",
     "question": "国内での商品販売・サービス提供や、輸入取引などに対して\n課税される税金を何という？",
     "answer": "消費税",
@@ -551,7 +551,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 29,
+    "id": 30,
     "type": "CHARACTER_PANEL",
     "question": "相続や遺贈によって財産を取得した場合に\n課税される税金を何という？",
     "answer": "相続税",
@@ -570,7 +570,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 30,
+    "id": 31,
     "type": "CHARACTER_PANEL",
     "question": "国民の祝日に関する法律第3条第2項によって定められる\n国民の祝日が日曜日に当たる場合に設けられる休日を\n一般に何という？",
     "answer": "振替休日",
@@ -589,7 +589,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 31,
+    "id": 32,
     "type": "CHARACTER_PANEL",
     "question": "個人から財産の贈与を受けた場合に、\n原則として受贈者に課税される税金を何という？",
     "answer": "贈与税",
@@ -608,7 +608,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 32,
+    "id": 33,
     "type": "CHARACTER_PANEL",
     "question": "ガソリンなどの揮発油の製造場からの移出や\n輸入時の引取りなどに課税される税金を何という？",
     "answer": "揮発油税",
@@ -627,7 +627,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 33,
+    "id": 34,
     "type": "CHARACTER_PANEL",
     "question": "土地、家屋、償却資産の所有者に対して\n原則として毎年課税される税金を何という？",
     "answer": "固定資産税",
@@ -646,7 +646,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 34,
+    "id": 35,
     "type": "CHARACTER_PANEL",
     "question": "SOLID原則において、「クラスが変更される理由は\n1つだけであるべきである」という原則を\n「〇〇〇〇原則」という？",
     "answer": "単一責任",
@@ -665,7 +665,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 35,
+    "id": 36,
     "type": "CHARACTER_PANEL",
     "question": "SOLID原則において、「ソフトウェア要素は拡張に\n対して開かれており、変更に対して\n閉じているべきである」という原則を\n「〇〇〇〇原則」という？",
     "answer": "開放閉鎖",
@@ -684,7 +684,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 36,
+    "id": 37,
     "type": "CHARACTER_PANEL",
     "question": "SOLID原則において、「サブタイプのオブジェクトは\nスーパータイプのオブジェクトの仕様に\n従わなければならない」という原則を\n「〇〇〇〇置換原則」という？",
     "answer": "リスコフ",
@@ -703,7 +703,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 37,
+    "id": 38,
     "type": "CHARACTER_PANEL",
     "question": "SOLID原則において、「抽象は詳細に依存しては\nならない。詳細が中小に依存するべきである」\nという原則を「〇〇〇〇〇原則」という？",
     "answer": "依存性逆転",
@@ -722,7 +722,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 38,
+    "id": 39,
     "type": "CHARACTER_PANEL",
     "question": "生体認証システムなどの精度を表す指標の1つで\n「本人が認証を試みているのに本人でないと\n認識され拒否してしまう割合」を何という？",
     "answer": "本人拒否率",
@@ -741,7 +741,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 39,
+    "id": 40,
     "type": "CHARACTER_PANEL",
     "question": "生体認証システムなどの精度を表す指標の1つで\n「他人が認証を試みているのに本人であると\n誤認識されてしまう割合」を何という？",
     "answer": "他人受入率",
@@ -760,7 +760,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 40,
+    "id": 41,
     "type": "CHARACTER_PANEL",
     "question": "ログインなどの本人確認の際、性質の異なる\n「2つの要素」を組み合わせて\n本人確認を行う仕組みを何という？",
     "answer": "二要素認証",
@@ -779,7 +779,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 41,
+    "id": 42,
     "type": "CHARACTER_PANEL",
     "question": "桜の開花予想日が同じである日本の各地点を\n結んだ線のことを、天気図上では線で表現される\n「寒冷前線」「温暖前線」になぞらえてなんという？",
     "answer": "桜前線",
@@ -798,7 +798,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 42,
+    "id": 43,
     "type": "CHARACTER_PANEL",
     "question": "漢の将軍・韓信が、敗走を装って川を背にして戦うことで相手に油断を生み、形勢を逆転させたと伝えられる故事に由来する、「逃げ場のない状態で戦う」状態を指す故事成語は何？",
     "answer": "背水の陣",
@@ -817,7 +817,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 43,
+    "id": 44,
     "type": "CHARACTER_PANEL",
     "question": "かつては琵琶湖に次いで日本第2位の広さを持っていたものの、1957年から始まった干拓事業により大部分が埋め立てられ、居住地及び田畑として利用されている、秋田県にある湖は何？",
     "answer": "八郎潟",
@@ -836,7 +836,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 44,
+    "id": 45,
     "type": "CHARACTER_PANEL",
     "question": "2006年にGBA向けに発売されたゲームで、2008年には『ゴールド』、2011年には『みんなの』、2026年には最新作である『ミラクルスターズ』が発売されたゲームシリーズといえば何？",
     "answer": "リズム天国",
@@ -855,7 +855,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 45,
+    "id": 46,
     "type": "CHARACTER_PANEL",
     "question": "グラフ上のある一点でグラフに接する\n直線の傾きとして求められるものは何？",
     "answer": "微分係数",
@@ -874,6 +874,7 @@
     "difficulty": "HARD"
   },
   {
+    "id": 47,
     "type": "CHARACTER_PANEL",
     "question": "グラフ上のある一点でグラフに接する\n直線の傾きとして求められるものは、\\w\n「微分係数」ですが、\\w微分係数の変化の様子を表す\n関数は何？",
     "answer": "導関数",
@@ -889,11 +890,10 @@
       "均",
       "線"
     ],
-    "difficulty": "HARD",
-    "id": 46
+    "difficulty": "HARD"
   },
   {
-    "id": 47,
+    "id": 48,
     "type": "CHARACTER_PANEL",
     "question": "任天堂が発売した、マリオが登場する\nレースゲームシリーズの名称を何という？",
     "answer": "マリオカート",
@@ -912,7 +912,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 48,
+    "id": 49,
     "type": "CHARACTER_PANEL",
     "question": "『ポケットモンスター』シリーズで、\nピカチュウが進化した姿を何という？",
     "answer": "ライチュウ",
@@ -931,7 +931,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 49,
+    "id": 50,
     "type": "CHARACTER_PANEL",
     "question": "『ゼルダの伝説』シリーズで、主人公リンクが\n冒険する世界に登場する王国を何という？",
     "answer": "ハイラル",
@@ -950,7 +950,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 50,
+    "id": 51,
     "type": "CHARACTER_PANEL",
     "question": "『ドラゴンクエスト』シリーズで、\n敵を眠らせる呪文を何という？",
     "answer": "ラリホー",
@@ -969,7 +969,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 51,
+    "id": 52,
     "type": "CHARACTER_PANEL",
     "question": "『ONE PIECE』で、主人公ルフィが\n目指している称号を何という？",
     "answer": "海賊王",
@@ -988,7 +988,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 52,
+    "id": 53,
     "type": "CHARACTER_PANEL",
     "question": "『鬼滅の刃』で、鬼殺隊が鬼を倒すために\n使用する特殊な剣を何という？",
     "answer": "日輪刀",
@@ -1007,7 +1007,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 53,
+    "id": 54,
     "type": "CHARACTER_PANEL",
     "question": "『名探偵コナン』で、江戸川コナンの\n本来の名前を何という？",
     "answer": "工藤新一",
@@ -1026,7 +1026,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 54,
+    "id": 55,
     "type": "CHARACTER_PANEL",
     "question": "日本の伝統的な弦楽器で、\n13本の弦を持つ代表的な楽器を何という？",
     "answer": "十三弦琴",
@@ -1045,7 +1045,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 55,
+    "id": 56,
     "type": "CHARACTER_PANEL",
     "question": "音楽で、五線譜の最初に書かれ、\n高い音域を表す記号を何という？",
     "answer": "ト音記号",
@@ -1064,7 +1064,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 56,
+    "id": 57,
     "type": "CHARACTER_PANEL",
     "question": "クラシック音楽で、\n複数の楽器による小規模な合奏を何という？",
     "answer": "室内楽",
@@ -1083,7 +1083,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 57,
+    "id": 58,
     "type": "CHARACTER_PANEL",
     "question": "野球で、打者が打った球がフェンスを越えて\n得点になる打撃を何という？",
     "answer": "ホームラン",
@@ -1102,7 +1102,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 58,
+    "id": 59,
     "type": "CHARACTER_PANEL",
     "question": "バスケットボールで、ボールを持ったまま\n3歩以上歩く反則を何という？",
     "answer": "トラベリング",
@@ -1476,7 +1476,7 @@
       "ス",
       "カ",
       "フ",
-      "カ",
+      "ト",
       "ロ"
     ],
     "difficulty": "HARD"
@@ -1571,7 +1571,7 @@
       "ト",
       "ワ",
       "ッ",
-      "ト",
+      "ケ",
       "ン"
     ],
     "difficulty": "NORMAL"
@@ -1685,7 +1685,7 @@
       "面",
       "積",
       "体",
-      "積",
+      "和",
       "角"
     ],
     "difficulty": "EASY"
@@ -1747,12 +1747,62 @@
     ],
     "difficulty": "HARD"
   },
-  	{
-		"id": 93,
-		"type": "CHARACTER_PANEL",
-		"question": "河川が山地から平野へ出る場所に、土砂が扇形に\n堆積して形成される地形を何という？",
-		"answer": "扇状地",
-    "choices":["扇", "状", "地", "三", "角", "州", "砂", "嘴", "四", "偏"],
-		"difficulty": "NORMAL"
-	}
+  {
+    "id": 93,
+    "type": "CHARACTER_PANEL",
+    "question": "河川が山地から平野へ出る場所に、土砂が扇形に\n堆積して形成される地形を何という？",
+    "answer": "扇状地",
+    "choices": [
+      "扇",
+      "状",
+      "地",
+      "三",
+      "角",
+      "州",
+      "砂",
+      "嘴",
+      "四",
+      "偏"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 94,
+    "type": "CHARACTER_PANEL",
+    "question": "液晶ディスプレイにおいて、光の透過を\n制御するために液晶層の前後などに配置される、\n特定方向の偏光を透過させる部品は何？",
+    "answer": "偏光板",
+    "choices": [
+      "偏",
+      "光",
+      "板",
+      "旋",
+      "回",
+      "折",
+      "編",
+      "反",
+      "転",
+      "子"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 95,
+    "type": "CHARACTER_PANEL",
+    "question": "コンポーザーのn-bunaとボーカルのsuisによって\n結成された日本の2人組音楽ユニットは？",
+    "answer": "ヨルシカ",
+    "choices": [
+      "ヨ",
+      "ル",
+      "シ",
+      "カ",
+      "ア",
+      "ポ",
+      "リ",
+      "ヒ",
+      "ッ",
+      "チ",
+      "ハ"
+    ],
+    "difficulty": "NORMAL"
+  }
 ]
