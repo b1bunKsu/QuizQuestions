@@ -635,5 +635,33 @@
     "question": "7の正の平方根の近似値は？",
     "answer": "2.64575",
     "difficulty": "HARD"
+  },
+  {
+    "id": 92,
+    "type": "REARRANGEMENT",
+    "question": "ネットワークやサーバーにかかる負荷を\n複数の機器に分散させ、特定の機器への\n負荷集中を防ぐ技術を何という？",
+    "answer": "ロードバランシング",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 93,
+    "type": "REARRANGEMENT",
+    "question": "サーバーの負荷分散などで、複数のサーバーに対して\nリクエストを順番に等しく割り振っていく\n単純な割り当て方式を何という？",
+    "answer": "ラウンドロビン",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 94,
+    "type": "REARRANGEMENT",
+    "question": "歌詞に「愛や厭」というフレーズが登場する、\nDECO*27の楽曲といえば？",
+    "answer": "妄想感傷代償連盟",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 95,
+    "type": "REARRANGEMENT",
+    "question": "イラストや漫画、小説などの作品を投稿・閲覧\nできる、日本発のオンラインプラットフォーム\nといえば？",
+    "answer": "pixiv",
+    "difficulty": "NORMAL"
   }
 ]
