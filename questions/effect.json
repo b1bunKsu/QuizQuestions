@@ -614,25 +614,97 @@
   {
     "id": 76,
     "type": "EFFECT",
-    "hint": "積分定数",
     "question": "不定積分で出てくる任意の定数",
+    "hint": "積分定数",
     "answer": "せきぶんていすう",
     "difficulty": "NORMAL"
   },
   {
     "id": 77,
     "type": "EFFECT",
-    "hint": "重音テト",
     "question": "元はエイプリルフールで生まれた\n架空のVOCALOID",
+    "hint": "重音テト",
     "answer": "かさねてと",
     "difficulty": "NORMAL"
   },
   {
     "id": 78,
     "type": "EFFECT",
-    "hint": "夏色花梨",
     "question": "声優・高木美佑の声を元に制作された\n合成音声キャラクター",
+    "hint": "夏色花梨",
     "answer": "なつきかりん",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 79,
+    "type": "EFFECT",
+    "question": "手足などの震えを医学用語で",
+    "hint": "振戦",
+    "answer": "しんせん",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 80,
+    "type": "EFFECT",
+    "question": "脚の付け根の部分",
+    "hint": "鼠径部",
+    "answer": "そけいぶ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 81,
+    "type": "EFFECT",
+    "question": "吐き気を医学用語で",
+    "hint": "悪心",
+    "answer": "おしん",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 82,
+    "type": "EFFECT",
+    "question": "咳を医学用語で",
+    "hint": "咳嗽",
+    "answer": "がいそう",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 83,
+    "type": "EFFECT",
+    "question": "飲み込むことを医学用語で？",
+    "hint": "嚥下",
+    "answer": "えんげ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 84,
+    "type": "EFFECT",
+    "question": "歯が生えることを医学用語で？",
+    "hint": "萌出",
+    "answer": "ほうしゅつ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 85,
+    "type": "EFFECT",
+    "question": "物事が思い通りに行かずもどかしいこと",
+    "hint": "隔靴掻痒",
+    "answer": "かっかそうよう",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 86,
+    "type": "EFFECT",
+    "question": "データなどが1か所に集中して激しく混み合う状態",
+    "hint": "輻輳",
+    "answer": "ふくそう",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 87,
+    "type": "EFFECT",
+    "question": "植物が群がって生えること",
+    "hint": "叢生",
+    "answer": "そうせい",
+    "difficulty": "HARD"
   }
 ]
