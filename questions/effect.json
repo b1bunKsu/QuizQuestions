@@ -638,7 +638,7 @@
   {
     "id": 79,
     "type": "EFFECT",
-    "question": "手足などの震えを医学用語で",
+    "question": "手足などの震えを医学用語で？",
     "hint": "振戦",
     "answer": "しんせん",
     "difficulty": "NORMAL"
@@ -654,7 +654,7 @@
   {
     "id": 81,
     "type": "EFFECT",
-    "question": "吐き気を医学用語で",
+    "question": "吐き気を医学用語で？",
     "hint": "悪心",
     "answer": "おしん",
     "difficulty": "NORMAL"
@@ -662,7 +662,7 @@
   {
     "id": 82,
     "type": "EFFECT",
-    "question": "咳を医学用語で",
+    "question": "咳を医学用語で？",
     "hint": "咳嗽",
     "answer": "がいそう",
     "difficulty": "HARD"
