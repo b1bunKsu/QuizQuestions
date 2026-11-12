@@ -706,5 +706,45 @@
     "hint": "叢生",
     "answer": "そうせい",
     "difficulty": "HARD"
+  },
+  {
+    "id": 88,
+    "type": "EFFECT",
+    "question": "代表曲に『過去を喰らう』があるバーチャルシンガー",
+    "hint": "花譜",
+    "answer": "かふ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 89,
+    "type": "EFFECT",
+    "question": "「切手」は実はこれを略した言葉",
+    "hint": "切符手形",
+    "answer": "きりふてがた",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 90,
+    "type": "EFFECT",
+    "question": "JR山手線の停車駅の1つ",
+    "hint": "御徒町",
+    "answer": "おかちまち",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 91,
+    "type": "EFFECT",
+    "question": "JR山手線の停車駅の1つ",
+    "hint": "高田馬場",
+    "answer": "たかだのばば",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 92,
+    "type": "EFFECT",
+    "question": "砂糖醤油を使ったタレをからめた串団子",
+    "hint": "御手洗団子",
+    "answer": "みたらしだんご",
+    "difficulty": "NORMAL"
   }
 ]
