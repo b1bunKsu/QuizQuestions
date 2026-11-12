@@ -677,5 +677,12 @@
     "question": "ゲーム『FORTNITE』の由来ではないかという\n説がある、「2週間」を意味する英単語は？",
     "answer": "fortnight",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 98,
+    "type": "REARRANGEMENT",
+    "question": "企業や組織の価値観・仕事の進め方・雰囲気が\nその人と合っているかを示す概念を何という？",
+    "answer": "カルチャーフィット",
+    "difficulty": "HARD"
   }
 ]
