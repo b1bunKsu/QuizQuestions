@@ -656,5 +656,26 @@
     "question": "イラストや漫画、小説などの作品を投稿・閲覧\nできる、日本発のオンラインプラットフォーム\nといえば？",
     "answer": "pixiv",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 95,
+    "type": "REARRANGEMENT",
+    "question": "三角形の3辺またはその延長線上にある3点が\n一直線上に並ぶとき、対応する線分の長さの比の積が\n1になることを示す定理を「〇〇〇〇〇の定理」という？",
+    "answer": "メネラウス",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 96,
+    "type": "REARRANGEMENT",
+    "question": "実験や製造の過程で、本来含まれるべきではない\n異物や不純物が混入し、試料や製品が\n汚染されることを何という？",
+    "answer": "コンタミネーション",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 97,
+    "type": "REARRANGEMENT",
+    "question": "ゲーム『FORTNITE』の由来ではないかという\n説がある、「2週間」を意味する英単語は？",
+    "answer": "fortnight",
+    "difficulty": "NORMAL"
   }
 ]
