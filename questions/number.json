@@ -130,7 +130,7 @@
   {
     "id": 19,
     "type": "NUMBER",
-    "question": "ソフトウェア開発において、「同じ知識や処理を\n複数箇所に重複して書かない」という考え方を\n「Don't Repeat Yourself」の頭文字から「〇〇〇原則」\nという？〇の部分を答えなさい",
+    "question": "ソフトウェア開発において、「同じ知識や処理を\n複数箇所に重複して書かない」という考え方を\n「Don't Repeat Yourself」の頭文字から\n「〇〇〇原則」という？〇の部分を答えなさい",
     "answer": "DRY",
     "difficulty": "EASY"
   }
