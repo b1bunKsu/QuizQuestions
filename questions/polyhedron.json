@@ -383,5 +383,12 @@
     "question": "高い成果を出す人に共通して見られる行動特性",
     "answer": "コンピテンシー",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 55,
+    "type": "CUBE",
+    "question": "何事もなかったように平気でいるさま",
+    "answer": "あっけらかん",
+    "difficulty": "NORMAL"
   }
 ]
