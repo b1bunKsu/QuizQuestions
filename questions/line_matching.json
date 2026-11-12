@@ -936,5 +936,23 @@
       "質量保存の法則"
     ],
     "difficulty": "HARD"
+  },
+  {
+    "id": 52,
+    "type": "LINE_MATCHING",
+    "question": "次の命名規則の通称とその表記方法の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "キャメルケース",
+      "スネークケース",
+      "ケバブケース",
+      "ドットケース"
+    ],
+    "rightChoices": [
+      "javaQuizGame",
+      "java_quiz_game",
+      "java-quiz-game",
+      "java.quiz.game"
+    ],
+    "difficulty": "HARD"
   }
 ]
