@@ -746,5 +746,21 @@
     "hint": "御手洗団子",
     "answer": "みたらしだんご",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 93,
+    "type": "EFFECT",
+    "question": "しゃっくりはこれの痙攣によるもの",
+    "hint": "横隔膜",
+    "answer": "おうかくまく",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 94,
+    "type": "EFFECT",
+    "question": "2乗するとマイナスになる数",
+    "hint": "虚数",
+    "answer": "きょすう",
+    "difficulty": "NORMAL"
   }
 ]
