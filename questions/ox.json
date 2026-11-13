@@ -108,7 +108,7 @@
     "id": 16,
     "type": "OX",
     "question": "日本で一番人口が多い都道府県は\\w\n京都府である",
-    "answer": "O",
+    "answer": "X",
     "difficulty": "EASY"
   },
   {
