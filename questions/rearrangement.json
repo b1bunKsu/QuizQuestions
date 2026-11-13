@@ -684,5 +684,19 @@
     "question": "企業や組織の価値観・仕事の進め方・雰囲気が\nその人と合っているかを示す概念を何という？",
     "answer": "カルチャーフィット",
     "difficulty": "HARD"
+  },
+  {
+    "id": 99,
+    "type": "REARRANGEMENT",
+    "question": "ワイヤレスイヤホンやマウス、キーボードなどを\nケーブルを使わずにスマートフォンやパソコンへ\n接続する際によく利用される無線通信規格は何？",
+    "answer": "Bluetooth",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 100,
+    "type": "REARRANGEMENT",
+    "question": "家庭やカフェ、公共施設などで利用され、\nルーターやアクセスポイントを介して\nスマートフォンやパソコンを無線で\nネットワークに接続する技術を何という？",
+    "answer": "Wi-Fi",
+    "difficulty": "EASY"
   }
 ]
