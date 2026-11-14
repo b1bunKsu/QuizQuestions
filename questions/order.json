@@ -15,7 +15,7 @@
   {
     "id": 2,
     "type": "ORDER-A",
-    "question": "次の文字列をたさしい順番で選んで、\nDNAの正式名称にしなさい",
+    "question": "次の文字を順番に選んで\nDNAの正式名称にしなさい",
     "choices": [
       "デ",
       "オキシ",
@@ -866,5 +866,28 @@
       "銀座"
     ],
     "difficulty": "HARD"
+  },
+  {
+    "id": 70,
+    "type": "ORDER-A",
+    "question": "次の文字を順番に選んで\nロックスター・ゲームスが展開するオープン\nワールド型のクライムアクションゲームシリーズの\n名前にしなさい",
+    "choices": [
+      "Grand",
+      "Theft",
+      "Auto"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 71,
+    "type": "ORDER",
+    "question": "次の文字を順番に選んで\nアニメ『キルミーベイベー』のED曲の\n名前にしなさい",
+    "choices": [
+      "ふたりの",
+      "きもちの",
+      "ほんとの",
+      "ひみつ"
+    ],
+    "difficulty": "NORMAL"
   }
 ]
