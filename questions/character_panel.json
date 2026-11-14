@@ -2012,5 +2012,24 @@
       "え"
     ],
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 107,
+    "type": "CHARACTER_PANEL",
+    "question": "ソフトウェア開発において、データやユーザー\nなどを重複しにくい値で識別するために\n使われる、一般的に128ビットで構成される\n識別子をアルファベット4文字で何という？",
+    "answer": "UUID",
+    "choices": [
+      "U",
+      "I",
+      "D",
+      "H",
+      "J",
+      "K",
+      "B",
+      "C",
+      "S",
+      "T"
+    ],
+    "difficulty": "HARD"
   }
 ]
