@@ -65,7 +65,7 @@
   {
     "id": 10,
     "type": "REARRANGEMENT",
-    "question": "広大なゲーム世界をシームレスに\n自由に探索・攻略できるコンピュータゲームのジャンルを\n何という？",
+    "question": "広大なゲーム世界をシームレスに自由に\n探索・攻略できるコンピュータゲームの\nジャンルを何という？",
     "answer": "オープンワールド",
     "difficulty": "EASY"
   },
@@ -79,7 +79,7 @@
   {
     "id": 12,
     "type": "REARRANGEMENT",
-    "question": "SOLID原則において、「クライアントが\n利用しないメソッドへの依存を強制してはならない」\nという原則を「〇〇〇〇〇〇〇〇分離原則」という？",
+    "question": "SOLID原則において、「クライアントが利用しない\nメソッドへの依存を強制してはならない」という\n原則を「〇〇〇〇〇〇〇〇分離原則」という？",
     "answer": "インターフェース",
     "difficulty": "NORMAL"
   },
@@ -100,7 +100,7 @@
   {
     "id": 15,
     "type": "REARRANGEMENT",
-    "question": "例えばキーボードの「a」を押しっぱなしにすると\n「aaaaaaa」と入力されるように、キーを押し続けた時に同じ入力が自動的に連続して発生する現象を何という？",
+    "question": "例えばキーボードの「a」を押しっぱなしにすると\n「aaaaaaa」と入力されるように、キーを\n押し続けた時に同じ入力が自動的に\n連続して発生する現象を何という？",
     "answer": "キーリピート",
     "difficulty": "NORMAL"
   },
@@ -170,7 +170,7 @@
   {
     "id": 25,
     "type": "REARRANGEMENT",
-    "question": "JavaやC++などで、\nクラスから生成される実体のことを\n何という？",
+    "question": "JavaやC++などで、クラスから生成\nされる実体のことを何という？",
     "answer": "インスタンス",
     "difficulty": "NORMAL"
   },
@@ -191,7 +191,7 @@
   {
     "id": 28,
     "type": "REARRANGEMENT",
-    "question": "インターネット上で、\nWebページの場所を示すために使用される\n文字列を何という？",
+    "question": "インターネット上で、Webページの場所を\n示すために使用される文字列を何という？",
     "answer": "URL",
     "difficulty": "EASY"
   },
@@ -233,14 +233,14 @@
   {
     "id": 34,
     "type": "REARRANGEMENT",
-    "question": "プログラミングにおいて、\n条件に応じて処理を分岐させる構文を何という？",
+    "question": "プログラミングにおいて、条件に応じて\n処理を分岐させる構文を何という？",
     "answer": "条件分岐",
     "difficulty": "NORMAL"
   },
   {
     "id": 35,
     "type": "REARRANGEMENT",
-    "question": "プログラムの中で、\n同じ処理を繰り返し実行することを何という？",
+    "question": "プログラムの中で、同じ処理を\n繰り返し実行することを何という？",
     "answer": "ループ処理",
     "difficulty": "EASY"
   },
@@ -296,7 +296,7 @@
   {
     "id": 43,
     "type": "REARRANGEMENT",
-    "question": "問題を解決するための手順を、\n明確な規則に従って記述したものを何という？",
+    "question": "問題を解決するための手順を、明確な規則に\n従って記述したものを何という？",
     "answer": "アルゴリズム",
     "difficulty": "NORMAL"
   },
@@ -310,7 +310,7 @@
   {
     "id": 45,
     "type": "REARRANGEMENT",
-    "question": "成層圏に多く存在し、\n太陽からの有害な紫外線を吸収するものは\n「〇〇〇層」？",
+    "question": "成層圏に多く存在し、太陽からの\n有害な紫外線を吸収するものは\n「〇〇〇層」？",
     "answer": "オゾン",
     "difficulty": "NORMAL"
   },
@@ -324,7 +324,7 @@
   {
     "id": 47,
     "type": "REARRANGEMENT",
-    "question": "14世紀ごろのイタリアで始まり、\n古代ギリシャ・ローマの文化を復興しようとした\n運動を何という？",
+    "question": "14世紀ごろのイタリアで始まり\n古代ギリシャ・ローマの文化を復興しようとした\n運動を何という？",
     "answer": "ルネサンス",
     "difficulty": "NORMAL"
   },
@@ -345,7 +345,7 @@
   {
     "id": 50,
     "type": "REARRANGEMENT",
-    "question": "電流を増幅したり、\nスイッチとして利用したりする半導体素子を\n何という？",
+    "question": "電流を増幅したり、スイッチとして\n利用したりする半導体素子を\n何という？",
     "answer": "トランジスタ",
     "difficulty": "NORMAL"
   },
@@ -359,7 +359,7 @@
   {
     "id": 52,
     "type": "REARRANGEMENT",
-    "question": "南米大陸を流れ、\n流域面積が世界最大級である川は「〇〇〇〇川」？",
+    "question": "南米大陸を流れ、流域面積が\n世界最大級である川は「〇〇〇〇川」？",
     "answer": "アマゾン",
     "difficulty": "EASY"
   },
@@ -436,7 +436,7 @@
   {
     "id": 63,
     "type": "REARRANGEMENT",
-    "question": "インターネット上で、\nIPアドレスとドメイン名を対応付ける仕組みを\n何という？",
+    "question": "インターネット上で、IPアドレスと\nドメイン名を対応付ける仕組みを\n何という？",
     "answer": "DNS",
     "difficulty": "NORMAL"
   },
@@ -457,14 +457,14 @@
   {
     "id": 66,
     "type": "REARRANGEMENT",
-    "question": "ソフトウェア開発において、\nプログラムの不具合を取り除く作業を何という？",
+    "question": "ソフトウェア開発において、プログラムの\n不具合を取り除く作業を何という？",
     "answer": "デバッグ",
     "difficulty": "EASY"
   },
   {
     "id": 67,
     "type": "REARRANGEMENT",
-    "question": "二つの入力が異なる場合にのみ1を出力する論理演算は？",
+    "question": "二つの入力が異なる場合にのみ\n1を出力する論理演算は？",
     "answer": "排他的論理和",
     "difficulty": "HARD"
   },
@@ -499,7 +499,7 @@
   {
     "id": 72,
     "type": "REARRANGEMENT",
-    "question": "物体が外部から力を受けない限り、\n静止または等速直線運動を続けるという法則を\n何という？",
+    "question": "物体が外部から力を受けない限り、\n静止または等速直線運動を続ける\nという法則を何という？",
     "answer": "慣性の法則",
     "difficulty": "NORMAL"
   },
@@ -520,7 +520,7 @@
   {
     "id": 75,
     "type": "REARRANGEMENT",
-    "question": "化学反応の前後で、\n原子の種類と数が変化しないという法則は？",
+    "question": "化学反応の前後で、原子の種類と数が\n変化しないという法則は？",
     "answer": "質量保存の法則",
     "difficulty": "NORMAL"
   },
@@ -712,5 +712,12 @@
     "question": "生物の細胞内で、遺伝情報が基本的に\nDNAからRNAへ、RNAからタンパク質へと伝わる\nという分子生物学の基本的な考え方を何という？",
     "answer": "セントラルドグマ",
     "difficulty": "HARD"
+  },
+  {
+    "id": 103,
+    "type": "REARRANGEMENT",
+    "question": "ポプ子とピピ美という2人の女の子が登場し\nシュールなギャグやパロディが繰り広げられる\n大川ぶくぶの漫画といえば？",
+    "answer": "ポプテピピック",
+    "difficulty": "NORMAL"
   }
 ]
