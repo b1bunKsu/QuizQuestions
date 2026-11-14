@@ -58,7 +58,7 @@
   {
     "id": 9,
     "type": "REARRANGEMENT",
-    "question": "ゲーム『Minecraft』を開発している会社は\n「◯◯◯◯◯◯ Studio」？",
+    "question": "ゲーム『Minecraft』を開発している会社は\n「〇〇〇〇〇〇 Studio」？",
     "answer": "Mojang",
     "difficulty": "EASY"
   },
