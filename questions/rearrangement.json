@@ -698,5 +698,19 @@
     "question": "家庭やカフェ、公共施設などで利用され、\nルーターやアクセスポイントを介して\nスマートフォンやパソコンを無線で\nネットワークに接続する技術を何という？",
     "answer": "Wi-Fi",
     "difficulty": "EASY"
+  },
+  {
+    "id": 101,
+    "type": "REARRANGEMENT",
+    "question": "折部やすなと、殺し屋の少女ソーニャが繰り広げる\n少し物騒な日常を描いた、カヅホによる4コマ漫画\nといえば？",
+    "answer": "キルミーベイベー",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 102,
+    "type": "REARRANGEMENT",
+    "question": "生物の細胞内で、遺伝情報が基本的に\nDNAからRNAへ、RNAからタンパク質へと伝わる\nという分子生物学の基本的な考え方を何という？",
+    "answer": "セントラルドグマ",
+    "difficulty": "HARD"
   }
 ]
