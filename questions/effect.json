@@ -762,5 +762,13 @@
     "hint": "虚数",
     "answer": "きょすう",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 95,
+    "type": "EFFECT",
+    "question": "的に向かって扇子を投げる日本の伝統的な遊び",
+    "hint": "投扇興",
+    "answer": "とうせんきょう",
+    "difficulty": "NORMAL"
   }
 ]
