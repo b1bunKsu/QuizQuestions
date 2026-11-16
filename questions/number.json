@@ -133,5 +133,19 @@
     "question": "ソフトウェア開発において、「同じ知識や処理を\n複数箇所に重複して書かない」という考え方を\n「Don't Repeat Yourself」の頭文字から\n「〇〇〇原則」という？〇の部分を答えなさい",
     "answer": "DRY",
     "difficulty": "EASY"
+  },
+  {
+    "id": 20,
+    "type": "NUMBER",
+    "question": "Androidアプリや業務システムなどの開発に\n広く利用され、コーヒーカップのロゴで\n知られるプログラミング言語は何？",
+    "answer": "JAVA",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 21,
+    "type": "NUMBER",
+    "question": "アルファベット1文字を名前に持ち、組み込み\nシステムやOSの開発などに広く利用されている\n1970年代に登場したプログラミング言語は\n「〇言語」？〇の部分を答えなさい ",
+    "answer": "C",
+    "difficulty": "EASY"
   }
 ]
