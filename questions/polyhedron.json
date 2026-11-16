@@ -390,5 +390,12 @@
     "question": "何事もなかったように平気でいるさま",
     "answer": "あっけらかん",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 56,
+    "type": "CUBE",
+    "question": "AI開発や機械学習に広く使われている\nプログラミング言語",
+    "answer": "PYTHON",
+    "difficulty": "NORMAL"
   }
 ]
