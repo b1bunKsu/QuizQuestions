@@ -954,5 +954,251 @@
       "java.quiz.game"
     ],
     "difficulty": "HARD"
+  },
+  {
+    "id": 53,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "色",
+      "歌",
+      "よく"
+    ],
+    "rightChoices": [
+      "白い",
+      "うたう",
+      "いくよ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 54,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "遠い",
+      "柿の",
+      "猫の",
+      "黄色い"
+    ],
+    "rightChoices": [
+      "音",
+      "木か",
+      "子ね",
+      "木"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 55,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "夜",
+      "靴に",
+      "多分",
+      "和紙の",
+      "縄の"
+    ],
+    "rightChoices": [
+      "来るよ",
+      "付く",
+      "ブタ",
+      "皺",
+      "罠"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 56,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "猿に",
+      "軽い",
+      "池と"
+    ],
+    "rightChoices": [
+      "似るさ",
+      "イルカ",
+      "時計"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 57,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "竹やぶ",
+      "ダンスが",
+      "飛び込む",
+      "夏まで"
+    ],
+    "rightChoices": [
+      "焼けた",
+      "済んだ",
+      "小人",
+      "待つな"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 58,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "意外や",
+      "バリウム",
+      "確かに",
+      "西が",
+      "イカ"
+    ],
+    "rightChoices": [
+      "意外",
+      "売り場",
+      "貸した",
+      "東に",
+      "食べたかい？"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 59,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "たまに",
+      "右手",
+      "留守に",
+      "まさか"
+    ],
+    "rightChoices": [
+      "ガニ股",
+      "バテ気味",
+      "何する？",
+      "逆さま"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 60,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "年末",
+      "かっこいい",
+      "夜にんじん"
+    ],
+    "rightChoices": [
+      "つまんね",
+      "国家",
+      "煮るよ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 61,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "私",
+      "関係ない",
+      "虫鳴かず",
+      "爺さん"
+    ],
+    "rightChoices": [
+      "負けましたわ",
+      "喧嘩",
+      "悲しむ",
+      "天才児"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 62,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "竹屋が",
+      "農家も",
+      "見事な"
+    ],
+    "rightChoices": [
+      "焼けた",
+      "芋買うの？",
+      "花とゴミ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 63,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "昼飯の",
+      "私タワシ",
+      "菓子与え"
+    ],
+    "rightChoices": [
+      "楽しめる日",
+      "渡したわ",
+      "肥えたアシカ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 64,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "ニワトリと",
+      "いぶし銀",
+      "イカ、確かに",
+      "ママが私に"
+    ],
+    "rightChoices": [
+      "小鳥とワニ",
+      "演技渋い",
+      "渡したかい？",
+      "したわがまま"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 65,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "筋肉ボディで",
+      "イカのダンスは",
+      "私キツネ、",
+      "イタリアでも"
+    ],
+    "rightChoices": [
+      "僕人気",
+      "済んだのかい？",
+      "鐘つきしたわ",
+      "友でありたい"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 66,
+    "type": "LINE_MATCHING",
+    "question": "回文になるように正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "ズラとバレても",
+      "田舎な神奈川にも",
+      "夜鳴くなよ柴犬",
+      "松茸摘みに来て"
+    ],
+    "rightChoices": [
+      "モテれば取らず",
+      "庭がなかなか無い",
+      "居場所無くなるよ",
+      "奇跡的に見つけた妻"
+    ],
+    "difficulty": "HARD"
   }
 ]
