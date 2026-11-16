@@ -770,5 +770,45 @@
     "hint": "投扇興",
     "answer": "とうせんきょう",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 96,
+    "type": "EFFECT",
+    "question": "同じ数を繰り返し掛ける演算",
+    "hint": "冪乗",
+    "answer": "べきじょう",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 97,
+    "type": "EFFECT",
+    "question": "光の波長が長波長側にずれる現象",
+    "hint": "赤方偏移",
+    "answer": "せきほうへんい",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 98,
+    "type": "EFFECT",
+    "question": "宇宙に存在する全ての物事や現象",
+    "hint": "森羅万象",
+    "answer": "しんらばんしょう",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 99,
+    "type": "EFFECT",
+    "question": "気晴らしにあちこちを見物したり\n遊びに出かけたりすること",
+    "hint": "物見遊山",
+    "answer": "ものみゆさん",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 100,
+    "type": "EFFECT",
+    "question": "代表曲に『青空のラプソディ』があるバンド",
+    "hint": "fhána",
+    "answer": "ファナ",
+    "difficulty": "NORMAL"
   }
 ]
