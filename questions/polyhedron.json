@@ -392,10 +392,38 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 56,
+    "id": 57,
     "type": "CUBE",
     "question": "AI開発や機械学習に広く使われている\nプログラミング言語",
     "answer": "PYTHON",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 58,
+    "type": "CUBE",
+    "question": "最初から用意されている標準的な値や機能",
+    "answer": "デフォルト",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 59,
+    "type": "CUBE",
+    "question": "英語では「フェリスホイール」といいます",
+    "answer": "かんらんしゃ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 60,
+    "type": "CUBE",
+    "question": "英語では「アウトレット」といいます",
+    "answer": "コンセント",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 61,
+    "type": "CUBE",
+    "question": "有名な回文です",
+    "answer": "たけやぶやけた",
     "difficulty": "NORMAL"
   }
 ]
