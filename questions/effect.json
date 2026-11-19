@@ -818,5 +818,29 @@
     "hint": "順列",
     "answer": "じゅんれつ",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 102,
+    "type": "EFFECT",
+    "question": "ヨルシカのsuisが作詞、キタニタツヤが作曲・編曲\nしたTVアニメ『猫と竜』のオープニングテーマ",
+    "hint": "猫日",
+    "answer": "ねこじつ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 103,
+    "type": "EFFECT",
+    "question": "言いふらすこと",
+    "hint": "吹聴",
+    "answer": "ふいちょう",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 104,
+    "type": "EFFECT",
+    "question": "言葉だけで情報や事実を伝えること",
+    "hint": "口伝",
+    "answer": "くでん",
+    "difficulty": "NORMAL"
   }
 ]
