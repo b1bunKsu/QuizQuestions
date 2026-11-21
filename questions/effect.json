@@ -842,5 +842,21 @@
     "hint": "口伝",
     "answer": "くでん",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 105,
+    "type": "EFFECT",
+    "question": "「首絞めハム太郎」の異名をもつ\nかつて存在したバーチャルYouTuber",
+    "hint": "輝夜月",
+    "answer": "かぐやるな",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 106,
+    "type": "EFFECT",
+    "question": "かろうじて残っているごくわずかな希望",
+    "hint": "一縷の望み",
+    "answer": "いちるののぞみ",
+    "difficulty": "NORMAL"
   }
 ]
