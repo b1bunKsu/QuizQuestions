@@ -382,5 +382,17 @@
       "ブラー"
     ],
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 33,
+    "type": "SLOT",
+    "question": "mRNAにおいて、メチオニンを指定するコドンは何？",
+    "choices": [
+      "AUG",
+      "UGC",
+      "GCA",
+      "CAU"
+    ],
+    "difficulty": "HARD"
   }
 ]
