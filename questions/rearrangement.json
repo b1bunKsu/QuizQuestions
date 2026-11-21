@@ -719,5 +719,19 @@
     "question": "ポプ子とピピ美という2人の女の子が登場し\nシュールなギャグやパロディが繰り広げられる\n大川ぶくぶの漫画といえば？",
     "answer": "ポプテピピック",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 104,
+    "type": "REARRANGEMENT",
+    "question": "怖いものを尋ねられた男が、実は大好物である\n饅頭を怖がるふりをして、仲間たちから饅頭を\n差し入れさせるという内容の古典落語の演目は何？",
+    "answer": "まんじゅうこわい",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 105,
+    "type": "REARRANGEMENT",
+    "question": "人口の上位2％に入る知能指数を\n持つことなどを入会資格とすることで\n知られる、国際的な高IQ団体は何？",
+    "answer": "MENSA",
+    "difficulty": "NORMAL"
   }
 ]
