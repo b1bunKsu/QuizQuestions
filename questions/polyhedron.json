@@ -425,5 +425,47 @@
     "question": "有名な回文です",
     "answer": "たけやぶやけた",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 62,
+    "type": "CUBE",
+    "question": "お互いに助けたり助けられたりしながら、\n良好な関係や立場を保っていること",
+    "answer": "もちつもたれつ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 63,
+    "type": "CUBE",
+    "question": "「結局のところ」を意味する慣用句",
+    "answer": "とどのつまり",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 64,
+    "type": "CUBE",
+    "question": "JR東日本が提供するインターネット\nきっぷ予約・旅行サービス",
+    "answer": "えきねっと",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 65,
+    "type": "CUBE",
+    "question": "人々の日常生活や社会活動を維持するために\n欠かせない基盤的な設備やインフラのこと",
+    "answer": "ライフライン",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 66,
+    "type": "CUBE",
+    "question": "英語コミュニケーション能力を測る国際的なテスト",
+    "answer": "TOEIC",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 67,
+    "type": "CUBE",
+    "question": "外国語の学習・教授・評価を行う際の習熟度を示す\n国際的な共通指標",
+    "answer": "CEFR",
+    "difficulty": "NORMAL"
   }
 ]
