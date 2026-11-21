@@ -858,5 +858,21 @@
     "hint": "一縷の望み",
     "answer": "いちるののぞみ",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 107,
+    "type": "EFFECT",
+    "question": "ヨルシカのボーカリスト",
+    "hint": "suis",
+    "answer": "スイ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 108,
+    "type": "EFFECT",
+    "question": "ヨルシカのギタリスト兼コンポーザー",
+    "hint": "n-buna",
+    "answer": "ナブナ",
+    "difficulty": "NORMAL"
   }
 ]
