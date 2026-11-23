@@ -525,7 +525,7 @@
   },
   {
     "id": 43,
-    "type": "ORDER",
+    "type": "ORDER-A",
     "question": "次の過程を、\n遺伝情報がタンパク質として発現する順に選びなさい",
     "choices": [
       "DNA",
