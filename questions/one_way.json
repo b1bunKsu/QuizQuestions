@@ -3,7 +3,7 @@
     "id": 1,
     "type": "ONE_WAY",
     "question": "日本の国旗の色は何色？",
-    "choices": [
+    "ONE_WAYs": [
       "赤と白",
       "青と白",
       "緑と白",
@@ -15,7 +15,7 @@
     "id": 2,
     "type": "ONE_WAY",
     "question": "1週間は何日？",
-    "choices": [
+    "ONE_WAYs": [
       "7日",
       "5日",
       "10日",
@@ -27,7 +27,7 @@
     "id": 3,
     "type": "ONE_WAY",
     "question": "犬は何と鳴く？",
-    "choices": [
+    "ONE_WAYs": [
       "ワンワン",
       "ニャーニャー",
       "モーモー",
@@ -39,7 +39,7 @@
     "id": 4,
     "type": "ONE_WAY",
     "question": "日本の首都はどこ？",
-    "choices": [
+    "ONE_WAYs": [
       "東京",
       "大阪",
       "京都",
@@ -51,7 +51,7 @@
     "id": 5,
     "type": "ONE_WAY",
     "question": "富士山の高さは約何メートル？",
-    "choices": [
+    "ONE_WAYs": [
       "3776メートル",
       "3012メートル",
       "2500メートル",
@@ -63,7 +63,7 @@
     "id": 6,
     "type": "ONE_WAY",
     "question": "太陽系で最も大きな惑星はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "木星",
       "土星",
       "地球",
@@ -75,7 +75,7 @@
     "id": 7,
     "type": "ONE_WAY",
     "question": "江戸時代の将軍家は何家？",
-    "choices": [
+    "ONE_WAYs": [
       "徳川家",
       "豊臣家",
       "織田家",
@@ -87,7 +87,7 @@
     "id": 8,
     "type": "ONE_WAY",
     "question": "光速は約何km/s？",
-    "choices": [
+    "ONE_WAYs": [
       "30万km/s",
       "3万km/s",
       "300万km/s",
@@ -99,7 +99,7 @@
     "id": 9,
     "type": "ONE_WAY",
     "question": "DNAの二重らせん構造を発見したのは誰？",
-    "choices": [
+    "ONE_WAYs": [
       "ワトソンとクリック",
       "アインシュタイン",
       "ニュートン",
@@ -111,7 +111,7 @@
     "id": 10,
     "type": "ONE_WAY",
     "question": "日本で最も面積の大きい都道府県は？",
-    "choices": [
+    "ONE_WAYs": [
       "北海道",
       "岩手県",
       "長野県",
@@ -123,7 +123,7 @@
     "id": 11,
     "type": "ONE_WAY",
     "question": "次のうち、日本の首都はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "東京都",
       "大阪府",
       "京都府",
@@ -135,7 +135,7 @@
     "id": 12,
     "type": "ONE_WAY",
     "question": "日本で最も高い山はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "富士山",
       "北岳",
       "奥穂高岳",
@@ -147,7 +147,7 @@
     "id": 13,
     "type": "ONE_WAY",
     "question": "日本国憲法が施行されたのは何年？",
-    "choices": [
+    "ONE_WAYs": [
       "1947年",
       "1945年",
       "1946年",
@@ -159,7 +159,7 @@
     "id": 14,
     "type": "ONE_WAY",
     "question": "江戸幕府を開いた人物は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "徳川家康",
       "豊臣秀吉",
       "織田信長",
@@ -171,7 +171,7 @@
     "id": 15,
     "type": "ONE_WAY",
     "question": "鎌倉幕府の初代将軍は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "源頼朝",
       "源義経",
       "北条時政",
@@ -183,7 +183,7 @@
     "id": 16,
     "type": "ONE_WAY",
     "question": "世界で最も面積が大きい国はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ロシア",
       "カナダ",
       "中国",
@@ -195,7 +195,7 @@
     "id": 17,
     "type": "ONE_WAY",
     "question": "地球の大気中で最も割合が大きい気体はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "窒素",
       "酸素",
       "二酸化炭素",
@@ -207,7 +207,7 @@
     "id": 18,
     "type": "ONE_WAY",
     "question": "水の化学式はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "H2O",
       "CO2",
       "O2",
@@ -219,7 +219,7 @@
     "id": 19,
     "type": "ONE_WAY",
     "question": "光合成を行う細胞小器官はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "葉緑体",
       "ミトコンドリア",
       "リボソーム",
@@ -231,7 +231,7 @@
     "id": 20,
     "type": "ONE_WAY",
     "question": "元素記号「Fe」が表す元素はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "鉄",
       "銅",
       "銀",
@@ -243,7 +243,7 @@
     "id": 21,
     "type": "ONE_WAY",
     "question": "三角形の内角の和は何度？",
-    "choices": [
+    "ONE_WAYs": [
       "180度",
       "90度",
       "270度",
@@ -255,7 +255,7 @@
     "id": 22,
     "type": "ONE_WAY",
     "question": "円の面積を求める公式はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "πr²",
       "2πr",
       "πr",
@@ -267,7 +267,7 @@
     "id": 23,
     "type": "ONE_WAY",
     "question": "2次方程式 x² - 5x + 6 = 0 の解の組み合わせはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "x = 2, 3",
       "x = 1, 6",
       "x = -2, -3",
@@ -279,7 +279,7 @@
     "id": 24,
     "type": "ONE_WAY",
     "question": "素数はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "17",
       "21",
       "27",
@@ -291,7 +291,7 @@
     "id": 25,
     "type": "ONE_WAY",
     "question": "微分すると 2x になる関数はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "x²",
       "x³",
       "2x²",
@@ -303,7 +303,7 @@
     "id": 26,
     "type": "ONE_WAY",
     "question": "『吾輩は猫である』の作者は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "夏目漱石",
       "芥川龍之介",
       "森鴎外",
@@ -315,7 +315,7 @@
     "id": 27,
     "type": "ONE_WAY",
     "question": "『走れメロス』を書いた作家は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "太宰治",
       "宮沢賢治",
       "川端康成",
@@ -327,7 +327,7 @@
     "id": 28,
     "type": "ONE_WAY",
     "question": "『源氏物語』の作者は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "紫式部",
       "清少納言",
       "和泉式部",
@@ -339,7 +339,7 @@
     "id": 29,
     "type": "ONE_WAY",
     "question": "俳句の基本的な音数構成はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "5・7・5",
       "5・5・7",
       "7・7・5",
@@ -351,7 +351,7 @@
     "id": 30,
     "type": "ONE_WAY",
     "question": "『モナ・リザ』を描いた人物は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "レオナルド・ダ・ヴィンチ",
       "ミケランジェロ",
       "ラファエロ",
@@ -363,7 +363,7 @@
     "id": 31,
     "type": "ONE_WAY",
     "question": "『交響曲第9番』を作曲したベートーヴェンの\n出身国はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ドイツ",
       "オーストリア",
       "イタリア",
@@ -375,7 +375,7 @@
     "id": 32,
     "type": "ONE_WAY",
     "question": "国際連合の本部が置かれている都市はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ニューヨーク",
       "ジュネーブ",
       "パリ",
@@ -387,7 +387,7 @@
     "id": 33,
     "type": "ONE_WAY",
     "question": "日本の国会を構成する議院の組み合わせはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "衆議院と参議院",
       "衆議院と貴族院",
       "参議院と元老院",
@@ -399,7 +399,7 @@
     "id": 34,
     "type": "ONE_WAY",
     "question": "需要が一定で供給が減少した場合\n一般に価格はどうなる？",
-    "choices": [
+    "ONE_WAYs": [
       "上昇する",
       "下落する",
       "必ず一定になる",
@@ -411,7 +411,7 @@
     "id": 35,
     "type": "ONE_WAY",
     "question": "供給が一定で需要が減少した場合\n一般に価格はどうなる？",
-    "choices": [
+    "ONE_WAYs": [
       "下落する",
       "上昇する",
       "必ず一定になる",
@@ -423,7 +423,7 @@
     "id": 36,
     "type": "ONE_WAY",
     "question": "日本の中央銀行はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "日本銀行",
       "日本政策金融公庫",
       "金融庁",
@@ -435,7 +435,7 @@
     "id": 37,
     "type": "ONE_WAY",
     "question": "地球が太陽の周りを1周するのにかかる時間は\n約何日？",
-    "choices": [
+    "ONE_WAYs": [
       "365.25日",
       "30日",
       "180日",
@@ -447,7 +447,7 @@
     "id": 38,
     "type": "ONE_WAY",
     "question": "地震の規模を表す指標はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "マグニチュード",
       "震度",
       "気圧",
@@ -459,7 +459,7 @@
     "id": 39,
     "type": "ONE_WAY",
     "question": "DNAを構成する塩基に含まれないものはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ウラシル",
       "アデニン",
       "グアニン",
@@ -471,7 +471,7 @@
     "id": 40,
     "type": "ONE_WAY",
     "question": "相対性理論を提唱した物理学者は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "アルベルト・アインシュタイン",
       "アイザック・ニュートン",
       "ニールス・ボーア",
@@ -483,7 +483,7 @@
     "id": 41,
     "type": "ONE_WAY",
     "question": "日本の都道府県のうち、最も面積が小さいのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "香川県",
       "大阪府",
       "東京都",
@@ -495,7 +495,7 @@
     "id": 42,
     "type": "ONE_WAY",
     "question": "次のうち、2026年10月2日にリリースされた、\nきゃりーぱみゅぱみゅがパン生地をボコボコに捏ねる\nMVが特徴的な同氏の楽曲は？",
-    "choices": [
+    "ONE_WAYs": [
       "Pang Pang Pang",
       "Ping Ping Ping",
       "Peng Peng Peng",
@@ -507,7 +507,7 @@
     "id": 43,
     "type": "ONE_WAY",
     "question": "国民の祝日に関する法律において、\n「自然をたたえ、生物をいつくしむ」日とされている\n国民の祝日は？",
-    "choices": [
+    "ONE_WAYs": [
       "春分の日",
       "みどりの日",
       "秋分の日",
@@ -519,7 +519,7 @@
     "id": 44,
     "type": "ONE_WAY",
     "question": "国民の祝日に関する法律において、\n「自然に親しむとともにその恩恵に感謝し、\n豊かな心をはぐくむ」日とされている\n国民の祝日は？",
-    "choices": [
+    "ONE_WAYs": [
       "みどりの日",
       "春分の日",
       "秋分の日",
@@ -531,7 +531,7 @@
     "id": 45,
     "type": "ONE_WAY",
     "question": "国民の祝日に関する法律において、\n「祖先をうやまい、なくなった人々をしのぶ」日と\nされている国民の祝日は？",
-    "choices": [
+    "ONE_WAYs": [
       "秋分の日",
       "春分の日",
       "みどりの日",
@@ -543,7 +543,7 @@
     "id": 46,
     "type": "ONE_WAY",
     "question": "国民の祝日に関する法律において、\n「自由と平和を愛し、文化をすすめる」日とされている\n国民の祝日は？",
-    "choices": [
+    "ONE_WAYs": [
       "文化の日",
       "春分の日",
       "みどりの日",
@@ -555,7 +555,7 @@
     "id": 47,
     "type": "ONE_WAY",
     "question": "『ヨルシカ』という名前の由来となった\n同バンドの楽曲は？",
-    "choices": [
+    "ONE_WAYs": [
       "雲と幽霊",
       "靴の花火",
       "雨とカプチーノ",
@@ -567,7 +567,7 @@
     "id": 48,
     "type": "ONE_WAY",
     "question": "次のうち、光の三原色にないのは？",
-    "choices": [
+    "ONE_WAYs": [
       "黄",
       "赤",
       "青",
@@ -579,7 +579,7 @@
     "id": 49,
     "type": "ONE_WAY",
     "question": "次のうち、新聞記者が書くのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "キジ",
       "イヌ",
       "サル",
@@ -591,7 +591,7 @@
     "id": 50,
     "type": "ONE_WAY",
     "question": "次のうち、OpenAIが提供している生成AIはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ChatGPT",
       "Grok",
       "Gemini",
@@ -603,7 +603,7 @@
     "id": 51,
     "type": "ONE_WAY",
     "question": "次のうち、Microsoftが提供している生成AIはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "Copilot",
       "Grok",
       "Gemini",
@@ -615,7 +615,7 @@
     "id": 52,
     "type": "ONE_WAY",
     "question": "次のうち、SpaceXAIが提供している生成AIはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "Grok",
       "ChatGPT",
       "Gemini",
@@ -627,7 +627,7 @@
     "id": 53,
     "type": "ONE_WAY",
     "question": "次のうち、Googleが提供している生成AIはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "Gemini",
       "Grok",
       "ChatGPT",
@@ -638,8 +638,32 @@
   {
     "id": 54,
     "type": "ONE_WAY",
+    "question": "次のうち、OpenAIが提供している生成AIは\\w\n『ChatGPT』ですが、\\w\nGoogleが提供している生成AIはどれ？",
+    "ONE_WAYs": [
+      "Gemini",
+      "Grok",
+      "ChatGPT",
+      "Copilot"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 55,
+    "type": "ONE_WAY",
+    "question": "次のうち、Googleが提供している生成AIは\\w\n『Gemini』ですが、\\w\nMicrosoftが提供している生成AIはどれ？",
+    "ONE_WAYs": [
+      "Copilot",
+      "Grok",
+      "ChatGPT",
+      "Gemini"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 56,
+    "type": "ONE_WAY",
     "question": "日本で一般的に、マリオの職業として\n知られるものは？",
-    "choices": [
+    "ONE_WAYs": [
       "配管工",
       "警察官",
       "消防士",
@@ -648,10 +672,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 55,
+    "id": 57,
     "type": "ONE_WAY",
     "question": "東京メトロ日比谷線\n秋葉原駅の発車メロディーは、\nAKB48のなんという楽曲のアレンジ？",
-    "choices": [
+    "ONE_WAYs": [
       "『恋するフォーチュンクッキー』",
       "『ヘビーローテーション』",
       "『会いたかった』",
@@ -660,10 +684,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 56,
+    "id": 58,
     "type": "ONE_WAY",
     "question": "ヴェストファーレン条約が締結されたのは何年？",
-    "choices": [
+    "ONE_WAYs": [
       "1648年",
       "1618年",
       "1688年",
@@ -672,10 +696,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 57,
+    "id": 59,
     "type": "ONE_WAY",
     "question": "ビザンツ帝国の首都として\n1453年の陥落まで機能した都市はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "コンスタンティノープル",
       "アレクサンドリア",
       "アンティオキア",
@@ -684,10 +708,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 58,
+    "id": 60,
     "type": "ONE_WAY",
     "question": "アヘン戦争後、清がイギリスとの間で締結した\n講和条約はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "南京条約",
       "北京条約",
       "天津条約",
@@ -696,10 +720,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 59,
+    "id": 61,
     "type": "ONE_WAY",
     "question": "明治時代に岩倉使節団が欧米へ派遣されたのは何年？",
-    "choices": [
+    "ONE_WAYs": [
       "1871年",
       "1868年",
       "1877年",
@@ -708,10 +732,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 60,
+    "id": 62,
     "type": "ONE_WAY",
     "question": "古代メソポタミア文明で、\n楔形文字を最初に使用したことで知られる\n民族はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "シュメール人",
       "アッカド人",
       "ヒッタイト人",
@@ -720,10 +744,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 61,
+    "id": 63,
     "type": "ONE_WAY",
     "question": "世界で最も深い湖として知られる湖はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "バイカル湖",
       "タンガニーカ湖",
       "カスピ海",
@@ -732,10 +756,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 62,
+    "id": 64,
     "type": "ONE_WAY",
     "question": "チリとアルゼンチンの国境付近に連なる山脈はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "アンデス山脈",
       "アルプス山脈",
       "ロッキー山脈",
@@ -744,10 +768,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 63,
+    "id": 65,
     "type": "ONE_WAY",
     "question": "世界で最も面積が大きい内陸国はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "カザフスタン",
       "モンゴル",
       "チャド",
@@ -756,10 +780,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 64,
+    "id": 66,
     "type": "ONE_WAY",
     "question": "経度15度の差は、時差に換算すると何時間に相当する？",
-    "choices": [
+    "ONE_WAYs": [
       "1時間",
       "30分",
       "2時間",
@@ -768,10 +792,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 65,
+    "id": 67,
     "type": "ONE_WAY",
     "question": "ドナウ川が最終的に注ぐ海はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "黒海",
       "地中海",
       "バルト海",
@@ -780,10 +804,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 66,
+    "id": 68,
     "type": "ONE_WAY",
     "question": "光の三原色に含まれないものはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "黄色",
       "赤色",
       "緑色",
@@ -792,10 +816,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 67,
+    "id": 69,
     "type": "ONE_WAY",
     "question": "電磁誘導の法則を発見した物理学者は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "マイケル・ファラデー",
       "ジェームズ・クラーク・マクスウェル",
       "アンドレ＝マリ・アンペール",
@@ -804,10 +828,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 68,
+    "id": 70,
     "type": "ONE_WAY",
     "question": "絶対零度は摂氏温度で約何度？",
-    "choices": [
+    "ONE_WAYs": [
       "−273.15℃",
       "−100℃",
       "−459.67℃",
@@ -816,10 +840,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 69,
+    "id": 71,
     "type": "ONE_WAY",
     "question": "放射性元素の半減期とは何を表す時間？",
-    "choices": [
+    "ONE_WAYs": [
       "放射性原子核の数が半分になる時間",
       "放射線量が必ず半分になる時間",
       "元素が別の元素に完全に変化する時間",
@@ -828,10 +852,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 70,
+    "id": 72,
     "type": "ONE_WAY",
     "question": "ヒトの体細胞に含まれる染色体の数は通常何本？",
-    "choices": [
+    "ONE_WAYs": [
       "46本",
       "23本",
       "44本",
@@ -840,10 +864,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 71,
+    "id": 73,
     "type": "ONE_WAY",
     "question": "細胞内でタンパク質の合成が行われる構造はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "リボソーム",
       "リソソーム",
       "中心体",
@@ -852,10 +876,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 72,
+    "id": 74,
     "type": "ONE_WAY",
     "question": "血液凝固に重要な役割を果たす血液成分はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "血小板",
       "赤血球",
       "好酸球",
@@ -864,10 +888,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 73,
+    "id": 75,
     "type": "ONE_WAY",
     "question": "酸化還元反応において、電子を失う反応を何という？",
-    "choices": [
+    "ONE_WAYs": [
       "酸化",
       "還元",
       "中和",
@@ -876,10 +900,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 74,
+    "id": 76,
     "type": "ONE_WAY",
     "question": "ベンゼンの分子式はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "C6H6",
       "C6H12",
       "C6H14",
@@ -888,10 +912,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 75,
+    "id": 77,
     "type": "ONE_WAY",
     "question": "行列式の値が0である正方行列について、\n必ず成り立つ性質はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "逆行列を持たない",
       "すべての成分が0である",
       "対角成分の和が0である",
@@ -900,10 +924,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 76,
+    "id": 78,
     "type": "ONE_WAY",
     "question": "自然対数の底 e の値に最も近いものはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "2.71828",
       "3.14159",
       "1.61803",
@@ -912,10 +936,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 77,
+    "id": 79,
     "type": "ONE_WAY",
     "question": "フェルマーの最終定理を証明しことで知られる\n数学者は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "アンドリュー・ワイルズ",
       "グリゴリー・ペレルマン",
       "アラン・チューリング",
@@ -924,10 +948,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 78,
+    "id": 80,
     "type": "ONE_WAY",
     "question": "『神曲』を著したイタリアの詩人は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "ダンテ・アリギエーリ",
       "ジョヴァンニ・ボッカッチョ",
       "フランチェスコ・ペトラルカ",
@@ -936,10 +960,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 79,
+    "id": 81,
     "type": "ONE_WAY",
     "question": "『純粋理性批判』を著した哲学者は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "イマヌエル・カント",
       "ゲオルク・ヘーゲル",
       "フリードリヒ・ニーチェ",
@@ -948,10 +972,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 80,
+    "id": 82,
     "type": "ONE_WAY",
     "question": "『ペスト』の作者は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "アルベール・カミュ",
       "ジャン＝ポール・サルトル",
       "フランツ・カフカ",
@@ -960,10 +984,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 81,
+    "id": 83,
     "type": "ONE_WAY",
     "question": "ルネサンス期に『ヴィーナスの誕生』を\n描いた画家は誰？",
-    "choices": [
+    "ONE_WAYs": [
       "サンドロ・ボッティチェリ",
       "ティツィアーノ",
       "カラヴァッジョ",
@@ -972,10 +996,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 82,
+    "id": 84,
     "type": "ONE_WAY",
     "question": "経済学において、他の条件が一定のとき\n価格の上昇に伴って需要量が減少する関係を\n何という？",
-    "choices": [
+    "ONE_WAYs": [
       "需要の法則",
       "供給の法則",
       "比較優位の原理",
@@ -984,10 +1008,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 83,
+    "id": 85,
     "type": "ONE_WAY",
     "question": "ゲーム理論において、相手の戦略を前提として\n自分だけが戦略を変更しても利得を改善できない状態を\n何という？",
-    "choices": [
+    "ONE_WAYs": [
       "ナッシュ均衡",
       "パレート最適",
       "囚人のジレンマ",
@@ -996,10 +1020,10 @@
     "difficulty": "HARD"
   },
   {
-    "id": 84,
+    "id": 86,
     "type": "ONE_WAY",
     "question": "次のうち、お坊さんが読むのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "きょう",
       "あした",
       "きのう",
@@ -1008,10 +1032,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 85,
+    "id": 87,
     "type": "ONE_WAY",
     "question": "次のうち、お花屋さんで買えるのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "きく",
       "みる",
       "いう",
@@ -1020,10 +1044,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 86,
+    "id": 88,
     "type": "ONE_WAY",
     "question": "次のうち、空から降るのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "アメ",
       "チョコ",
       "ガム",
@@ -1032,10 +1056,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 87,
+    "id": 89,
     "type": "ONE_WAY",
     "question": "次のうち、選挙に立候補した人が欲しいのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ヒョウ",
       "チーター",
       "トラ",
@@ -1044,10 +1068,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 88,
+    "id": 90,
     "type": "ONE_WAY",
     "question": "次のうち、ゲームでズルをしている人はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "チーター",
       "トラ",
       "ライオン",
@@ -1056,10 +1080,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 89,
+    "id": 91,
     "type": "ONE_WAY",
     "question": "次のうち、将棋の駒にあるのは？",
-    "choices": [
+    "ONE_WAYs": [
       "金",
       "鉄",
       "銅",
@@ -1068,10 +1092,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 90,
+    "id": 92,
     "type": "ONE_WAY",
     "question": "次のうち、人の体にあるのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ヒフ",
       "ハヒ",
       "フヘ",
@@ -1080,10 +1104,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 91,
+    "id": 93,
     "type": "ONE_WAY",
     "question": "次のうち、まだ完成していないのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "みかん",
       "りんご",
       "ぶどう",
@@ -1092,10 +1116,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 92,
+    "id": 94,
     "type": "ONE_WAY",
     "question": "次のうち、ケガをしたら出るのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ち",
       "つ",
       "た",
@@ -1104,10 +1128,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 93,
+    "id": 95,
     "type": "ONE_WAY",
     "question": "次のうち、タイプミスしてしまったのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ごじ",
       "にじ",
       "さんじ",
@@ -1116,10 +1140,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 94,
+    "id": 96,
     "type": "ONE_WAY",
     "question": "次のうち、調味料はどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "さとう",
       "やまだ",
       "すずき",
@@ -1128,10 +1152,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 95,
+    "id": 97,
     "type": "ONE_WAY",
     "question": "次のうち、雨上がりに空に架かるのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "にじ",
       "さんじ",
       "よじ",
@@ -1140,10 +1164,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 96,
+    "id": 98,
     "type": "ONE_WAY",
     "question": "次のうち、花を植えるものはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "ハチ",
       "アリ",
       "クモ",
@@ -1152,10 +1176,10 @@
     "difficulty": "EASY"
   },
   {
-    "id": 97,
+    "id": 99,
     "type": "ONE_WAY",
     "question": "次のうち、お医者さんはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "シカ",
       "ウマ",
       "トラ",
@@ -1164,10 +1188,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 98,
+    "id": 100,
     "type": "ONE_WAY",
     "question": "次のうち、人の身体にあるのはどれ？",
-    "choices": [
+    "ONE_WAYs": [
       "もも",
       "りんご",
       "みかん",
@@ -1176,10 +1200,10 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 99,
+    "id": 101,
     "type": "ONE_WAY",
     "question": "次のうち、証券取引所で売買されるものは何？",
-    "choices": [
+    "ONE_WAYs": [
       "カブ",
       "ナス",
       "ネギ",
@@ -1188,37 +1212,13 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 100,
-    "type": "ONE_WAY",
-    "question": "電気ストーブが転倒した際に自動的に電源が切れる\n仕組みなど、機械やシステムに故障や異常が発生\nした際、自動的に安全な状態へ移行するように\n設計する考え方を何という？",
-    "choices": [
-      "フェイルセーフ",
-      "フールプルーフ",
-      "フォールトトレラント",
-      "フォールトアボイダンス"
-    ],
-    "difficulty": "HARD"
-  },
-  {
-    "id": 101,
-    "type": "ONE_WAY",
-    "question": "電子レンジの扉が開いていると加熱できない\n仕組みなど、そもそもミスや危険な操作が\nできないようにあらかじめ作っておく\n設計思想を何という？",
-    "choices": [
-      "フールプルーフ",
-      "フェイルセーフ",
-      "フォールトトレラント",
-      "フォールトアボイダンス"
-    ],
-    "difficulty": "HARD"
-  },
-  {
     "id": 102,
     "type": "ONE_WAY",
-    "question": "2台のサーバーを用意し、片方が故障しても\nもう片方が処理を引き継ぐことでサービスを継続\nできるなど、システムの一部に障害が発生しても\n機能を維持できる性質を何という？",
-    "choices": [
-      "フォールトトレラント",
+    "question": "電気ストーブが転倒した際に自動的に電源が切れる\n仕組みなど、機械やシステムに故障や異常が発生\nした際、自動的に安全な状態へ移行するように\n設計する考え方を何という？",
+    "ONE_WAYs": [
       "フェイルセーフ",
       "フールプルーフ",
+      "フォールトトレラント",
       "フォールトアボイダンス"
     ],
     "difficulty": "HARD"
@@ -1226,13 +1226,61 @@
   {
     "id": 103,
     "type": "ONE_WAY",
+    "question": "電子レンジの扉が開いていると加熱できない\n仕組みなど、そもそもミスや危険な操作が\nできないようにあらかじめ作っておく\n設計思想を何という？",
+    "ONE_WAYs": [
+      "フールプルーフ",
+      "フェイルセーフ",
+      "フォールトトレラント",
+      "フォールトアボイダンス"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 104,
+    "type": "ONE_WAY",
+    "question": "2台のサーバーを用意し、片方が故障しても\nもう片方が処理を引き継ぐことでサービスを継続\nできるなど、システムの一部に障害が発生しても\n機能を維持できる性質を何という？",
+    "ONE_WAYs": [
+      "フォールトトレラント",
+      "フェイルセーフ",
+      "フールプルーフ",
+      "フォールトアボイダンス"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 105,
+    "type": "ONE_WAY",
     "question": "コンピューターシステムにおいて、信頼性の高い\nハードウェアを使用したり、ソフトウェアの欠陥を\n減らしたりすることで、障害そのものの発生を防ぐ\n設計思想を何という？",
-    "choices": [
+    "ONE_WAYs": [
       "フォールトアボイダンス",
       "フォールトトレラント",
       "フールプルーフ",
       "フェイルセーフ"
     ],
     "difficulty": "HARD"
+  },
+  {
+    "id": 106,
+    "type": "ONE_WAY",
+    "question": "東京メトロの路線のうち、\n停車駅が最も多いのは？",
+    "ONE_WAYs": [
+      "丸ノ内線",
+      "半蔵門線",
+      "東西線",
+      "銀座線"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 107,
+    "type": "ONE_WAY",
+    "question": "東京メトロの路線のうち、\n停車駅が最も少ないのは？",
+    "ONE_WAYs": [
+      "半蔵門線",
+      "丸ノ内線",
+      "銀座線",
+      "東西線"
+    ],
+    "difficulty": "NORMAL"
   }
 ]
