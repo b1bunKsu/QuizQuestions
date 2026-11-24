@@ -1200,5 +1200,77 @@
       "奇跡的に見つけた妻"
     ],
     "difficulty": "HARD"
+  },
+  {
+    "id": 67,
+    "type": "LINE_MATCHING",
+    "question": "次の革へんの漢字とその読みの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "靴",
+      "鞄",
+      "鞘",
+      "鞍",
+      "鞭"
+    ],
+    "rightChoices": [
+      "くつ",
+      "かばん",
+      "さや",
+      "くら",
+      "むち"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 68,
+    "type": "LINE_MATCHING",
+    "question": "次の木へんの漢字とその読みの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "椿",
+      "榎",
+      "楸",
+      "柊"
+    ],
+    "rightChoices": [
+      "つばき",
+      "えのき",
+      "ひさぎ",
+      "ひいらぎ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 69,
+    "type": "LINE_MATCHING",
+    "question": "次の魚へんの漢字とその読みの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "鰆",
+      "鰍",
+      "鮗"
+    ],
+    "rightChoices": [
+      "さわら",
+      "かじか",
+      "このしろ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 70,
+    "type": "LINE_MATCHING",
+    "question": "アニメ『ぼっち・ざ・ろっく！』の登場人物と\n担当した声優の正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "後藤ひとり",
+      "伊地知虹夏",
+      "喜多郁代",
+      "山田リョウ"
+    ],
+    "rightChoices": [
+      "青山吉能",
+      "鈴代紗弓",
+      "長谷川育美",
+      "水野朔"
+    ],
+    "difficulty": "HARD"
   }
 ]
