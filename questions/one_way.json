@@ -638,30 +638,6 @@
   {
     "id": 54,
     "type": "ONE_WAY",
-    "question": "次のうち、OpenAIが提供している生成AIは\\w\n『ChatGPT』ですが、\\w\nGoogleが提供している生成AIはどれ？",
-    "ONE_WAYs": [
-      "Gemini",
-      "Grok",
-      "ChatGPT",
-      "Copilot"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 55,
-    "type": "ONE_WAY",
-    "question": "次のうち、Googleが提供している生成AIは\\w\n『Gemini』ですが、\\w\nMicrosoftが提供している生成AIはどれ？",
-    "ONE_WAYs": [
-      "Copilot",
-      "Grok",
-      "ChatGPT",
-      "Gemini"
-    ],
-    "difficulty": "NORMAL"
-  },
-  {
-    "id": 56,
-    "type": "ONE_WAY",
     "question": "日本で一般的に、マリオの職業として\n知られるものは？",
     "ONE_WAYs": [
       "配管工",
@@ -672,7 +648,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 57,
+    "id": 55,
     "type": "ONE_WAY",
     "question": "東京メトロ日比谷線\n秋葉原駅の発車メロディーは、\nAKB48のなんという楽曲のアレンジ？",
     "ONE_WAYs": [
@@ -684,7 +660,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 58,
+    "id": 56,
     "type": "ONE_WAY",
     "question": "ヴェストファーレン条約が締結されたのは何年？",
     "ONE_WAYs": [
@@ -696,7 +672,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 59,
+    "id": 57,
     "type": "ONE_WAY",
     "question": "ビザンツ帝国の首都として\n1453年の陥落まで機能した都市はどれ？",
     "ONE_WAYs": [
@@ -708,7 +684,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 60,
+    "id": 58,
     "type": "ONE_WAY",
     "question": "アヘン戦争後、清がイギリスとの間で締結した\n講和条約はどれ？",
     "ONE_WAYs": [
@@ -720,7 +696,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 61,
+    "id": 59,
     "type": "ONE_WAY",
     "question": "明治時代に岩倉使節団が欧米へ派遣されたのは何年？",
     "ONE_WAYs": [
@@ -732,7 +708,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 62,
+    "id": 60,
     "type": "ONE_WAY",
     "question": "古代メソポタミア文明で、\n楔形文字を最初に使用したことで知られる\n民族はどれ？",
     "ONE_WAYs": [
@@ -744,7 +720,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 63,
+    "id": 61,
     "type": "ONE_WAY",
     "question": "世界で最も深い湖として知られる湖はどれ？",
     "ONE_WAYs": [
@@ -756,7 +732,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 64,
+    "id": 62,
     "type": "ONE_WAY",
     "question": "チリとアルゼンチンの国境付近に連なる山脈はどれ？",
     "ONE_WAYs": [
@@ -768,7 +744,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 65,
+    "id": 63,
     "type": "ONE_WAY",
     "question": "世界で最も面積が大きい内陸国はどれ？",
     "ONE_WAYs": [
@@ -780,7 +756,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 66,
+    "id": 64,
     "type": "ONE_WAY",
     "question": "経度15度の差は、時差に換算すると何時間に相当する？",
     "ONE_WAYs": [
@@ -792,7 +768,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 67,
+    "id": 65,
     "type": "ONE_WAY",
     "question": "ドナウ川が最終的に注ぐ海はどれ？",
     "ONE_WAYs": [
@@ -804,7 +780,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 68,
+    "id": 66,
     "type": "ONE_WAY",
     "question": "光の三原色に含まれないものはどれ？",
     "ONE_WAYs": [
@@ -816,7 +792,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 69,
+    "id": 67,
     "type": "ONE_WAY",
     "question": "電磁誘導の法則を発見した物理学者は誰？",
     "ONE_WAYs": [
@@ -828,7 +804,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 70,
+    "id": 68,
     "type": "ONE_WAY",
     "question": "絶対零度は摂氏温度で約何度？",
     "ONE_WAYs": [
@@ -840,7 +816,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 71,
+    "id": 69,
     "type": "ONE_WAY",
     "question": "放射性元素の半減期とは何を表す時間？",
     "ONE_WAYs": [
@@ -852,7 +828,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 72,
+    "id": 70,
     "type": "ONE_WAY",
     "question": "ヒトの体細胞に含まれる染色体の数は通常何本？",
     "ONE_WAYs": [
@@ -864,7 +840,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 73,
+    "id": 71,
     "type": "ONE_WAY",
     "question": "細胞内でタンパク質の合成が行われる構造はどれ？",
     "ONE_WAYs": [
@@ -876,7 +852,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 74,
+    "id": 72,
     "type": "ONE_WAY",
     "question": "血液凝固に重要な役割を果たす血液成分はどれ？",
     "ONE_WAYs": [
@@ -888,7 +864,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 75,
+    "id": 73,
     "type": "ONE_WAY",
     "question": "酸化還元反応において、電子を失う反応を何という？",
     "ONE_WAYs": [
@@ -900,7 +876,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 76,
+    "id": 74,
     "type": "ONE_WAY",
     "question": "ベンゼンの分子式はどれ？",
     "ONE_WAYs": [
@@ -912,7 +888,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 77,
+    "id": 75,
     "type": "ONE_WAY",
     "question": "行列式の値が0である正方行列について、\n必ず成り立つ性質はどれ？",
     "ONE_WAYs": [
@@ -924,7 +900,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 78,
+    "id": 76,
     "type": "ONE_WAY",
     "question": "自然対数の底 e の値に最も近いものはどれ？",
     "ONE_WAYs": [
@@ -936,7 +912,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 79,
+    "id": 77,
     "type": "ONE_WAY",
     "question": "フェルマーの最終定理を証明しことで知られる\n数学者は誰？",
     "ONE_WAYs": [
@@ -948,7 +924,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 80,
+    "id": 78,
     "type": "ONE_WAY",
     "question": "『神曲』を著したイタリアの詩人は誰？",
     "ONE_WAYs": [
@@ -960,7 +936,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 81,
+    "id": 79,
     "type": "ONE_WAY",
     "question": "『純粋理性批判』を著した哲学者は誰？",
     "ONE_WAYs": [
@@ -972,7 +948,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 82,
+    "id": 80,
     "type": "ONE_WAY",
     "question": "『ペスト』の作者は誰？",
     "ONE_WAYs": [
@@ -984,7 +960,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 83,
+    "id": 81,
     "type": "ONE_WAY",
     "question": "ルネサンス期に『ヴィーナスの誕生』を\n描いた画家は誰？",
     "ONE_WAYs": [
@@ -996,7 +972,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 84,
+    "id": 82,
     "type": "ONE_WAY",
     "question": "経済学において、他の条件が一定のとき\n価格の上昇に伴って需要量が減少する関係を\n何という？",
     "ONE_WAYs": [
@@ -1008,7 +984,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 85,
+    "id": 83,
     "type": "ONE_WAY",
     "question": "ゲーム理論において、相手の戦略を前提として\n自分だけが戦略を変更しても利得を改善できない状態を\n何という？",
     "ONE_WAYs": [
@@ -1020,7 +996,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 86,
+    "id": 84,
     "type": "ONE_WAY",
     "question": "次のうち、お坊さんが読むのはどれ？",
     "ONE_WAYs": [
@@ -1032,7 +1008,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 87,
+    "id": 85,
     "type": "ONE_WAY",
     "question": "次のうち、お花屋さんで買えるのはどれ？",
     "ONE_WAYs": [
@@ -1044,7 +1020,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 88,
+    "id": 86,
     "type": "ONE_WAY",
     "question": "次のうち、空から降るのはどれ？",
     "ONE_WAYs": [
@@ -1056,7 +1032,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 89,
+    "id": 87,
     "type": "ONE_WAY",
     "question": "次のうち、選挙に立候補した人が欲しいのはどれ？",
     "ONE_WAYs": [
@@ -1068,7 +1044,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 90,
+    "id": 88,
     "type": "ONE_WAY",
     "question": "次のうち、ゲームでズルをしている人はどれ？",
     "ONE_WAYs": [
@@ -1080,7 +1056,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 91,
+    "id": 89,
     "type": "ONE_WAY",
     "question": "次のうち、将棋の駒にあるのは？",
     "ONE_WAYs": [
@@ -1092,7 +1068,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 92,
+    "id": 90,
     "type": "ONE_WAY",
     "question": "次のうち、人の体にあるのはどれ？",
     "ONE_WAYs": [
@@ -1104,7 +1080,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 93,
+    "id": 91,
     "type": "ONE_WAY",
     "question": "次のうち、まだ完成していないのはどれ？",
     "ONE_WAYs": [
@@ -1116,7 +1092,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 94,
+    "id": 92,
     "type": "ONE_WAY",
     "question": "次のうち、ケガをしたら出るのはどれ？",
     "ONE_WAYs": [
@@ -1128,7 +1104,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 95,
+    "id": 93,
     "type": "ONE_WAY",
     "question": "次のうち、タイプミスしてしまったのはどれ？",
     "ONE_WAYs": [
@@ -1140,7 +1116,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 96,
+    "id": 94,
     "type": "ONE_WAY",
     "question": "次のうち、調味料はどれ？",
     "ONE_WAYs": [
@@ -1152,7 +1128,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 97,
+    "id": 95,
     "type": "ONE_WAY",
     "question": "次のうち、雨上がりに空に架かるのはどれ？",
     "ONE_WAYs": [
@@ -1164,7 +1140,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 98,
+    "id": 96,
     "type": "ONE_WAY",
     "question": "次のうち、花を植えるものはどれ？",
     "ONE_WAYs": [
@@ -1176,7 +1152,7 @@
     "difficulty": "EASY"
   },
   {
-    "id": 99,
+    "id": 97,
     "type": "ONE_WAY",
     "question": "次のうち、お医者さんはどれ？",
     "ONE_WAYs": [
@@ -1188,7 +1164,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 100,
+    "id": 98,
     "type": "ONE_WAY",
     "question": "次のうち、人の身体にあるのはどれ？",
     "ONE_WAYs": [
@@ -1200,7 +1176,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 101,
+    "id": 99,
     "type": "ONE_WAY",
     "question": "次のうち、証券取引所で売買されるものは何？",
     "ONE_WAYs": [
@@ -1212,7 +1188,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 102,
+    "id": 100,
     "type": "ONE_WAY",
     "question": "電気ストーブが転倒した際に自動的に電源が切れる\n仕組みなど、機械やシステムに故障や異常が発生\nした際、自動的に安全な状態へ移行するように\n設計する考え方を何という？",
     "ONE_WAYs": [
@@ -1224,7 +1200,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 103,
+    "id": 101,
     "type": "ONE_WAY",
     "question": "電子レンジの扉が開いていると加熱できない\n仕組みなど、そもそもミスや危険な操作が\nできないようにあらかじめ作っておく\n設計思想を何という？",
     "ONE_WAYs": [
@@ -1236,7 +1212,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 104,
+    "id": 102,
     "type": "ONE_WAY",
     "question": "2台のサーバーを用意し、片方が故障しても\nもう片方が処理を引き継ぐことでサービスを継続\nできるなど、システムの一部に障害が発生しても\n機能を維持できる性質を何という？",
     "ONE_WAYs": [
@@ -1248,7 +1224,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 105,
+    "id": 103,
     "type": "ONE_WAY",
     "question": "コンピューターシステムにおいて、信頼性の高い\nハードウェアを使用したり、ソフトウェアの欠陥を\n減らしたりすることで、障害そのものの発生を防ぐ\n設計思想を何という？",
     "ONE_WAYs": [
@@ -1260,7 +1236,7 @@
     "difficulty": "HARD"
   },
   {
-    "id": 106,
+    "id": 104,
     "type": "ONE_WAY",
     "question": "東京メトロの路線のうち、\n停車駅が最も多いのは？",
     "ONE_WAYs": [
@@ -1272,7 +1248,7 @@
     "difficulty": "NORMAL"
   },
   {
-    "id": 107,
+    "id": 105,
     "type": "ONE_WAY",
     "question": "東京メトロの路線のうち、\n停車駅が最も少ないのは？",
     "ONE_WAYs": [
