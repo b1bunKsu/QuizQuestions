@@ -467,5 +467,12 @@
     "question": "外国語の学習・教授・評価を行う際の習熟度を示す\n国際的な共通指標",
     "answer": "CEFR",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 68,
+    "type": "CUBE",
+    "question": "寒い時に身体を温めようとブルブル震える現象",
+    "answer": "シバリング",
+    "difficulty": "HARD"
   }
 ]
