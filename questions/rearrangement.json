@@ -2,21 +2,21 @@
   {
     "id": 1,
     "type": "REARRANGEMENT",
-    "question": "文字を正しく並び替えて、\nNEXONが運営するゲームの名称にしなさい",
+    "question": "巨大学園都市「キヴォトス」を舞台に、\nプレイヤーが先生となって、さまざまな学園に\n所属する生徒たちを導くスマートフォン向け\nゲームは何？",
     "answer": "ブルーアーカイブ",
     "difficulty": "EASY"
   },
   {
     "id": 2,
     "type": "REARRANGEMENT",
-    "question": "文字を正しく並び替えて、\nゲーム『崩壊: スターレイル』の登場人物の\n名前にしなさい",
+    "question": "ゲーム『崩壊：スターレイル』に登場する、\n生命科学の研究を専門とする\n天才クラブの女性科学者は誰？",
     "answer": "ルアン・メェイ",
     "difficulty": "EASY"
   },
   {
     "id": 3,
     "type": "REARRANGEMENT",
-    "question": "文字を正しく並び替えて、\nYostarが運営するゲームの名称にしなさい",
+    "question": "プレイヤーが「魔王」となり、「巡遊者」と呼ばれる\n少女たちと共に冒険する、Yostarの\nファンタジーRPGは何？",
     "answer": "ステラソラ",
     "difficulty": "EASY"
   },
@@ -30,14 +30,14 @@
   {
     "id": 5,
     "type": "REARRANGEMENT",
-    "question": "文字を正しく並び替えて\n音楽ストリーミングサービスの名前にしなさい",
+    "question": "緑色の円に3本の曲線が描かれた\nロゴで知られる、音楽やポッドキャストなどを\n楽しめるストリーミングサービスは何？",
     "answer": "Spotify",
     "difficulty": "EASY"
   },
   {
     "id": 6,
     "type": "REARRANGEMENT",
-    "question": "文字を正しく並び替えてHoyoverseが運営する\nゲームの名称にしなさい",
+    "question": "2024年7月にHoYoverseから配信が開始された、\n「ホロウ」と呼ばれる異常空間が存在する世界の都市\n「新エリー都」を舞台としたアクションRPGは何？",
     "answer": "ゼンレスゾーンゼロ",
     "difficulty": "EASY"
   },
@@ -51,7 +51,7 @@
   {
     "id": 8,
     "type": "REARRANGEMENT",
-    "question": "文字を正しく並び替えてゲーム\n『ゼンレスゾーンゼロ』の登場人物の名前にしなさい",
+    "question": "ゲーム『ゼンレスゾーンゼロ』に登場する、\n何事にも冷静沈着で、ハンバーガーや\n映画鑑賞を好む、邪兎屋所属の\n白髪の少女は誰？",
     "answer": "アンビー・デマラ",
     "difficulty": "EASY"
   },
@@ -733,5 +733,33 @@
     "question": "人口の上位2％に入る知能指数を\n持つことなどを入会資格とすることで\n知られる、国際的な高IQ団体は何？",
     "answer": "MENSA",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 106,
+    "type": "REARRANGEMENT",
+    "question": "奈良時代に制定された、\n新たに開墾した土地の永久私有を\n認める法律を何という？",
+    "answer": "墾田永年私財法",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 107,
+    "type": "REARRANGEMENT",
+    "question": "鎌倉幕府が制定した、北条泰時による\n武士社会のための法律を何という？",
+    "answer": "御成敗式目",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 108,
+    "type": "REARRANGEMENT",
+    "question": "愛媛県大洲市にあるスーパーマーケットの\n「ショッパーズ」という看板の文字が一部脱落した\nことで偶然生まれた、発音困難な文字列として\n知られるネットミームは何？",
+    "answer": "ンョ゛ハー゛",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 109,
+    "type": "REARRANGEMENT",
+    "question": "『アークナイツ：エンドフィールド』において、\n「エンドフィ」や「ドフィー」などの略称候補が\n存在する中、発音の難しさが特徴的な\n奇妙な略称は何？",
+    "answer": "ンィー゛",
+    "difficulty": "HARD"
   }
 ]
