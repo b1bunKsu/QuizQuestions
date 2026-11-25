@@ -1014,7 +1014,7 @@
   {
     "id": 45,
     "type": "GROUP",
-    "question": "次の元素を分類しなさい",
+    "question": "次の元素をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "ハロゲン",
@@ -1036,7 +1036,7 @@
   {
     "id": 46,
     "type": "GROUP",
-    "question": "次の数を分類しなさい",
+    "question": "次の数をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "素数",
@@ -1058,7 +1058,7 @@
   {
     "id": 47,
     "type": "GROUP",
-    "question": "次の化合物を結合の種類で分類しなさい",
+    "question": "次の化合物を結合の種類でグループ分けしなさい",
     "groups": {
       "A": {
         "name": "イオン結合",
@@ -1080,7 +1080,7 @@
   {
     "id": 48,
     "type": "GROUP",
-    "question": "次の物理量を分類しなさい",
+    "question": "次の物理量をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "ベクトル",
@@ -1102,7 +1102,7 @@
   {
     "id": 49,
     "type": "GROUP",
-    "question": "次の天体を分類しなさい",
+    "question": "次の天体をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "地球型惑星",
@@ -1124,7 +1124,7 @@
   {
     "id": 50,
     "type": "GROUP",
-    "question": "次の国を分類しなさい",
+    "question": "次の国をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "内陸国",
@@ -1146,7 +1146,7 @@
   {
     "id": 51,
     "type": "GROUP",
-    "question": "次の作曲家を音楽史上の時代で分類しなさい",
+    "question": "次の作曲家を音楽史上の時代でグループ分けしなさい",
     "groups": {
       "A": {
         "name": "バロック",
@@ -1168,7 +1168,7 @@
   {
     "id": 52,
     "type": "GROUP",
-    "question": "次の絵画を作者ごとに分類しなさい",
+    "question": "次の絵画を作者ごとにグループ分けしなさい",
     "groups": {
       "A": {
         "name": "ゴッホ",
@@ -1190,7 +1190,7 @@
   {
     "id": 53,
     "type": "GROUP",
-    "question": "次の歴史上の人物を時代で分類しなさい",
+    "question": "次の歴史上の人物を時代でグループ分けしなさい",
     "groups": {
       "A": {
         "name": "戦国時代",
@@ -1212,7 +1212,7 @@
   {
     "id": 54,
     "type": "GROUP",
-    "question": "次の出来事を起きた世紀で分類しなさい",
+    "question": "次の出来事を起きた世紀でグループ分けしなさい",
     "groups": {
       "A": {
         "name": "18世紀",
@@ -1234,7 +1234,7 @@
   {
     "id": 55,
     "type": "GROUP",
-    "question": "次の単位を分類しなさい",
+    "question": "次の単位をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "基本単位",
@@ -1256,7 +1256,7 @@
   {
     "id": 56,
     "type": "GROUP",
-    "question": "次の情報技術用語を分類しなさい",
+    "question": "次の情報技術用語をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "暗号方式",
@@ -1278,7 +1278,7 @@
   {
     "id": 57,
     "type": "GROUP",
-    "question": "次のデータ構造を分類しなさい",
+    "question": "次のデータ構造をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "線形構造",
@@ -1300,7 +1300,7 @@
   {
     "id": 58,
     "type": "GROUP",
-    "question": "次のプログラミング言語を分類しなさい",
+    "question": "次のプログラミング言語をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "コンパイル型",
@@ -1322,7 +1322,7 @@
   {
     "id": 59,
     "type": "GROUP",
-    "question": "次の食材を分類しなさい",
+    "question": "次の食材をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "豆類",
@@ -1344,7 +1344,7 @@
   {
     "id": 60,
     "type": "GROUP",
-    "question": "次の料理を発祥国ごとに分類しなさい",
+    "question": "次の料理を発祥国ごとにグループ分けしなさい",
     "groups": {
       "A": {
         "name": "イタリア",
@@ -1366,7 +1366,7 @@
   {
     "id": 61,
     "type": "GROUP",
-    "question": "次の鉱物を分類しなさい",
+    "question": "次の鉱物をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "ケイ酸塩鉱物",
@@ -1388,7 +1388,7 @@
   {
     "id": 62,
     "type": "GROUP",
-    "question": "次の血液型を分類しなさい",
+    "question": "次の血液型をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "A型抗原あり",
@@ -1410,7 +1410,7 @@
   {
     "id": 63,
     "type": "GROUP",
-    "question": "次の元素を分類しなさい",
+    "question": "次の元素をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "アルカリ金属",
@@ -1432,7 +1432,7 @@
   {
     "id": 64,
     "type": "GROUP",
-    "question": "次の惑星を分類しなさい",
+    "question": "次の惑星をグループ分けしなさい",
     "groups": {
       "A": {
         "name": "内惑星",
@@ -1454,7 +1454,7 @@
   {
     "id": 65,
     "type": "GROUP",
-    "question": "次の文学作品を作者ごとに分類しなさい",
+    "question": "次の文学作品を作者ごとにグループ分けしなさい",
     "groups": {
       "A": {
         "name": "シェイクスピア",
@@ -1476,7 +1476,7 @@
   {
     "id": 66,
     "type": "GROUP",
-    "question": "次の惑星探査機を目的地ごとに分類しなさい",
+    "question": "次の惑星探査機を目的地ごとにグループ分けしなさい",
     "groups": {
       "A": {
         "name": "火星探査",
@@ -1490,6 +1490,1021 @@
         "choices": [
           "あかつき",
           "ベネラ"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 67,
+    "type": "GROUP",
+    "question": "次の都道府県を地方別にグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "関東地方",
+        "choices": [
+          "栃木県",
+          "群馬県"
+        ]
+      },
+      "B": {
+        "name": "近畿地方",
+        "choices": [
+          "奈良県",
+          "滋賀県"
+        ]
+      },
+      "C": {
+        "name": "四国地方",
+        "choices": [
+          "香川県"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 68,
+    "type": "GROUP",
+    "question": "次の楽器を種類によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "弦楽器",
+        "choices": [
+          "バイオリン",
+          "チェロ"
+        ]
+      },
+      "B": {
+        "name": "管楽器",
+        "choices": [
+          "フルート",
+          "トランペット"
+        ]
+      },
+      "C": {
+        "name": "打楽器",
+        "choices": [
+          "タンバリン"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 69,
+    "type": "GROUP",
+    "question": "次の英単語を意味によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "曜日",
+        "choices": [
+          "Monday",
+          "Friday"
+        ]
+      },
+      "B": {
+        "name": "月",
+        "choices": [
+          "April",
+          "August"
+        ]
+      },
+      "C": {
+        "name": "季節",
+        "choices": [
+          "Winter"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 70,
+    "type": "GROUP",
+    "question": "次の漢字を画数によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "3画",
+        "choices": [
+          "山",
+          "川"
+        ]
+      },
+      "B": {
+        "name": "4画",
+        "choices": [
+          "木",
+          "水"
+        ]
+      },
+      "C": {
+        "name": "5画",
+        "choices": [
+          "田"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 71,
+    "type": "GROUP",
+    "question": "次の角を大きさによってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "鋭角",
+        "choices": [
+          "30度",
+          "75度"
+        ]
+      },
+      "B": {
+        "name": "直角",
+        "choices": [
+          "90度"
+        ]
+      },
+      "C": {
+        "name": "鈍角",
+        "choices": [
+          "120度",
+          "150度"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 72,
+    "type": "GROUP",
+    "question": "次の昆虫を成長の仕方によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "完全変態",
+        "choices": [
+          "カブトムシ",
+          "モンシロチョウ",
+          "ハチ"
+        ]
+      },
+      "B": {
+        "name": "不完全変態",
+        "choices": [
+          "バッタ",
+          "セミ"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 73,
+    "type": "GROUP",
+    "question": "次の漢字を部首によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "さんずい",
+        "choices": [
+          "海",
+          "泳"
+        ]
+      },
+      "B": {
+        "name": "にんべん",
+        "choices": [
+          "休",
+          "体"
+        ]
+      },
+      "C": {
+        "name": "ごんべん",
+        "choices": [
+          "話"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 74,
+    "type": "GROUP",
+    "question": "次の歴史上の人物を主に活躍した時代でグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "奈良時代",
+        "choices": [
+          "聖武天皇",
+          "行基"
+        ]
+      },
+      "B": {
+        "name": "平安時代",
+        "choices": [
+          "紫式部",
+          "清少納言"
+        ]
+      },
+      "C": {
+        "name": "鎌倉時代",
+        "choices": [
+          "北条時宗"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 75,
+    "type": "GROUP",
+    "question": "次の植物を単子葉類と双子葉類にグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "単子葉類",
+        "choices": [
+          "イネ",
+          "ユリ"
+        ]
+      },
+      "B": {
+        "name": "双子葉類",
+        "choices": [
+          "アサガオ",
+          "ヒマワリ",
+          "エンドウ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 76,
+    "type": "GROUP",
+    "question": "次の英語の動詞を過去形の作り方によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "規則動詞",
+        "choices": [
+          "play",
+          "visit",
+          "walk"
+        ]
+      },
+      "B": {
+        "name": "不規則動詞",
+        "choices": [
+          "go",
+          "eat"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 77,
+    "type": "GROUP",
+    "question": "次の言葉を品詞によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "動詞",
+        "choices": [
+          "走る",
+          "考える"
+        ]
+      },
+      "B": {
+        "name": "形容詞",
+        "choices": [
+          "美しい",
+          "寒い"
+        ]
+      },
+      "C": {
+        "name": "形容動詞",
+        "choices": [
+          "静かだ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 78,
+    "type": "GROUP",
+    "question": "次の産業を産業分類によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "第一次産業",
+        "choices": [
+          "農業",
+          "漁業"
+        ]
+      },
+      "B": {
+        "name": "第二次産業",
+        "choices": [
+          "製造業",
+          "建設業"
+        ]
+      },
+      "C": {
+        "name": "第三次産業",
+        "choices": [
+          "小売業"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 79,
+    "type": "GROUP",
+    "question": "次の栄養素を主な働きによってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "主にエネルギー源",
+        "choices": [
+          "炭水化物",
+          "脂質"
+        ]
+      },
+      "B": {
+        "name": "主に体をつくる",
+        "choices": [
+          "タンパク質"
+        ]
+      },
+      "C": {
+        "name": "主に体の調子を整える",
+        "choices": [
+          "ビタミン"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 80,
+    "type": "GROUP",
+    "question": "次の音楽記号を意味によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "強弱記号",
+        "choices": [
+          "フォルテ",
+          "ピアノ"
+        ]
+      },
+      "B": {
+        "name": "速度標語",
+        "choices": [
+          "アレグロ",
+          "アンダンテ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 81,
+    "type": "GROUP",
+    "question": "次の化学式を陽イオンと陰イオンに\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "陽イオン",
+        "choices": [
+          "Na+",
+          "Ca2+",
+          "H+"
+        ]
+      },
+      "B": {
+        "name": "陰イオン",
+        "choices": [
+          "Cl-",
+          "OH-"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 82,
+    "type": "GROUP",
+    "question": "次の歴史上の出来事を起こった時代でグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "江戸時代",
+        "choices": [
+          "享保の改革",
+          "大政奉還"
+        ]
+      },
+      "B": {
+        "name": "明治時代",
+        "choices": [
+          "廃藩置県",
+          "地租改正"
+        ]
+      },
+      "C": {
+        "name": "大正時代",
+        "choices": [
+          "米騒動"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 83,
+    "type": "GROUP",
+    "question": "次の式を関数の種類によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "一次関数",
+        "choices": [
+          "y=2x+3",
+          "y=-3x+1"
+        ]
+      },
+      "B": {
+        "name": "反比例",
+        "choices": [
+          "y=6/x",
+          "y=-2/x"
+        ]
+      },
+      "C": {
+        "name": "二次関数",
+        "choices": [
+          "y=3x²"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 84,
+    "type": "GROUP",
+    "question": "次の文学作品を成立した時代によって\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "奈良時代",
+        "choices": [
+          "万葉集",
+          "古事記"
+        ]
+      },
+      "B": {
+        "name": "平安時代",
+        "choices": [
+          "源氏物語",
+          "枕草子"
+        ]
+      },
+      "C": {
+        "name": "鎌倉時代",
+        "choices": [
+          "徒然草"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 85,
+    "type": "GROUP",
+    "question": "次の権限を三権分立における担当機関で\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "国会",
+        "choices": [
+          "法律の制定",
+          "予算の議決"
+        ]
+      },
+      "B": {
+        "name": "内閣",
+        "choices": [
+          "予算の作成",
+          "条約の締結"
+        ]
+      },
+      "C": {
+        "name": "裁判所",
+        "choices": [
+          "違憲審査"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 86,
+    "type": "GROUP",
+    "question": "次の岩石をマグマが冷え固まった場所によって\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "火山岩",
+        "choices": [
+          "流紋岩",
+          "安山岩",
+          "玄武岩"
+        ]
+      },
+      "B": {
+        "name": "深成岩",
+        "choices": [
+          "閃緑岩",
+          "斑れい岩"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 87,
+    "type": "GROUP",
+    "question": "次の英単語を意味によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "動物",
+        "choices": [
+          "Rabbit",
+          "Horse"
+        ]
+      },
+      "B": {
+        "name": "果物",
+        "choices": [
+          "Peach",
+          "Grape"
+        ]
+      },
+      "C": {
+        "name": "野菜",
+        "choices": [
+          "Carrot"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 88,
+    "type": "GROUP",
+    "question": "次の数を何の倍数であるかによってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "3の倍数のみ",
+        "choices": [
+          "9",
+          "21"
+        ]
+      },
+      "B": {
+        "name": "5の倍数のみ",
+        "choices": [
+          "10",
+          "25"
+        ]
+      },
+      "C": {
+        "name": "3と5の公倍数",
+        "choices": [
+          "30"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 89,
+    "type": "GROUP",
+    "question": "次の物質を電気の通しやすさによって\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "導体",
+        "choices": [
+          "銅",
+          "鉄",
+          "銀"
+        ]
+      },
+      "B": {
+        "name": "絶縁体",
+        "choices": [
+          "ガラス",
+          "ゴム"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 90,
+    "type": "GROUP",
+    "question": "次のスポーツを競技中に使用する\n道具によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "ラケット",
+        "choices": [
+          "卓球",
+          "テニス"
+        ]
+      },
+      "B": {
+        "name": "バット",
+        "choices": [
+          "野球",
+          "ソフトボール"
+        ]
+      },
+      "C": {
+        "name": "竹刀",
+        "choices": [
+          "剣道"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 91,
+    "type": "GROUP",
+    "question": "次の国を主に使われている言語によって\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "英語",
+        "choices": [
+          "アメリカ",
+          "オーストラリア"
+        ]
+      },
+      "B": {
+        "name": "スペイン語",
+        "choices": [
+          "メキシコ",
+          "アルゼンチン"
+        ]
+      },
+      "C": {
+        "name": "ポルトガル語",
+        "choices": [
+          "ブラジル"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 92,
+    "type": "GROUP",
+    "question": "次の漢字を部首によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "くさかんむり",
+        "choices": [
+          "花",
+          "草"
+        ]
+      },
+      "B": {
+        "name": "たけかんむり",
+        "choices": [
+          "筆",
+          "箱"
+        ]
+      },
+      "C": {
+        "name": "あめかんむり",
+        "choices": [
+          "雪"
+        ]
+      }
+    },
+    "difficulty": "EASY"
+  },
+  {
+    "id": 93,
+    "type": "GROUP",
+    "question": "次の歴史上の人物を関係の深い\n幕府によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "鎌倉幕府",
+        "choices": [
+          "源頼朝",
+          "北条泰時"
+        ]
+      },
+      "B": {
+        "name": "室町幕府",
+        "choices": [
+          "足利尊氏",
+          "足利義満"
+        ]
+      },
+      "C": {
+        "name": "江戸幕府",
+        "choices": [
+          "徳川吉宗"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 94,
+    "type": "GROUP",
+    "question": "次の英単語を品詞によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "名詞",
+        "choices": [
+          "School",
+          "Mountain"
+        ]
+      },
+      "B": {
+        "name": "形容詞",
+        "choices": [
+          "Beautiful",
+          "Happy"
+        ]
+      },
+      "C": {
+        "name": "副詞",
+        "choices": [
+          "Usually"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 95,
+    "type": "GROUP",
+    "question": "次の気体を標準的な集め方によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "水上置換法",
+        "choices": [
+          "酸素",
+          "水素"
+        ]
+      },
+      "B": {
+        "name": "上方置換法",
+        "choices": [
+          "アンモニア"
+        ]
+      },
+      "C": {
+        "name": "下方置換法",
+        "choices": [
+          "塩化水素"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 96,
+    "type": "GROUP",
+    "question": "次の言葉を自立語と付属語にグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "自立語",
+        "choices": [
+          "名詞",
+          "接続詞",
+          "副詞"
+        ]
+      },
+      "B": {
+        "name": "付属語",
+        "choices": [
+          "助詞",
+          "助動詞"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 97,
+    "type": "GROUP",
+    "question": "次の地形を主に形成する河川の働きによって\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "侵食作用",
+        "choices": [
+          "V字谷",
+          "峡谷"
+        ]
+      },
+      "B": {
+        "name": "堆積作用",
+        "choices": [
+          "扇状地",
+          "三角州",
+          "自然堤防"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 98,
+    "type": "GROUP",
+    "question": "次の音楽家を主に活躍した音楽史上の\n時代でグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "バロック派",
+        "choices": [
+          "バッハ",
+          "ヴィヴァルディ"
+        ]
+      },
+      "B": {
+        "name": "古典派",
+        "choices": [
+          "モーツァルト",
+          "ハイドン"
+        ]
+      },
+      "C": {
+        "name": "ロマン派",
+        "choices": [
+          "ショパン"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 99,
+    "type": "GROUP",
+    "question": "次の消化酵素を主に分解する\n栄養素によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "デンプン",
+        "choices": [
+          "アミラーゼ"
+        ]
+      },
+      "B": {
+        "name": "タンパク質",
+        "choices": [
+          "ペプシン",
+          "トリプシン"
+        ]
+      },
+      "C": {
+        "name": "脂肪",
+        "choices": [
+          "リパーゼ"
+        ]
+      }
+    },
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 100,
+    "type": "GROUP",
+    "question": "次の歴史上の出来事を関係する\n戦争によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "日清戦争",
+        "choices": [
+          "下関条約",
+          "三国干渉"
+        ]
+      },
+      "B": {
+        "name": "日露戦争",
+        "choices": [
+          "ポーツマス条約",
+          "日本海海戦"
+        ]
+      },
+      "C": {
+        "name": "第一次世界大戦",
+        "choices": [
+          "ベルサイユ条約"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 101,
+    "type": "GROUP",
+    "question": "次の式を展開したときの公式によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "和の平方",
+        "choices": [
+          "(x+2)²",
+          "(a+b)²"
+        ]
+      },
+      "B": {
+        "name": "差の平方",
+        "choices": [
+          "(x-3)²",
+          "(a-b)²"
+        ]
+      },
+      "C": {
+        "name": "和と差の積",
+        "choices": [
+          "(x+5)(x-5)"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 102,
+    "type": "GROUP",
+    "question": "次の文学作品を作者によってグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "夏目漱石",
+        "choices": [
+          "坊っちゃん",
+          "吾輩は猫である"
+        ]
+      },
+      "B": {
+        "name": "芥川龍之介",
+        "choices": [
+          "羅生門",
+          "蜘蛛の糸"
+        ]
+      },
+      "C": {
+        "name": "太宰治",
+        "choices": [
+          "走れメロス"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 103,
+    "type": "GROUP",
+    "question": "次の気候区分をケッペンの気候区分の大分類によって\nグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "熱帯",
+        "choices": [
+          "熱帯雨林気候",
+          "サバナ気候"
+        ]
+      },
+      "B": {
+        "name": "乾燥帯",
+        "choices": [
+          "砂漠気候",
+          "ステップ気候"
+        ]
+      },
+      "C": {
+        "name": "温帯",
+        "choices": [
+          "地中海性気候"
+        ]
+      }
+    },
+    "difficulty": "HARD"
+  },
+  {
+    "id": 104,
+    "type": "GROUP",
+    "question": "次の日本国憲法で保障される権利をグループ分けしなさい",
+    "groups": {
+      "A": {
+        "name": "自由権",
+        "choices": [
+          "信教の自由",
+          "表現の自由"
+        ]
+      },
+      "B": {
+        "name": "社会権",
+        "choices": [
+          "生存権",
+          "教育を受ける権利"
+        ]
+      },
+      "C": {
+        "name": "参政権",
+        "choices": [
+          "選挙権"
         ]
       }
     },
