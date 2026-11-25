@@ -761,5 +761,131 @@
     "question": "日本の国鳥は\\wトキである",
     "answer": "X",
     "difficulty": "HARD"
+  },
+  {
+    "id": 110,
+    "type": "OX",
+    "question": "日本で最も面積が大きい都道府県は\\w北海道である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 111,
+    "type": "OX",
+    "question": "日本で最も面積が大きい都道府県は\\w岩手県である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 112,
+    "type": "OX",
+    "question": "昆虫の脚の本数は\\w6本である",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 113,
+    "type": "OX",
+    "question": "昆虫の脚の本数は\\w8本である",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 114,
+    "type": "OX",
+    "question": "英語の「go」の過去形は\\wwentである",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 115,
+    "type": "OX",
+    "question": "英語の「go」の過去形は\\wgoneである",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 116,
+    "type": "OX",
+    "question": "漢字の「海」の部首は\\wさんずいである",
+    "answer": "O",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 117,
+    "type": "OX",
+    "question": "漢字の「海」の部首は\\wにすいである",
+    "answer": "X",
+    "difficulty": "EASY"
+  },
+  {
+    "id": 118,
+    "type": "OX",
+    "question": "正六角形の内角の和は\\w720度である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 119,
+    "type": "OX",
+    "question": "正六角形の内角の和は\\w540度である",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 120,
+    "type": "OX",
+    "question": "日本国憲法が施行された日は\\w1947年5月3日である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 121,
+    "type": "OX",
+    "question": "日本国憲法が施行された日は\\w1946年11月3日である",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 122,
+    "type": "OX",
+    "question": "地震の初期微動を引き起こす波は\\wP波である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 123,
+    "type": "OX",
+    "question": "地震の初期微動を引き起こす波は\\wS波である",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 124,
+    "type": "OX",
+    "question": "『枕草子』を書いた人物は\\w清少納言である",
+    "answer": "O",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 125,
+    "type": "OX",
+    "question": "『枕草子』を書いた人物は\\w紫式部である",
+    "answer": "X",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 126,
+    "type": "OX",
+    "question": "日本の国会において、\n予算を先に審議する権限を持つのは\n\\w衆議院である",
+    "answer": "O",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 127,
+    "type": "OX",
+    "question": "日本の国会において、\n予算を先に審議する権限を持つのは\n\\w参議院である",
+    "answer": "X",
+    "difficulty": "HARD"
   }
 ]
