@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "LINE_MATCHING",
-    "question": "次のクラシック音楽の作品と作曲家を正しく結びなさい",
+    "question": "次のクラシック音楽の作品と作曲家\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "交響曲第9番",
       "トルコ行進曲",
@@ -20,7 +20,7 @@
   {
     "id": 2,
     "type": "LINE_MATCHING",
-    "question": "次の日本の観光名所と所在地を正しく結びなさい",
+    "question": "次の日本の観光名所と所在地\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "姫路城",
       "厳島神社",
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "type": "LINE_MATCHING",
-    "question": "次の人体の器官と主な働きを正しく結びなさい",
+    "question": "次の人体の器官と主な働き\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "肝臓",
       "肺",
@@ -56,7 +56,7 @@
   {
     "id": 4,
     "type": "LINE_MATCHING",
-    "question": "次のスポーツと使用する道具を正しく結びなさい",
+    "question": "次のスポーツと使用する道具\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "テニス",
       "剣道",
@@ -74,7 +74,7 @@
   {
     "id": 5,
     "type": "LINE_MATCHING",
-    "question": "次の言語と主に使用される文字を正しく結びなさい",
+    "question": "次の言語と主に使用される文字\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "日本語",
       "ロシア語",
@@ -92,7 +92,7 @@
   {
     "id": 6,
     "type": "LINE_MATCHING",
-    "question": "次の天体と特徴を正しく結びなさい",
+    "question": "次の天体と特徴\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "地球",
       "火星",
@@ -110,7 +110,7 @@
   {
     "id": 7,
     "type": "LINE_MATCHING",
-    "question": "次の発明品と発明者を正しく結びなさい",
+    "question": "次の発明品と発明者\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "電話",
       "蓄音機",
@@ -128,7 +128,7 @@
   {
     "id": 8,
     "type": "LINE_MATCHING",
-    "question": "次の音楽用語と意味を正しく結びなさい",
+    "question": "次の音楽用語と意味\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "アカペラ",
       "カノン",
@@ -146,7 +146,7 @@
   {
     "id": 9,
     "type": "LINE_MATCHING",
-    "question": "次の国と通貨を正しく結びなさい",
+    "question": "次の国と通貨\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "アメリカ",
       "イギリス",
@@ -164,7 +164,7 @@
   {
     "id": 10,
     "type": "LINE_MATCHING",
-    "question": "次の動物と主な生息地を正しく結びなさい",
+    "question": "次の動物と主な生息地\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "ラクダ",
       "ホッキョクグマ",
@@ -182,7 +182,7 @@
   {
     "id": 11,
     "type": "LINE_MATCHING",
-    "question": "次の日本の文学作品と作者を正しく結びなさい",
+    "question": "次の日本の文学作品と作者\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "坊っちゃん",
       "走れメロス",
@@ -200,7 +200,7 @@
   {
     "id": 12,
     "type": "LINE_MATCHING",
-    "question": "次のゲーム作品と開発元を正しく結びなさい",
+    "question": "次のゲーム作品と開発元\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "スプラトゥーン",
       "原神",
@@ -218,7 +218,7 @@
   {
     "id": 13,
     "type": "LINE_MATCHING",
-    "question": "次の国と首都を正しく結びなさい",
+    "question": "次の国と首都\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "カナダ",
       "オーストラリア",
@@ -238,7 +238,7 @@
   {
     "id": 14,
     "type": "LINE_MATCHING",
-    "question": "次の動物と分類を正しく結びなさい",
+    "question": "次の動物と分類\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "イルカ",
       "ペンギン",
@@ -256,7 +256,7 @@
   {
     "id": 15,
     "type": "LINE_MATCHING",
-    "question": "次の化学式と物質名を正しく結びなさい",
+    "question": "次の化学式と物質名\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "H2O",
       "CO2",
@@ -294,7 +294,7 @@
   {
     "id": 17,
     "type": "LINE_MATCHING",
-    "question": "次の惑星と特徴を正しく結びなさい",
+    "question": "次の惑星と特徴\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "水星",
       "金星",
@@ -314,7 +314,7 @@
   {
     "id": 18,
     "type": "LINE_MATCHING",
-    "question": "次の数学用語とその説明を正しく結びなさい",
+    "question": "次の数学用語とその説明\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "素数",
       "平方数",
@@ -332,7 +332,7 @@
   {
     "id": 19,
     "type": "LINE_MATCHING",
-    "question": "次の『ブルーアーカイブ』のキャラクターと\n所属組織を正しく結びなさい",
+    "question": "次の『ブルーアーカイブ』のキャラクターと\n所属組織\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "アル",
       "ユウカ",
@@ -352,7 +352,7 @@
   {
     "id": 20,
     "type": "LINE_MATCHING",
-    "question": "次の哲学者と思想・功績を正しく結びなさい",
+    "question": "次の哲学者と思想・功績\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "ソクラテス",
       "プラトン",
@@ -574,7 +574,7 @@
   {
     "id": 32,
     "type": "LINE_MATCHING",
-    "question": "次の元素記号と元素名を正しく結びなさい",
+    "question": "次の元素記号と元素名\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "Li",
       "Ca",
@@ -594,7 +594,7 @@
   {
     "id": 33,
     "type": "LINE_MATCHING",
-    "question": "次の文学作品と作者を正しく結びなさい",
+    "question": "次の文学作品と作者\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "注文の多い料理店",
       "金閣寺",
@@ -612,7 +612,7 @@
   {
     "id": 34,
     "type": "LINE_MATCHING",
-    "question": "次の図形と辺の数を正しく結びなさい",
+    "question": "次の図形と辺の数\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "三角形",
       "四角形",
@@ -632,7 +632,7 @@
   {
     "id": 35,
     "type": "LINE_MATCHING",
-    "question": "次の動物と主な生息地を正しく結びなさい",
+    "question": "次の動物と主な生息地\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "ラクダ",
       "コアラ",
@@ -650,7 +650,7 @@
   {
     "id": 36,
     "type": "LINE_MATCHING",
-    "question": "次のゲーム作品と開発会社を正しく結びなさい",
+    "question": "次のゲーム作品と開発会社\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "ペルソナ5",
       "ダークソウル",
@@ -668,7 +668,7 @@
   {
     "id": 37,
     "type": "LINE_MATCHING",
-    "question": "次の楽器と発音方法を正しく結びなさい",
+    "question": "次の楽器と発音方法\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "バイオリン",
       "フルート",
@@ -686,7 +686,7 @@
   {
     "id": 38,
     "type": "LINE_MATCHING",
-    "question": "次の都道府県と県庁所在地を正しく結びなさい",
+    "question": "次の都道府県と県庁所在地\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "岩手県",
       "栃木県",
@@ -706,7 +706,7 @@
   {
     "id": 39,
     "type": "LINE_MATCHING",
-    "question": "次の惑星と特徴を正しく結びなさい",
+    "question": "次の惑星と特徴\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "水星",
       "金星",
@@ -726,7 +726,7 @@
   {
     "id": 40,
     "type": "LINE_MATCHING",
-    "question": "次の言語とその特徴を正しく結びなさい",
+    "question": "次の言語とその特徴\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "Python",
       "JavaScript",
@@ -744,7 +744,7 @@
   {
     "id": 41,
     "type": "LINE_MATCHING",
-    "question": "次の文学用語と意味を正しく結びなさい",
+    "question": "次の文学用語と意味\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "比喩",
       "擬人法",
@@ -762,7 +762,7 @@
   {
     "id": 42,
     "type": "LINE_MATCHING",
-    "question": "次の世界遺産と所在地を正しく結びなさい",
+    "question": "次の世界遺産と所在地\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "アンコールワット",
       "マチュピチュ",
@@ -780,7 +780,7 @@
   {
     "id": 43,
     "type": "LINE_MATCHING",
-    "question": "次のスポーツの日本語と英語を正しく結びなさい",
+    "question": "次のスポーツの日本語と英語\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "卓球",
       "蹴球",
@@ -798,7 +798,7 @@
   {
     "id": 44,
     "type": "LINE_MATCHING",
-    "question": "次の日本の郷土料理と発祥地を正しく結びなさい",
+    "question": "次の日本の郷土料理と発祥地\nの正しい組み合わせを選びなさい",
     "leftChoices": [
       "きりたんぽ",
       "ほうとう",
@@ -1270,6 +1270,1596 @@
       "鈴代紗弓",
       "長谷川育美",
       "水野朔"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 71,
+    "type": "LINE_MATCHING",
+    "question": "次の都道府県と県庁所在地\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "北海道",
+      "宮城県",
+      "神奈川県",
+      "愛知県",
+      "沖縄県"
+    ],
+    "rightChoices": [
+      "札幌市",
+      "仙台市",
+      "横浜市",
+      "名古屋市",
+      "那覇市"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 72,
+    "type": "LINE_MATCHING",
+    "question": "次の漢字とその部首の名称\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "海",
+      "花",
+      "語",
+      "鉄",
+      "晴"
+    ],
+    "rightChoices": [
+      "さんずい",
+      "くさかんむり",
+      "ごんべん",
+      "かねへん",
+      "ひへん"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 73,
+    "type": "LINE_MATCHING",
+    "question": "次の英単語と日本語での意味\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "rightChoices": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 74,
+    "type": "LINE_MATCHING",
+    "question": "次の植物と主に食べる部分\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "ニンジン",
+      "ジャガイモ",
+      "キャベツ",
+      "ブロッコリー",
+      "トマト"
+    ],
+    "rightChoices": [
+      "根",
+      "地下茎",
+      "葉",
+      "花のつぼみ",
+      "果実"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 75,
+    "type": "LINE_MATCHING",
+    "question": "次の単位とそれが表す量\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "メートル",
+      "グラム",
+      "リットル",
+      "秒",
+      "ヘクタール"
+    ],
+    "rightChoices": [
+      "長さ",
+      "質量",
+      "体積",
+      "時間",
+      "面積"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 76,
+    "type": "LINE_MATCHING",
+    "question": "次の音楽記号とその意味\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "p",
+      "f",
+      "pp",
+      "ff",
+      "mf"
+    ],
+    "rightChoices": [
+      "弱く",
+      "強く",
+      "とても弱く",
+      "とても強く",
+      "やや強く"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 77,
+    "type": "LINE_MATCHING",
+    "question": "次のことわざの前半と後半\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "犬も歩けば",
+      "猿も木から",
+      "河童の",
+      "石の上にも",
+      "急がば"
+    ],
+    "rightChoices": [
+      "棒に当たる",
+      "落ちる",
+      "川流れ",
+      "三年",
+      "回れ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 78,
+    "type": "LINE_MATCHING",
+    "question": "次の世界の国とその首都\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "日本",
+      "中国",
+      "イギリス",
+      "フランス",
+      "イタリア"
+    ],
+    "rightChoices": [
+      "東京",
+      "北京",
+      "ロンドン",
+      "パリ",
+      "ローマ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 79,
+    "type": "LINE_MATCHING",
+    "question": "次の歴史上の人物とその業績\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "聖徳太子",
+      "聖武天皇",
+      "源頼朝",
+      "足利義満",
+      "豊臣秀吉"
+    ],
+    "rightChoices": [
+      "十七条の憲法",
+      "東大寺の大仏建立",
+      "鎌倉幕府の成立",
+      "金閣の建立",
+      "太閤検地"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 80,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の川と河口がある都道府県\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "石狩川",
+      "最上川",
+      "信濃川",
+      "淀川",
+      "筑後川"
+    ],
+    "rightChoices": [
+      "北海道",
+      "山形県",
+      "新潟県",
+      "大阪府",
+      "福岡県と佐賀県"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 81,
+    "type": "LINE_MATCHING",
+    "question": "次の言葉とその品詞\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "走る",
+      "美しい",
+      "静かだ",
+      "とても",
+      "しかし"
+    ],
+    "rightChoices": [
+      "動詞",
+      "形容詞",
+      "形容動詞",
+      "副詞",
+      "接続詞"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 82,
+    "type": "LINE_MATCHING",
+    "question": "次の英語の動詞とその過去形\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "go",
+      "eat",
+      "see",
+      "take",
+      "write"
+    ],
+    "rightChoices": [
+      "went",
+      "ate",
+      "saw",
+      "took",
+      "wrote"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 83,
+    "type": "LINE_MATCHING",
+    "question": "次の立体図形と体積を求める公式\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "立方体",
+      "直方体",
+      "円柱",
+      "円錐",
+      "球"
+    ],
+    "rightChoices": [
+      "一辺×一辺×一辺",
+      "縦×横×高さ",
+      "底面積×高さ",
+      "底面積×高さ÷3",
+      "4π×半径³÷3"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 84,
+    "type": "LINE_MATCHING",
+    "question": "次の消化酵素と主に分解する物質\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "アミラーゼ",
+      "ペプシン",
+      "リパーゼ"
+    ],
+    "rightChoices": [
+      "デンプン",
+      "タンパク質",
+      "脂肪"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 85,
+    "type": "LINE_MATCHING",
+    "question": "次の国家機関とその役割\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "国会",
+      "内閣",
+      "裁判所"
+    ],
+    "rightChoices": [
+      "立法",
+      "行政",
+      "司法"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 86,
+    "type": "LINE_MATCHING",
+    "question": "次の音楽用語とその意味\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "アレグロ",
+      "アダージョ",
+      "アンダンテ",
+      "クレッシェンド",
+      "デクレッシェンド"
+    ],
+    "rightChoices": [
+      "速く",
+      "ゆるやかに",
+      "歩くような速さで",
+      "だんだん強く",
+      "だんだん弱く"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 87,
+    "type": "LINE_MATCHING",
+    "question": "次の日本史の出来事と起こった年\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "大化の改新の始まり",
+      "平城京への遷都",
+      "平安京への遷都",
+      "応仁の乱の始まり",
+      "関ヶ原の戦い"
+    ],
+    "rightChoices": [
+      "645年",
+      "710年",
+      "794年",
+      "1467年",
+      "1600年"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 88,
+    "type": "LINE_MATCHING",
+    "question": "次の文学作品とその作者\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "走れメロス",
+      "坊っちゃん",
+      "羅生門",
+      "銀河鉄道の夜",
+      "たけくらべ"
+    ],
+    "rightChoices": [
+      "太宰治",
+      "夏目漱石",
+      "芥川龍之介",
+      "宮沢賢治",
+      "樋口一葉"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 89,
+    "type": "LINE_MATCHING",
+    "question": "次の気候区分とその特徴\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "熱帯雨林気候",
+      "サバナ気候",
+      "砂漠気候",
+      "地中海性気候",
+      "ツンドラ気候"
+    ],
+    "rightChoices": [
+      "一年中高温多雨",
+      "雨季と乾季がある",
+      "降水量が極めて少ない",
+      "夏に乾燥する",
+      "短い夏にコケ類が育つ"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 90,
+    "type": "LINE_MATCHING",
+    "question": "次のビタミンと欠乏によって起こる症状\nの正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "ビタミンA",
+      "ビタミンB1",
+      "ビタミンC",
+      "ビタミンD",
+      "ビタミンK"
+    ],
+    "rightChoices": [
+      "夜盲症",
+      "脚気",
+      "壊血病",
+      "くる病",
+      "血液凝固の異常"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 91,
+    "type": "LINE_MATCHING",
+    "question": "次の都道府県と都道府県庁所在地の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "岩手県",
+      "栃木県",
+      "群馬県",
+      "石川県",
+      "香川県"
+    ],
+    "rightChoices": [
+      "盛岡市",
+      "宇都宮市",
+      "前橋市",
+      "金沢市",
+      "高松市"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 92,
+    "type": "LINE_MATCHING",
+    "question": "次の言葉とその対義語の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "賛成",
+      "増加",
+      "成功",
+      "開始",
+      "具体"
+    ],
+    "rightChoices": [
+      "反対",
+      "減少",
+      "失敗",
+      "終了",
+      "抽象"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 93,
+    "type": "LINE_MATCHING",
+    "question": "次の英単語と日本語での意味の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "library",
+      "hospital",
+      "station",
+      "school",
+      "museum"
+    ],
+    "rightChoices": [
+      "図書館",
+      "病院",
+      "駅",
+      "学校",
+      "博物館"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 94,
+    "type": "LINE_MATCHING",
+    "question": "次の昆虫と成虫の特徴の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "カブトムシ",
+      "チョウ",
+      "バッタ",
+      "カマキリ",
+      "セミ"
+    ],
+    "rightChoices": [
+      "雄に大きな角がある",
+      "翅に鱗粉がある",
+      "後脚で跳躍する",
+      "前脚が鎌状",
+      "雄が腹部で発音する"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 95,
+    "type": "LINE_MATCHING",
+    "question": "次の平面図形と面積を求める公式の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "正方形",
+      "長方形",
+      "三角形",
+      "台形",
+      "円"
+    ],
+    "rightChoices": [
+      "一辺×一辺",
+      "縦×横",
+      "底辺×高さ÷2",
+      "(上底+下底)×高さ÷2",
+      "半径×半径×円周率"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 96,
+    "type": "LINE_MATCHING",
+    "question": "次の漢字とその部首の名称の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "林",
+      "持",
+      "顔",
+      "近",
+      "病"
+    ],
+    "rightChoices": [
+      "きへん",
+      "てへん",
+      "おおがい",
+      "しんにょう",
+      "やまいだれ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 97,
+    "type": "LINE_MATCHING",
+    "question": "次の国とその国が属する州の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "インド",
+      "ドイツ",
+      "カナダ",
+      "ブラジル",
+      "南アフリカ共和国"
+    ],
+    "rightChoices": [
+      "アジア州",
+      "ヨーロッパ州",
+      "北アメリカ州",
+      "南アメリカ州",
+      "アフリカ州"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 98,
+    "type": "LINE_MATCHING",
+    "question": "次の音符と四分音符を1としたときの長さの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "全音符",
+      "二分音符",
+      "四分音符",
+      "八分音符",
+      "十六分音符"
+    ],
+    "rightChoices": [
+      "4",
+      "2",
+      "1",
+      "1/2",
+      "1/4"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 99,
+    "type": "LINE_MATCHING",
+    "question": "次の英語の曜日と日本語での意味の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "rightChoices": [
+      "月曜日",
+      "火曜日",
+      "水曜日",
+      "木曜日",
+      "金曜日"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 100,
+    "type": "LINE_MATCHING",
+    "question": "次の実験器具と主な用途の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "メスシリンダー",
+      "温度計",
+      "電子てんびん",
+      "顕微鏡",
+      "ろうと"
+    ],
+    "rightChoices": [
+      "液体の体積測定",
+      "温度の測定",
+      "質量の測定",
+      "微小な物体の観察",
+      "ろ過に利用"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 101,
+    "type": "LINE_MATCHING",
+    "question": "次のことわざの前半と後半の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "猫に",
+      "豚に",
+      "鬼に",
+      "馬の耳に",
+      "弘法にも"
+    ],
+    "rightChoices": [
+      "小判",
+      "真珠",
+      "金棒",
+      "念仏",
+      "筆の誤り"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 102,
+    "type": "LINE_MATCHING",
+    "question": "次の楽器とその演奏方法の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "リコーダー",
+      "バイオリン",
+      "ギター",
+      "シンバル",
+      "ピアノ"
+    ],
+    "rightChoices": [
+      "息を吹き込む",
+      "弓で弦をこする",
+      "指などで弦をはじく",
+      "金属板を打ち合わせる",
+      "鍵盤を押す"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 103,
+    "type": "LINE_MATCHING",
+    "question": "次の歴史上の人物とその業績の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "織田信長",
+      "徳川家康",
+      "徳川吉宗",
+      "松平定信",
+      "水野忠邦"
+    ],
+    "rightChoices": [
+      "楽市・楽座",
+      "江戸幕府の成立",
+      "享保の改革",
+      "寛政の改革",
+      "天保の改革"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 104,
+    "type": "LINE_MATCHING",
+    "question": "次の四字熟語とその意味の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "一石二鳥",
+      "自業自得",
+      "以心伝心",
+      "試行錯誤",
+      "十人十色"
+    ],
+    "rightChoices": [
+      "一度に二つの利益",
+      "自分の行いの報い",
+      "言葉なしで心が通じる",
+      "失敗を重ねて試す",
+      "人によって異なる"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 105,
+    "type": "LINE_MATCHING",
+    "question": "次の英語の形容詞とその比較級の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "good",
+      "bad",
+      "large",
+      "easy",
+      "big"
+    ],
+    "rightChoices": [
+      "better",
+      "worse",
+      "larger",
+      "easier",
+      "bigger"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 106,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の山地や山脈と主な位置の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "日高山脈",
+      "奥羽山脈",
+      "飛騨山脈",
+      "紀伊山地",
+      "筑紫山地"
+    ],
+    "rightChoices": [
+      "北海道地方",
+      "東北地方",
+      "中部地方",
+      "近畿地方",
+      "九州地方"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 107,
+    "type": "LINE_MATCHING",
+    "question": "次の状態変化とその内容の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "融解",
+      "凝固",
+      "蒸発",
+      "凝縮",
+      "昇華"
+    ],
+    "rightChoices": [
+      "固体から液体",
+      "液体から固体",
+      "液体から気体",
+      "気体から液体",
+      "固体から直接気体"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 108,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の伝統工芸品と主な産地の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "南部鉄器",
+      "輪島塗",
+      "西陣織",
+      "備前焼",
+      "有田焼"
+    ],
+    "rightChoices": [
+      "岩手県",
+      "石川県",
+      "京都府",
+      "岡山県",
+      "佐賀県"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 109,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の税金と主な課税対象の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "所得税",
+      "消費税",
+      "法人税",
+      "相続税",
+      "固定資産税"
+    ],
+    "rightChoices": [
+      "個人の所得",
+      "商品の販売など",
+      "法人の所得",
+      "相続した財産",
+      "土地や家屋など"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 110,
+    "type": "LINE_MATCHING",
+    "question": "次の植物の構造とその働きの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "根毛",
+      "道管",
+      "師管",
+      "気孔",
+      "葉緑体"
+    ],
+    "rightChoices": [
+      "水分や無機養分の吸収",
+      "水や無機養分の輸送",
+      "光合成産物の輸送",
+      "気体の出入り",
+      "光合成を行う"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 111,
+    "type": "LINE_MATCHING",
+    "question": "次の歴史上の出来事と関係の深い時代の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "墾田永年私財法",
+      "摂関政治の全盛",
+      "元寇",
+      "応仁の乱",
+      "参勤交代の制度化"
+    ],
+    "rightChoices": [
+      "奈良時代",
+      "平安時代",
+      "鎌倉時代",
+      "室町時代",
+      "江戸時代"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 112,
+    "type": "LINE_MATCHING",
+    "question": "次の美術作品とその作者の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "モナ・リザ",
+      "ひまわり",
+      "ゲルニカ",
+      "叫び",
+      "睡蓮"
+    ],
+    "rightChoices": [
+      "ダ・ヴィンチ",
+      "ゴッホ",
+      "ピカソ",
+      "ムンク",
+      "モネ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 113,
+    "type": "LINE_MATCHING",
+    "question": "次の電気回路の部品と主な役割の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "抵抗器",
+      "ダイオード",
+      "コンデンサ",
+      "スイッチ",
+      "電池"
+    ],
+    "rightChoices": [
+      "電流を制限する",
+      "電流を一方向に流す",
+      "電荷を蓄える",
+      "回路を開閉する",
+      "化学反応で電力供給"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 114,
+    "type": "LINE_MATCHING",
+    "question": "次の国際機関とその主な活動の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "WHO",
+      "UNICEF",
+      "UNESCO",
+      "WTO",
+      "ILO"
+    ],
+    "rightChoices": [
+      "世界の保健衛生",
+      "子どもの支援",
+      "教育・科学・文化",
+      "国際貿易の促進",
+      "労働条件の改善"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 115,
+    "type": "LINE_MATCHING",
+    "question": "次の日本史の条約と締結された年の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "日米和親条約",
+      "日米修好通商条約",
+      "下関条約",
+      "ポーツマス条約",
+      "日韓基本条約"
+    ],
+    "rightChoices": [
+      "1854年",
+      "1858年",
+      "1895年",
+      "1905年",
+      "1965年"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 116,
+    "type": "LINE_MATCHING",
+    "question": "次の古典文学作品とその作者の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "源氏物語",
+      "枕草子",
+      "徒然草",
+      "方丈記",
+      "おくのほそ道"
+    ],
+    "rightChoices": [
+      "紫式部",
+      "清少納言",
+      "吉田兼好",
+      "鴨長明",
+      "松尾芭蕉"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 117,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の工業地帯・工業地域と主な中心都市の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "京浜工業地帯",
+      "中京工業地帯",
+      "阪神工業地帯",
+      "北九州工業地域",
+      "東海工業地域"
+    ],
+    "rightChoices": [
+      "川崎市",
+      "名古屋市",
+      "大阪市",
+      "北九州市",
+      "浜松市"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 118,
+    "type": "LINE_MATCHING",
+    "question": "次の物質と水溶液中で生じる陰イオンの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "塩化ナトリウム",
+      "硝酸カリウム",
+      "硫酸銅",
+      "水酸化ナトリウム",
+      "炭酸ナトリウム"
+    ],
+    "rightChoices": [
+      "塩化物イオン",
+      "硝酸イオン",
+      "硫酸イオン",
+      "水酸化物イオン",
+      "炭酸イオン"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 119,
+    "type": "LINE_MATCHING",
+    "question": "次のクラシック音楽の作品と作曲者の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "魔王",
+      "四季",
+      "交響曲第5番「運命」",
+      "アイネ・クライネ",
+      "組曲「展覧会の絵」"
+    ],
+    "rightChoices": [
+      "シューベルト",
+      "ヴィヴァルディ",
+      "ベートーヴェン",
+      "モーツァルト",
+      "ムソルグスキー"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 120,
+    "type": "LINE_MATCHING",
+    "question": "次の日本国憲法の条文と主な内容の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "第9条",
+      "第14条",
+      "第19条",
+      "第25条",
+      "第26条"
+    ],
+    "rightChoices": [
+      "戦争の放棄",
+      "法の下の平等",
+      "思想及び良心の自由",
+      "生存権",
+      "教育を受ける権利"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 121,
+    "type": "LINE_MATCHING",
+    "question": "次の都道府県と都道府県庁所在地の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "岩手県",
+      "栃木県",
+      "群馬県",
+      "石川県",
+      "香川県"
+    ],
+    "rightChoices": [
+      "盛岡市",
+      "宇都宮市",
+      "前橋市",
+      "金沢市",
+      "高松市"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 122,
+    "type": "LINE_MATCHING",
+    "question": "次の言葉とその対義語の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "賛成",
+      "増加",
+      "成功",
+      "開始",
+      "具体"
+    ],
+    "rightChoices": [
+      "反対",
+      "減少",
+      "失敗",
+      "終了",
+      "抽象"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 123,
+    "type": "LINE_MATCHING",
+    "question": "次の英単語と日本語での意味の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "library",
+      "hospital",
+      "station",
+      "school",
+      "museum"
+    ],
+    "rightChoices": [
+      "図書館",
+      "病院",
+      "駅",
+      "学校",
+      "博物館"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 124,
+    "type": "LINE_MATCHING",
+    "question": "次の昆虫と成虫の特徴の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "カブトムシ",
+      "チョウ",
+      "バッタ",
+      "カマキリ",
+      "セミ"
+    ],
+    "rightChoices": [
+      "雄に大きな角がある",
+      "翅に鱗粉がある",
+      "後脚で跳躍する",
+      "前脚が鎌状",
+      "雄が腹部で発音する"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 125,
+    "type": "LINE_MATCHING",
+    "question": "次の平面図形と面積を求める公式の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "正方形",
+      "長方形",
+      "三角形",
+      "台形",
+      "円"
+    ],
+    "rightChoices": [
+      "一辺×一辺",
+      "縦×横",
+      "底辺×高さ÷2",
+      "(上底+下底)×高さ÷2",
+      "半径×半径×円周率"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 126,
+    "type": "LINE_MATCHING",
+    "question": "次の漢字とその部首の名称の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "林",
+      "持",
+      "顔",
+      "近",
+      "病"
+    ],
+    "rightChoices": [
+      "きへん",
+      "てへん",
+      "おおがい",
+      "しんにょう",
+      "やまいだれ"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 127,
+    "type": "LINE_MATCHING",
+    "question": "次の国とその国が属する州の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "インド",
+      "ドイツ",
+      "カナダ",
+      "ブラジル",
+      "南アフリカ共和国"
+    ],
+    "rightChoices": [
+      "アジア州",
+      "ヨーロッパ州",
+      "北アメリカ州",
+      "南アメリカ州",
+      "アフリカ州"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 128,
+    "type": "LINE_MATCHING",
+    "question": "次の音符と四分音符を1としたときの長さの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "全音符",
+      "二分音符",
+      "四分音符",
+      "八分音符",
+      "十六分音符"
+    ],
+    "rightChoices": [
+      "4",
+      "2",
+      "1",
+      "1/2",
+      "1/4"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 129,
+    "type": "LINE_MATCHING",
+    "question": "次の英語の曜日と日本語での意味の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "rightChoices": [
+      "月曜日",
+      "火曜日",
+      "水曜日",
+      "木曜日",
+      "金曜日"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 130,
+    "type": "LINE_MATCHING",
+    "question": "次の実験器具と主な用途の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "メスシリンダー",
+      "温度計",
+      "電子てんびん",
+      "顕微鏡",
+      "ろうと"
+    ],
+    "rightChoices": [
+      "液体の体積測定",
+      "温度の測定",
+      "質量の測定",
+      "微小な物体の観察",
+      "ろ過に利用"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 131,
+    "type": "LINE_MATCHING",
+    "question": "次のことわざの前半と後半の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "猫に",
+      "豚に",
+      "鬼に",
+      "馬の耳に",
+      "弘法にも"
+    ],
+    "rightChoices": [
+      "小判",
+      "真珠",
+      "金棒",
+      "念仏",
+      "筆の誤り"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 132,
+    "type": "LINE_MATCHING",
+    "question": "次の楽器とその演奏方法の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "リコーダー",
+      "バイオリン",
+      "ギター",
+      "シンバル",
+      "ピアノ"
+    ],
+    "rightChoices": [
+      "息を吹き込む",
+      "弓で弦をこする",
+      "指などで弦をはじく",
+      "金属板を打ち合わせる",
+      "鍵盤を押す"
+    ],
+    "difficulty": "EASY"
+  },
+  {
+    "id": 133,
+    "type": "LINE_MATCHING",
+    "question": "次の歴史上の人物とその業績の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "織田信長",
+      "徳川家康",
+      "徳川吉宗",
+      "松平定信",
+      "水野忠邦"
+    ],
+    "rightChoices": [
+      "楽市・楽座",
+      "江戸幕府の成立",
+      "享保の改革",
+      "寛政の改革",
+      "天保の改革"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 134,
+    "type": "LINE_MATCHING",
+    "question": "次の四字熟語とその意味の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "一石二鳥",
+      "自業自得",
+      "以心伝心",
+      "試行錯誤",
+      "十人十色"
+    ],
+    "rightChoices": [
+      "一度に二つの利益",
+      "自分の行いの報い",
+      "言葉なしで心が通じる",
+      "失敗を重ねて試す",
+      "人によって異なる"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 135,
+    "type": "LINE_MATCHING",
+    "question": "次の英語の形容詞とその比較級の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "good",
+      "bad",
+      "large",
+      "easy",
+      "big"
+    ],
+    "rightChoices": [
+      "better",
+      "worse",
+      "larger",
+      "easier",
+      "bigger"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 136,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の山地や山脈と主な位置の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "日高山脈",
+      "奥羽山脈",
+      "飛騨山脈",
+      "紀伊山地",
+      "筑紫山地"
+    ],
+    "rightChoices": [
+      "北海道地方",
+      "東北地方",
+      "中部地方",
+      "近畿地方",
+      "九州地方"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 137,
+    "type": "LINE_MATCHING",
+    "question": "次の状態変化とその内容の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "融解",
+      "凝固",
+      "蒸発",
+      "凝縮",
+      "昇華"
+    ],
+    "rightChoices": [
+      "固体から液体",
+      "液体から固体",
+      "液体から気体",
+      "気体から液体",
+      "固体から直接気体"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 138,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の伝統工芸品と主な産地の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "南部鉄器",
+      "輪島塗",
+      "西陣織",
+      "備前焼",
+      "有田焼"
+    ],
+    "rightChoices": [
+      "岩手県",
+      "石川県",
+      "京都府",
+      "岡山県",
+      "佐賀県"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 139,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の税金と主な課税対象の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "所得税",
+      "消費税",
+      "法人税",
+      "相続税",
+      "固定資産税"
+    ],
+    "rightChoices": [
+      "個人の所得",
+      "商品の販売など",
+      "法人の所得",
+      "相続した財産",
+      "土地や家屋など"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 140,
+    "type": "LINE_MATCHING",
+    "question": "次の植物の構造とその働きの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "根毛",
+      "道管",
+      "師管",
+      "気孔",
+      "葉緑体"
+    ],
+    "rightChoices": [
+      "水分や無機養分の吸収",
+      "水や無機養分の輸送",
+      "光合成産物の輸送",
+      "気体の出入り",
+      "光合成を行う"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 141,
+    "type": "LINE_MATCHING",
+    "question": "次の歴史上の出来事と関係の深い時代の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "墾田永年私財法",
+      "摂関政治の全盛",
+      "元寇",
+      "応仁の乱",
+      "参勤交代の制度化"
+    ],
+    "rightChoices": [
+      "奈良時代",
+      "平安時代",
+      "鎌倉時代",
+      "室町時代",
+      "江戸時代"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 142,
+    "type": "LINE_MATCHING",
+    "question": "次の美術作品とその作者の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "モナ・リザ",
+      "ひまわり",
+      "ゲルニカ",
+      "叫び",
+      "睡蓮"
+    ],
+    "rightChoices": [
+      "ダ・ヴィンチ",
+      "ゴッホ",
+      "ピカソ",
+      "ムンク",
+      "モネ"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 143,
+    "type": "LINE_MATCHING",
+    "question": "次の電気回路の部品と主な役割の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "抵抗器",
+      "ダイオード",
+      "コンデンサ",
+      "スイッチ",
+      "電池"
+    ],
+    "rightChoices": [
+      "電流を制限する",
+      "電流を一方向に流す",
+      "電荷を蓄える",
+      "回路を開閉する",
+      "化学反応で電力供給"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 144,
+    "type": "LINE_MATCHING",
+    "question": "次の国際機関とその主な活動の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "WHO",
+      "UNICEF",
+      "UNESCO",
+      "WTO",
+      "ILO"
+    ],
+    "rightChoices": [
+      "世界の保健衛生",
+      "子どもの支援",
+      "教育・科学・文化",
+      "国際貿易の促進",
+      "労働条件の改善"
+    ],
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 145,
+    "type": "LINE_MATCHING",
+    "question": "次の日本史の条約と締結された年の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "日米和親条約",
+      "日米修好通商条約",
+      "下関条約",
+      "ポーツマス条約",
+      "日韓基本条約"
+    ],
+    "rightChoices": [
+      "1854年",
+      "1858年",
+      "1895年",
+      "1905年",
+      "1965年"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 146,
+    "type": "LINE_MATCHING",
+    "question": "次の古典文学作品とその作者の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "源氏物語",
+      "枕草子",
+      "徒然草",
+      "方丈記",
+      "おくのほそ道"
+    ],
+    "rightChoices": [
+      "紫式部",
+      "清少納言",
+      "吉田兼好",
+      "鴨長明",
+      "松尾芭蕉"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 147,
+    "type": "LINE_MATCHING",
+    "question": "次の日本の工業地帯・工業地域と主な中心都市の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "京浜工業地帯",
+      "中京工業地帯",
+      "阪神工業地帯",
+      "北九州工業地域",
+      "東海工業地域"
+    ],
+    "rightChoices": [
+      "川崎市",
+      "名古屋市",
+      "大阪市",
+      "北九州市",
+      "浜松市"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 148,
+    "type": "LINE_MATCHING",
+    "question": "次の物質と水溶液中で生じる陰イオンの\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "塩化ナトリウム",
+      "硝酸カリウム",
+      "硫酸銅",
+      "水酸化ナトリウム",
+      "炭酸ナトリウム"
+    ],
+    "rightChoices": [
+      "塩化物イオン",
+      "硝酸イオン",
+      "硫酸イオン",
+      "水酸化物イオン",
+      "炭酸イオン"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 149,
+    "type": "LINE_MATCHING",
+    "question": "次のクラシック音楽の作品と作曲者の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "魔王",
+      "四季",
+      "交響曲第5番「運命」",
+      "アイネ・クライネ",
+      "組曲「展覧会の絵」"
+    ],
+    "rightChoices": [
+      "シューベルト",
+      "ヴィヴァルディ",
+      "ベートーヴェン",
+      "モーツァルト",
+      "ムソルグスキー"
+    ],
+    "difficulty": "HARD"
+  },
+  {
+    "id": 150,
+    "type": "LINE_MATCHING",
+    "question": "次の日本国憲法の条文と主な内容の\n正しい組み合わせを選びなさい",
+    "leftChoices": [
+      "第9条",
+      "第14条",
+      "第19条",
+      "第25条",
+      "第26条"
+    ],
+    "rightChoices": [
+      "戦争の放棄",
+      "法の下の平等",
+      "思想及び良心の自由",
+      "生存権",
+      "教育を受ける権利"
     ],
     "difficulty": "HARD"
   }
