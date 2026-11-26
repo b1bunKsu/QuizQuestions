@@ -492,7 +492,7 @@
   {
     "id": 71,
     "type": "CUBE",
-    "question": "全体の流れや処理能力を\n妨げる要因や箇所",
+    "question": "全体の流れや処理能力を妨げる要因や箇所",
     "answer": "ボトルネック",
     "difficulty": "NORMAL"
   }
