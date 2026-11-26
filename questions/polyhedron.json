@@ -474,5 +474,26 @@
     "question": "寒い時に身体を温めようとブルブル震える現象",
     "answer": "シバリング",
     "difficulty": "HARD"
+  },
+  {
+    "id": 69,
+    "type": "CUBE",
+    "question": "現場の意見や提案を集めて\n意思決定や施策につなげる方式",
+    "answer": "ボトムアップ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 70,
+    "type": "CUBE",
+    "question": "上層部が決定して現場へ指示する方式",
+    "answer": "トップダウン",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 71,
+    "type": "CUBE",
+    "question": "全体の流れや処理能力を\n妨げる要因や箇所",
+    "answer": "ボトルネック",
+    "difficulty": "NORMAL"
   }
 ]
