@@ -874,5 +874,168 @@
     "hint": "n-buna",
     "answer": "ナブナ",
     "difficulty": "NORMAL"
+  },
+  {
+    "id": 109,
+    "type": "EFFECT",
+    "question": "当たったら死んでしまいます",
+    "hint": "河豚",
+    "answer": "フグ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 110,
+    "type": "EFFECT",
+    "question": "花を咲かせずに実をつけるように見えるため\nこの漢字が当てられた果物",
+    "hint": "無花果",
+    "answer": "イチジク",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 111,
+    "type": "EFFECT",
+    "question": "『デジモンアドベンチャー』のOP曲『Butter-Fly』の\n作詞・作曲を担当",
+    "hint": "千綿偉功",
+    "answer": "ちわたひでのり",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 112,
+    "type": "EFFECT",
+    "question": "『デジモンアドベンチャー』のOP曲『Butter-Fly』の\n歌唱を担当",
+    "hint": "和田光司",
+    "answer": "わだこうじ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 113,
+    "type": "EFFECT",
+    "question": "『ヴァンパイア』などで知られるボカロP",
+    "hint": "DECO*27",
+    "answer": "デコニーナ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 114,
+    "type": "EFFECT",
+    "question": "地球上のある地点に対して、地球の中心を通る直線の\nちょうど反対側にある地点",
+    "hint": "対蹠点",
+    "answer": "たいせきてん",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 115,
+    "type": "EFFECT",
+    "question": "種をまくこと",
+    "hint": "播種",
+    "answer": "はしゅ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 116,
+    "type": "EFFECT",
+    "question": "水面に浮かぶ船の船体と水面が接する境界線",
+    "hint": "喫水線",
+    "answer": "きっすいせん",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 117,
+    "type": "EFFECT",
+    "question": "建物の高さや断面の詳細を示す図面",
+    "hint": "矩計図",
+    "answer": "かなばかりず",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 118,
+    "type": "EFFECT",
+    "question": "回転している物体の回転軸が、別の軸を中心にして\n円を描くようにゆっくりと向きを変える現象",
+    "hint": "歳差",
+    "answer": "さいさ",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 119,
+    "type": "EFFECT",
+    "question": "叫びすぎてしまいました",
+    "hint": "嗄声",
+    "answer": "させい",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 120,
+    "type": "EFFECT",
+    "question": "仰向けを医療用語で？",
+    "hint": "仰臥位",
+    "answer": "ぎょうがい",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 121,
+    "type": "EFFECT",
+    "question": "うつ伏せを医療用語で？",
+    "hint": "腹臥位",
+    "answer": "ふくがい",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 122,
+    "type": "EFFECT",
+    "question": "細胞培養において増殖した細胞の一部を\n新しい培養容器と新鮮な培地に移し替える操作",
+    "hint": "継代",
+    "answer": "けいだい",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 123,
+    "type": "EFFECT",
+    "question": "核酸の塩基同士が特定の組み合わせで結合する性質",
+    "hint": "相補性",
+    "answer": "そうほせい",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 124,
+    "type": "EFFECT",
+    "question": "発生生物学で、胚の各部分が将来どのような\n組織や器官に分化するかを示すもの",
+    "hint": "予定運命",
+    "answer": "よていうんめい",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 125,
+    "type": "EFFECT",
+    "question": "生物が刺激の方向に応じて移動する性質",
+    "hint": "趨性",
+    "answer": "すうせい",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 126,
+    "type": "EFFECT",
+    "question": "生物が新たな環境条件に生理的に適応すること",
+    "hint": "馴化",
+    "answer": "じゅんか",
+    "difficulty": "NORMAL"
+  },
+  {
+    "id": 127,
+    "type": "EFFECT",
+    "question": "北海道上川地方の北部にある村",
+    "hint": "音威子府",
+    "answer": "おといねっぷ",
+    "difficulty": "HARD"
+  },
+  {
+    "id": 128,
+    "type": "EFFECT",
+    "question": "自然のままで人の作為やとらわれがない理想郷",
+    "hint": "無何有郷",
+    "answer": [
+      "むかゆうきょう",
+      "むかうのきょう"
+    ],
+    "difficulty": "HARD"
   }
 ]
