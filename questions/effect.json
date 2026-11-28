@@ -1045,5 +1045,13 @@
     "hint": "兜虫",
     "answer": "カブトムシ",
     "difficulty": "HARD"
+  },
+  {
+    "id": 130,
+    "type": "EFFECT",
+    "question": "語句や文章の中に誤って入ってしまった\n不要な文字",
+    "hint": "衍字",
+    "answer": "えんじ",
+    "difficulty": "HARD"
   }
 ]
