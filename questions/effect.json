@@ -1037,5 +1037,13 @@
       "むかうのきょう"
     ],
     "difficulty": "HARD"
+  },
+  {
+    "id": 129,
+    "type": "EFFECT",
+    "question": "昆虫採集の標的にされがち",
+    "hint": "兜虫",
+    "answer": "カブトムシ",
+    "difficulty": "HARD"
   }
 ]
